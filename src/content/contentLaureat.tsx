@@ -314,7 +314,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Director Chris Mathias',
+    subtitle: 'Doctor Chris Mathias',
     content1:
       "Dr. Chris Mathias is a Senior Affiliate at HCM Strategists and a Founding Partner at Brumback Associates LLC, specializing in K16+ education consultancy. With over two decades of experience, Dr. Mathias has held significant roles across K-12 and higher education systems, as well as elected office. In addition to his academic and professional roles, Dr. Mathias is the only Black member of Idaho's legislature, representing District 19 in the Idaho House of Representatives. He is also a member of Idaho's Criminal Justice Commission and the National Black Caucus of State Legislators, demonstrating his leadership and advocacy in public service.",
     content2:
@@ -395,7 +395,7 @@ const contentLaureat = () => [
   },
   {
     title: 'CIVIL ENGINEERING',
-    subtitle: 'Director Gedafa',
+    subtitle: 'Doctor Gedafa',
     content1:
       'Dr. Gedafa holds a Ph.D. in Civil Engineering and is known for his expertise in pavement and materials engineering. His professional career includes serving on multiple committees and panels, including the National Cooperative Highway Research Program (NCHRP) and the Transportation Research Board (TRB). He has also been an ABET program evaluator and a reviewer for numerous journals and conferences.',
     content2:
