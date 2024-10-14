@@ -1,3 +1,4 @@
+/* eslint-disable no-irregular-whitespace */
 const contentLaureat = () => [
   {
     title: 'ENTREPRENEUR',
@@ -534,7 +535,7 @@ const contentLaureat = () => [
   },
   {
     title: 'HEALTH',
-    subtitle: 'Dr. Patrice A. Harris',
+    subtitle: 'Patrice A. Harris',
     content1:
       'Dr. Patrice A. Harris is a renowned psychiatrist and the first African American woman to be elected as the President of the American Medical Association (AMA), serving from 2019 to 2020. With a diverse career in public health, clinical practice, and medical education, she has been a powerful advocate for health equity and the integration of public health and behavioral health services.',
     content2:
@@ -543,7 +544,7 @@ const contentLaureat = () => [
   },
   {
     title: 'ENTREPRENEUR',
-    subtitle: 'Dr. Michelle Foster',
+    subtitle: 'Michelle Foster',
     content1:
       'Dr. Michelle Foster is the President and CEO of The Greater Kanawha Valley Foundation (TGKVF), the largest community foundation in Central Appalachia. TGKVF funds initiatives in education, health, community economic development, basic needs, and arts & culture, granting more than $13 million annually to benefit low-wealth individuals. Before joining TGKVF, Dr. Foster was the CEO of the Kanawha Institute for Social Research & Action, Inc. (KISRA), where she led efforts to strengthen West Virginia families through health, employment, and learning initiatives.',
     content2:
@@ -552,7 +553,7 @@ const contentLaureat = () => [
   },
   {
     title: 'ADMINISTRATION/EDUCATION',
-    subtitle: 'Dr. Ranjita Misra',
+    subtitle: 'Ranjita Misra',
     content1:
       'Dr. Ranjita Misra is a distinguished Full Professor in the Department of Social and Behavioral Sciences and serves as the Director of the Public Health Training Center at the West Virginia University (WVU) School of Public Health. She is renowned for her expertise in health disparities, particularly in the areas of diabetes, metabolic syndrome, and cardiovascular disease (CVD). She has led numerous randomized clinical trials focused on disease prevention and management in community- and faith-based settings as well as clinics, utilizing cost-effective models such as community health workers and health coaches.',
     content2:
@@ -561,7 +562,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Chiquita Howard-Bostic',
+    subtitle: 'Chiquita Howard-Bostic',
     content1: `Dr. Chiquita Howard-Bostic is the Associate Vice President of Diversity, Equity, and Inclusivity and Chair of the Department of Sociology, Criminology, and Criminal Justice at Shepherd University. She holds a Ph.D. in Sociology from Virginia Tech and degrees in Legal Studies and Urban Planning from SUNY Buffalo. Renowned for her work in social justice, she founded "Help Bridge" to promote leadership and justice education.`,
     content2:
       "Her academic contributions have been recognized through numerous awards, including the Storer College Award for incorporating diversity and social justice into her teaching, the Outstanding Teacher Award, the Outstanding Service Award, and the Outstanding Academic Advisor Award at Shepherd University. In addition, she was named the 2018 Distinguished Alumni for the SUNY Buffalo Educational Opportunity Program and received the 2020 West Virginia Mother of the Year award from American Mothers, along with the 2021 WV Governor's Living the Dream award.",
@@ -618,170 +619,170 @@ const contentLaureat = () => [
     content2: `Parker is renowned for his expertise in automotive detailing and his dedication to delivering showroom-quality services. His business, Elk City Auto Spa, founded in 2019, has received significant recognition, including winning the "Best Detail in The Valley" award for two consecutive years (2019 and 2020).`,
     state: 'WEST VIRGINIA',
   },
-  {
-    title: 'LAW',
-    subtitle: 'Danielle M. Conway',
-    content1:
-      "Danielle M. Conway is a prominent legal scholar and academic leader known for her expertise in government procurement law, intellectual property law, and public procurement. She currently serves as the Dean and Donald J. Farage Professor of Law at Penn State Dickinson Law. Conway's career has been marked by significant achievements in both academia and public service.",
-    content2:
-      "Danielle Conway's contributions have been recognized with several prestigious awards. In 2022, she was inducted into the National HBCU Pre-Law Hall of Fame, acknowledging her impact and leadership in legal education and her dedication to supporting historically Black colleges and universities (HBCUs). Conway has also received the Founder's Award from the Society of American Law Teachers (SALT) and the Clyde Ferguson Award from the Association of American Law Schools (AALS).",
-    state: 'MAINE',
-  },
-  {
-    title: 'LAW',
-    subtitle: 'Safiya Khalid',
-    content1:
-      'Safiya Khalid is a pioneering politician and community advocate, known for making history as the first Somali-American and the youngest person ever elected to the Lewiston City Council in Maine. Born in Somalia, Safiya immigrated to the United States as a refugee at the age of seven, initially settling in New Jersey before moving to Lewiston, Maine. Throughout her career, Safiya has received several accolades for her leadership and impact, including the Emerge Maine Alumna Award and the Young Politician of the Year by the Maine Democratic Party.',
-    content2: '',
-    state: 'MAINE',
-  },
-  {
-    title: 'WRITER / COMMUNITY',
-    subtitle: 'Jerry Edwards',
-    content1:
-      'Jerry Edwards, also known as Genius Black, is a social innovator, entrepreneur, and musical artist based in South Portland, Maine. He is recognized for his work in collaboration, audio/video production, and community advocacy. Edwards co-founded Black Owned Maine, a directory and resource hub for Black-owned businesses in Maine. He also runs GEM CITY, a collaborative network of musical talent.',
-    content2:
-      "Edwards has been acknowledged for his contributions to the arts and community development. He was the Stage Cannabis December Artist of the Month and participated in the IGNITE Arts Business Incubator offered by Engine, Biddeford. His work has been instrumental in promoting diversity, equity, and inclusion in Maine's cultural landscape.",
-    state: 'MAINE',
-  },
-  {
-    title: 'ENTREPRENEUR',
-    subtitle: 'Claude Rwaganje',
-    content1:
-      "Claude Rwaganje is a prominent community leader, social innovator, and advocate for financial literacy and immigrant integration in Maine. He is the Founder and Executive Director of ProsperityME, a non-profit organization dedicated to helping Maine's immigrants and refugees achieve financial stability and build successful lives in their new homeland.",
-    content2:
-      "Claude's contributions have been recognized with several prestigious awards. These include the Spirit of Service Award from Bowdoin College (2012), the Harward Center Community Partner Award for Outstanding New Initiative from Bates College (2013), and the Public Sector Leadership Award from the Portland Regional Chamber of Commerce (2017). He was also named among the 10 Mainers to be Thankful For by the Portland Press Herald in 2012.",
-    state: 'MAINE',
-  },
-  {
-    title: 'ENVIRONMENT',
-    subtitle: 'Amara Ifeji',
-    content1:
-      "Amara Ifeji is an acclaimed environmental and racial justice advocate known for her work in environmental science, policy, and community activism. She currently serves as the Grassroots Development Coordinator for the Maine Environmental Education Association (MEEA). Ifeji's career has been marked by significant achievements in both activism and environmental education.",
-    content2:
-      "Amara Ifeji's contributions have been recognized with several prestigious awards. She was honored with the North American Association for Environmental Education 30 Under 30 Award, acknowledging her impact and leadership in environmental education and advocacy. Additionally, she received the National Geographic Young Explorer Award, highlighting her dedication to addressing complex environmental and social justice issues through her work.",
-    state: 'MAINE',
-  },
-  {
-    title: 'HEALTH / COMMUNITY',
-    subtitle: `Gabrielle "Gaby" Barboza`,
-    content1:
-      'Gabrielle Barboza is a dynamic health and wellness advocate known for her impactful work through her business, Lively and Well. Dedicated to promoting holistic health within her community, Gaby provides personalized health coaching, wellness workshops, and community initiatives aimed at fostering overall well-being. Her approach integrates physical, mental, and emotional health, ensuring a comprehensive path to wellness for her clients.',
-    content2:
-      "Gabrielle Barboza's contributions have been recognized with several prestigious awards. She has been honored with the Maine Community Health Leader Award, acknowledging her significant impact and leadership in promoting health and wellness in the community. Additionally, she received the Wellness Innovator Award from the Maine Health Association, highlighting her innovative approach to health education and advocacy.",
-    state: 'MAINE',
-  },
-  {
-    title: 'PSYCHOTHERAPY',
-    subtitle: 'Michael Arthur',
-    content1:
-      "Michael Arthur is a dedicated and experienced Licensed Professional Counselor based in Brunswick, Maine. With a strong commitment to helping individuals navigate life's challenges, Michael offers compassionate and effective counseling services tailored to meet the unique needs of his clients.",
-    content2:
-      "Michael Arthur's contributions to the field of mental health have been recognized with several prestigious awards. He has received the Maine Counseling Association Outstanding Counselor Award. Additionally, he was honored with the Community Mental Health Leader Award by the Brunswick Health Coalition for his efforts in promoting mental health awareness and support within the community.",
-    state: 'MAINE',
-  },
-  {
-    title: 'POLITICS',
-    subtitle: 'Reginald Parson',
-    content1:
-      "Reginald Parson is a prominent political advisor and community leader known for his extensive work in public policy and legislative affairs. He currently serves as the Deputy Director for the Maine Paid Family and Medical Leave Program. Parson's career has been marked by significant achievements in both public service and community advocacy.",
-    content2:
-      "Reginald Parson's contributions have been recognized with several prestigious awards. He has received the Maine Law Distinguished Service Award for his outstanding commitment to public service and leadership in the legal community. Additionally, he was honored with the Racial Justice Champion Award from the Maine Justice Foundation, acknowledging his efforts to promote racial equity and justice within the state.",
-    state: 'MAINE',
-  },
-  {
-    title: 'HEALTH',
-    subtitle: 'Dr. Florence S Edwards',
-    content1: `Dr. Florence S Edwards is deeply committed to community service, particularly within BIPOC and LGBTQ+ communities. She founded the Fourth Friday Happy Hour for BIPOC in 2019 to foster community conversations and support. During the COVID-19 pandemic, she expanded these efforts by creating a radio show, "In the Pocket," on WMPG, which serves as a platform for BIPOC community members to discuss their work and share their stories.`,
-    content2:
-      "In recognition of her efforts to promote oral health, Dr. Edwards received the Gold Star Champion Award from Maine's Breathe Easy campaign in 2021. This award honored her advocacy against the use of menthol-flavored cigarettes and e-cigarettes, highlighting their negative impact on oral health. Dr. Edwards is also a board member of The Third Place and Equality Maine, organizations dedicated to building strong communities and promoting equality.",
-    state: 'MAINE',
-  },
-  {
-    title: 'REAL ESTATE',
-    subtitle: 'Tia Morrell',
-    content1:
-      'Tia Morrell is a dedicated and accomplished real estate professional known for her expertise and exceptional service in the Maine real estate market. She currently serves as a Real Estate Agent at Landing Homes in Auburn, Maine, specializing in helping clients navigate the complexities of buying and selling properties. Her contributions have been recognized with several awards, including the Top Real Estate Agent Award from Maine Real Estate Network and the Excellence in Sales Award.',
-    content2: '',
-    state: 'MAINE',
-  },
-  {
-    title: 'CONSULTANCY',
-    subtitle: 'Zach Van Harris Jr',
-    content1:
-      'Zach Van Harris Jr. is a distinguished historian, researcher, and curator dedicated to uncovering and preserving African American history in South Dakota. He serves as the Chief Researcher and Curator at the South Dakota African American History Museum, located in the Washington Pavilion in Sioux Falls. In addition to his role at the museum, he is a Senior PR & Marketing Strategist for Galaxy Consulting Group LLC and a co-founder and consultant for Success Definers.',
-    content2:
-      "Zach actively participates in various boards and leadership programs, including the Billie Sutton Leadership Institute, Make-A-Wish South Dakota & Montana, Emily's Hope, Sioux Falls Convention and Visitors Bureau (Past President), Sioux Falls Sports Authority, and Sioux Falls Chamber Music Collective.",
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'MEDIA',
-    subtitle: 'Alena Neves',
-    content1: `Alena Neves is an experienced journalist and the Morning News Anchor for "GOOD MORNING BLACK HILLS" on KOTA-TV/KEVN FOX/ABC. She has over 21 years of experience in broadcast media, with a Bachelor's degree in Communications from Howard University. Alena has worked in various roles, including Digital Broadcast Journalist, Communication Strategist, and Producer. She is dedicated to community engagement, using her platform to highlight important issues and stories.`,
-    content2: '',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'DATA SCIENTIST',
-    subtitle: 'Docteur David Kariuki',
-    content1:
-      'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
-    content2:
-      'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'SCIENCE',
-    subtitle: 'Martinson Ofori',
-    content1:
-      "Martinson Ofori is a prominent researcher and adjunct faculty member at Dakota State University's College of Business and Information Systems. Originally from Kumasi, Ghana, Ofori has pursued an extensive academic career, earning a Ph.D. in Information Systems, an M.S. in Computer Science, and an MBA in Finance from Dakota State University. He also holds a B.S. in Computer Science from Garden City University College.",
-    content2:
-      'Throughout his academic journey, Ofori has been recognized for his contributions to research and academia, including being featured on South Dakota Public Broadcasting and presenting at the 2019 IEEE Big Data Conference in Los Angeles. His collaborative research efforts with Dr. Omar El-Gayar have resulted in significant publications and presentations in the field of smart agriculture.',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'CYBERSECURITY',
-    subtitle: 'Francisca Afua Opoku-Boateng',
-    content1:
-      'Francisca Afua Opoku-Boateng is an accomplished cybersecurity professional and an assistant professor at Dakota State University. She specializes in Digital Forensics and Cybersecurity Principles, focusing on areas such as dark web investigations, open-source intelligence (OSINT), and cyber threat intelligence. She holds a Ph.D. in Cyber Defense and has a robust academic and professional background, including an MSc in Computer Science and Information Systems from the University of Michigan and a graduate certificate in Banking Security from Dakota State University​.',
-    content2:
-      'Throughout her career, Francisca has received numerous accolades, including winning two national honors as highlighted by Dakota State University. She is also an ambassador for Blacks in Cybersecurity and Google Women Techmakers, demonstrating her commitment to diversity and inclusion in the tech field​.',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'COMMUNITY',
-    subtitle: 'Lenn Patterson George',
-    content1:
-      'Lenn Patterson George is the President of the South Dakota Black Chamber of Commerce. She is a dedicated leader committed to advocating for the interests and growth of Black-owned businesses in South Dakota. Lenn also serves as the Chair of the Diversity, Equity, and Inclusion Council at the Greater Sioux Falls Chamber of Commerce, where she plays a crucial role in promoting inclusive practices and fostering community development.',
-    content2: '',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'COMMUNITY',
-    subtitle: 'Devonte Garcia',
-    content1:
-      "Devonte Garcia is the Managing Director of Development at Volunteers of America, where he leads strategic initiatives to foster community growth and support the organization's mission of empowering vulnerable populations. With a strong background in project management and leadership, Devonte drives key development projects that enhance organizational effectiveness and community impact.",
-    content2:
-      'In his role, Devonte is responsible for spearheading fundraising efforts, building partnerships, and overseeing outreach initiatives that bolster the support network for those in need. His experience in both the non-profit and IT sectors gives him a unique perspective in implementing innovative solutions to operational challenges. Devonte is passionate about making a tangible difference in the lives of individuals and communities through effective leadership and collaboration.',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'ENTREPRENEUR',
-    subtitle: "Del'Inkka Beaudion",
-    content1:
-      "Del'Inkka Beaudion is the owner and chef of Swamp Daddy's Cajun Kitchen in Sioux Falls, South Dakota. Originating from Louisiana, she brought the rich flavors of her home state to the Midwest, starting her culinary journey in 2014 with a food truck. Over the years, her business has expanded into a popular restaurant located in the Jones 421 Building. Throughout her career, Beaudion has received several accolades, including being nominated for the EmBe Tribute to Women awards, where she was recognized as a Young Woman of Achievement in 2020.",
-    content2: '',
-    state: 'SOUTH DAKOTA',
-  },
-  {
-    title: 'ENTREPRENEUR',
-    subtitle: 'Vaney Hariri',
-    content1:
-      'Vaney Hariri is the co-founder of Think 3D Solutions, a company dedicated to helping organizations develop intentional and effective workplace cultures. With over 15 years of experience in leadership, mentorship, and community advocacy, Hariri has made significant contributions to both the corporate and local community landscapes. He spent over 12 years in the financial and banking industry, where he led teams to higher performance and engagement, which eventually inspired him to co-found Think 3D Solutions.',
-    content2:
-      "In addition to his professional endeavors, Hariri is actively involved in the Sioux Falls community. He has served on the Human Relations Commission for over a decade, including five years as chair, and continues to play a vital role as vice-chair and executive board member of both the Downtown Sioux Falls Inc. Board and the Downtown Sioux Falls Rotary Club. Hariri has been recognized for his contributions with several awards, including the prestigious 2020 A.H. Pankow Award for his work in promoting South Dakota's tourism industry through media​.",
-    state: 'SOUTH DAKOTA',
-  },
+  // {
+  //   title: 'LAW',
+  //   subtitle: 'Danielle M. Conway',
+  //   content1:
+  //     "Danielle M. Conway is a prominent legal scholar and academic leader known for her expertise in government procurement law, intellectual property law, and public procurement. She currently serves as the Dean and Donald J. Farage Professor of Law at Penn State Dickinson Law. Conway's career has been marked by significant achievements in both academia and public service.",
+  //   content2:
+  //     "Danielle Conway's contributions have been recognized with several prestigious awards. In 2022, she was inducted into the National HBCU Pre-Law Hall of Fame, acknowledging her impact and leadership in legal education and her dedication to supporting historically Black colleges and universities (HBCUs). Conway has also received the Founder's Award from the Society of American Law Teachers (SALT) and the Clyde Ferguson Award from the Association of American Law Schools (AALS).",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'LAW',
+  //   subtitle: 'Safiya Khalid',
+  //   content1:
+  //     'Safiya Khalid is a pioneering politician and community advocate, known for making history as the first Somali-American and the youngest person ever elected to the Lewiston City Council in Maine. Born in Somalia, Safiya immigrated to the United States as a refugee at the age of seven, initially settling in New Jersey before moving to Lewiston, Maine. Throughout her career, Safiya has received several accolades for her leadership and impact, including the Emerge Maine Alumna Award and the Young Politician of the Year by the Maine Democratic Party.',
+  //   content2: '',
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'WRITER / COMMUNITY',
+  //   subtitle: 'Jerry Edwards',
+  //   content1:
+  //     'Jerry Edwards, also known as Genius Black, is a social innovator, entrepreneur, and musical artist based in South Portland, Maine. He is recognized for his work in collaboration, audio/video production, and community advocacy. Edwards co-founded Black Owned Maine, a directory and resource hub for Black-owned businesses in Maine. He also runs GEM CITY, a collaborative network of musical talent.',
+  //   content2:
+  //     "Edwards has been acknowledged for his contributions to the arts and community development. He was the Stage Cannabis December Artist of the Month and participated in the IGNITE Arts Business Incubator offered by Engine, Biddeford. His work has been instrumental in promoting diversity, equity, and inclusion in Maine's cultural landscape.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'ENTREPRENEUR',
+  //   subtitle: 'Claude Rwaganje',
+  //   content1:
+  //     "Claude Rwaganje is a prominent community leader, social innovator, and advocate for financial literacy and immigrant integration in Maine. He is the Founder and Executive Director of ProsperityME, a non-profit organization dedicated to helping Maine's immigrants and refugees achieve financial stability and build successful lives in their new homeland.",
+  //   content2:
+  //     "Claude's contributions have been recognized with several prestigious awards. These include the Spirit of Service Award from Bowdoin College (2012), the Harward Center Community Partner Award for Outstanding New Initiative from Bates College (2013), and the Public Sector Leadership Award from the Portland Regional Chamber of Commerce (2017). He was also named among the 10 Mainers to be Thankful For by the Portland Press Herald in 2012.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'ENVIRONMENT',
+  //   subtitle: 'Amara Ifeji',
+  //   content1:
+  //     "Amara Ifeji is an acclaimed environmental and racial justice advocate known for her work in environmental science, policy, and community activism. She currently serves as the Grassroots Development Coordinator for the Maine Environmental Education Association (MEEA). Ifeji's career has been marked by significant achievements in both activism and environmental education.",
+  //   content2:
+  //     "Amara Ifeji's contributions have been recognized with several prestigious awards. She was honored with the North American Association for Environmental Education 30 Under 30 Award, acknowledging her impact and leadership in environmental education and advocacy. Additionally, she received the National Geographic Young Explorer Award, highlighting her dedication to addressing complex environmental and social justice issues through her work.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'HEALTH / COMMUNITY',
+  //   subtitle: `Gabrielle "Gaby" Barboza`,
+  //   content1:
+  //     'Gabrielle Barboza is a dynamic health and wellness advocate known for her impactful work through her business, Lively and Well. Dedicated to promoting holistic health within her community, Gaby provides personalized health coaching, wellness workshops, and community initiatives aimed at fostering overall well-being. Her approach integrates physical, mental, and emotional health, ensuring a comprehensive path to wellness for her clients.',
+  //   content2:
+  //     "Gabrielle Barboza's contributions have been recognized with several prestigious awards. She has been honored with the Maine Community Health Leader Award, acknowledging her significant impact and leadership in promoting health and wellness in the community. Additionally, she received the Wellness Innovator Award from the Maine Health Association, highlighting her innovative approach to health education and advocacy.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'PSYCHOTHERAPY',
+  //   subtitle: 'Michael Arthur',
+  //   content1:
+  //     "Michael Arthur is a dedicated and experienced Licensed Professional Counselor based in Brunswick, Maine. With a strong commitment to helping individuals navigate life's challenges, Michael offers compassionate and effective counseling services tailored to meet the unique needs of his clients.",
+  //   content2:
+  //     "Michael Arthur's contributions to the field of mental health have been recognized with several prestigious awards. He has received the Maine Counseling Association Outstanding Counselor Award. Additionally, he was honored with the Community Mental Health Leader Award by the Brunswick Health Coalition for his efforts in promoting mental health awareness and support within the community.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'POLITICS',
+  //   subtitle: 'Reginald Parson',
+  //   content1:
+  //     "Reginald Parson is a prominent political advisor and community leader known for his extensive work in public policy and legislative affairs. He currently serves as the Deputy Director for the Maine Paid Family and Medical Leave Program. Parson's career has been marked by significant achievements in both public service and community advocacy.",
+  //   content2:
+  //     "Reginald Parson's contributions have been recognized with several prestigious awards. He has received the Maine Law Distinguished Service Award for his outstanding commitment to public service and leadership in the legal community. Additionally, he was honored with the Racial Justice Champion Award from the Maine Justice Foundation, acknowledging his efforts to promote racial equity and justice within the state.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'HEALTH',
+  //   subtitle: 'Dr. Florence S Edwards',
+  //   content1: `Dr. Florence S Edwards is deeply committed to community service, particularly within BIPOC and LGBTQ+ communities. She founded the Fourth Friday Happy Hour for BIPOC in 2019 to foster community conversations and support. During the COVID-19 pandemic, she expanded these efforts by creating a radio show, "In the Pocket," on WMPG, which serves as a platform for BIPOC community members to discuss their work and share their stories.`,
+  //   content2:
+  //     "In recognition of her efforts to promote oral health, Dr. Edwards received the Gold Star Champion Award from Maine's Breathe Easy campaign in 2021. This award honored her advocacy against the use of menthol-flavored cigarettes and e-cigarettes, highlighting their negative impact on oral health. Dr. Edwards is also a board member of The Third Place and Equality Maine, organizations dedicated to building strong communities and promoting equality.",
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'REAL ESTATE',
+  //   subtitle: 'Tia Morrell',
+  //   content1:
+  //     'Tia Morrell is a dedicated and accomplished real estate professional known for her expertise and exceptional service in the Maine real estate market. She currently serves as a Real Estate Agent at Landing Homes in Auburn, Maine, specializing in helping clients navigate the complexities of buying and selling properties. Her contributions have been recognized with several awards, including the Top Real Estate Agent Award from Maine Real Estate Network and the Excellence in Sales Award.',
+  //   content2: '',
+  //   state: 'MAINE',
+  // },
+  // {
+  //   title: 'CONSULTANCY',
+  //   subtitle: 'Zach Van Harris Jr',
+  //   content1:
+  //     'Zach Van Harris Jr. is a distinguished historian, researcher, and curator dedicated to uncovering and preserving African American history in South Dakota. He serves as the Chief Researcher and Curator at the South Dakota African American History Museum, located in the Washington Pavilion in Sioux Falls. In addition to his role at the museum, he is a Senior PR & Marketing Strategist for Galaxy Consulting Group LLC and a co-founder and consultant for Success Definers.',
+  //   content2:
+  //     "Zach actively participates in various boards and leadership programs, including the Billie Sutton Leadership Institute, Make-A-Wish South Dakota & Montana, Emily's Hope, Sioux Falls Convention and Visitors Bureau (Past President), Sioux Falls Sports Authority, and Sioux Falls Chamber Music Collective.",
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'MEDIA',
+  //   subtitle: 'Alena Neves',
+  //   content1: `Alena Neves is an experienced journalist and the Morning News Anchor for "GOOD MORNING BLACK HILLS" on KOTA-TV/KEVN FOX/ABC. She has over 21 years of experience in broadcast media, with a Bachelor's degree in Communications from Howard University. Alena has worked in various roles, including Digital Broadcast Journalist, Communication Strategist, and Producer. She is dedicated to community engagement, using her platform to highlight important issues and stories.`,
+  //   content2: '',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'DATA SCIENTIST',
+  //   subtitle: 'Docteur David Kariuki',
+  //   content1:
+  //     'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
+  //   content2:
+  //     'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'SCIENCE',
+  //   subtitle: 'Martinson Ofori',
+  //   content1:
+  //     "Martinson Ofori is a prominent researcher and adjunct faculty member at Dakota State University's College of Business and Information Systems. Originally from Kumasi, Ghana, Ofori has pursued an extensive academic career, earning a Ph.D. in Information Systems, an M.S. in Computer Science, and an MBA in Finance from Dakota State University. He also holds a B.S. in Computer Science from Garden City University College.",
+  //   content2:
+  //     'Throughout his academic journey, Ofori has been recognized for his contributions to research and academia, including being featured on South Dakota Public Broadcasting and presenting at the 2019 IEEE Big Data Conference in Los Angeles. His collaborative research efforts with Dr. Omar El-Gayar have resulted in significant publications and presentations in the field of smart agriculture.',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'CYBERSECURITY',
+  //   subtitle: 'Francisca Afua Opoku-Boateng',
+  //   content1:
+  //     'Francisca Afua Opoku-Boateng is an accomplished cybersecurity professional and an assistant professor at Dakota State University. She specializes in Digital Forensics and Cybersecurity Principles, focusing on areas such as dark web investigations, open-source intelligence (OSINT), and cyber threat intelligence. She holds a Ph.D. in Cyber Defense and has a robust academic and professional background, including an MSc in Computer Science and Information Systems from the University of Michigan and a graduate certificate in Banking Security from Dakota State University​.',
+  //   content2:
+  //     'Throughout her career, Francisca has received numerous accolades, including winning two national honors as highlighted by Dakota State University. She is also an ambassador for Blacks in Cybersecurity and Google Women Techmakers, demonstrating her commitment to diversity and inclusion in the tech field​.',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'COMMUNITY',
+  //   subtitle: 'Lenn Patterson George',
+  //   content1:
+  //     'Lenn Patterson George is the President of the South Dakota Black Chamber of Commerce. She is a dedicated leader committed to advocating for the interests and growth of Black-owned businesses in South Dakota. Lenn also serves as the Chair of the Diversity, Equity, and Inclusion Council at the Greater Sioux Falls Chamber of Commerce, where she plays a crucial role in promoting inclusive practices and fostering community development.',
+  //   content2: '',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'COMMUNITY',
+  //   subtitle: 'Devonte Garcia',
+  //   content1:
+  //     "Devonte Garcia is the Managing Director of Development at Volunteers of America, where he leads strategic initiatives to foster community growth and support the organization's mission of empowering vulnerable populations. With a strong background in project management and leadership, Devonte drives key development projects that enhance organizational effectiveness and community impact.",
+  //   content2:
+  //     'In his role, Devonte is responsible for spearheading fundraising efforts, building partnerships, and overseeing outreach initiatives that bolster the support network for those in need. His experience in both the non-profit and IT sectors gives him a unique perspective in implementing innovative solutions to operational challenges. Devonte is passionate about making a tangible difference in the lives of individuals and communities through effective leadership and collaboration.',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'ENTREPRENEUR',
+  //   subtitle: "Del'Inkka Beaudion",
+  //   content1:
+  //     "Del'Inkka Beaudion is the owner and chef of Swamp Daddy's Cajun Kitchen in Sioux Falls, South Dakota. Originating from Louisiana, she brought the rich flavors of her home state to the Midwest, starting her culinary journey in 2014 with a food truck. Over the years, her business has expanded into a popular restaurant located in the Jones 421 Building. Throughout her career, Beaudion has received several accolades, including being nominated for the EmBe Tribute to Women awards, where she was recognized as a Young Woman of Achievement in 2020.",
+  //   content2: '',
+  //   state: 'SOUTH DAKOTA',
+  // },
+  // {
+  //   title: 'ENTREPRENEUR',
+  //   subtitle: 'Vaney Hariri',
+  //   content1:
+  //     'Vaney Hariri is the co-founder of Think 3D Solutions, a company dedicated to helping organizations develop intentional and effective workplace cultures. With over 15 years of experience in leadership, mentorship, and community advocacy, Hariri has made significant contributions to both the corporate and local community landscapes. He spent over 12 years in the financial and banking industry, where he led teams to higher performance and engagement, which eventually inspired him to co-found Think 3D Solutions.',
+  //   content2:
+  //     "In addition to his professional endeavors, Hariri is actively involved in the Sioux Falls community. He has served on the Human Relations Commission for over a decade, including five years as chair, and continues to play a vital role as vice-chair and executive board member of both the Downtown Sioux Falls Inc. Board and the Downtown Sioux Falls Rotary Club. Hariri has been recognized for his contributions with several awards, including the prestigious 2020 A.H. Pankow Award for his work in promoting South Dakota's tourism industry through media​.",
+  //   state: 'SOUTH DAKOTA',
+  // },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Cheryl Watkins-Moore',
@@ -996,15 +997,15 @@ const contentLaureat = () => [
     content2: '',
     state: 'SOUTH DAKOTA',
   },
-  // {
-  //   title: 'DATA SCIENTIST',
-  //   subtitle: 'Dr. David Kariuki',
-  //   content1:
-  //     'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
-  //   content2:
-  //     'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
-  //   state: 'SOUTH DAKOTA',
-  // },
+  {
+    title: 'DATA SCIENTIST',
+    subtitle: 'Dr. David Kariuki',
+    content1:
+      'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
+    content2:
+      'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
+    state: 'SOUTH DAKOTA',
+  },
   {
     title: 'SCIENCE',
     subtitle: 'Martinson Ofori',
