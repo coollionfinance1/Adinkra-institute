@@ -706,15 +706,6 @@ const contentLaureat = () => [
     state: 'MAINE',
   },
   {
-    title: 'EDUCATION',
-    subtitle: 'Dr. Michael L. Torrence',
-    content1:
-      'Dr. Michael L. Torrence is an esteemed educator and leader, currently serving as the President of Motlow State Community College. Since assuming this role in May 2018, Dr. Torrence has been pivotal in transforming the institution into a cutting-edge, award-winning college recognized for its innovative programs and commitment to student success.',
-    content2:
-      "Throughout his career, Dr. Michael L. Torrence has received numerous accolades, including induction into the tnAchieves Mentor Hall of Fame, the AACC Leadership Award, Phi Theta Kappa's Paragon Award, the GlobalMindEd Inclusive Leader Award, and the Complete Tennessee Leadership Institute's Leadership Award.",
-    state: 'SOUTH DAKOTA',
-  },
-  {
     title: 'CONSULTANCY',
     subtitle: 'Zach Van Harris Jr',
     content1:
@@ -732,7 +723,7 @@ const contentLaureat = () => [
   },
   {
     title: 'DATA SCIENTIST',
-    subtitle: 'Dr. David Kariuki',
+    subtitle: 'Docteur David Kariuki',
     content1:
       'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
     content2:
@@ -1005,15 +996,15 @@ const contentLaureat = () => [
     content2: '',
     state: 'SOUTH DAKOTA',
   },
-  {
-    title: 'DATA SCIENTIST',
-    subtitle: 'Dr. David Kariuki',
-    content1:
-      'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
-    content2:
-      'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
-    state: 'SOUTH DAKOTA',
-  },
+  // {
+  //   title: 'DATA SCIENTIST',
+  //   subtitle: 'Dr. David Kariuki',
+  //   content1:
+  //     'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
+  //   content2:
+  //     'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
+  //   state: 'SOUTH DAKOTA',
+  // },
   {
     title: 'SCIENCE',
     subtitle: 'Martinson Ofori',
