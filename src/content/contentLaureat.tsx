@@ -746,7 +746,7 @@ const contentLaureat = () => [
   //   content1:
   //     'Francisca Afua Opoku-Boateng is an accomplished cybersecurity professional and an assistant professor at Dakota State University. She specializes in Digital Forensics and Cybersecurity Principles, focusing on areas such as dark web investigations, open-source intelligence (OSINT), and cyber threat intelligence. She holds a Ph.D. in Cyber Defense and has a robust academic and professional background, including an MSc in Computer Science and Information Systems from the University of Michigan and a graduate certificate in Banking Security from Dakota State University​.',
   //   content2:
-  //     'Throughout her career, Francisca has received numerous accolades, including winning two national honors as highlighted by Dakota State University. She is also an ambassador for Blacks in Cybersecurity and Google Women Techmakers, demonstrating her commitment to diversity and inclusion in the tech field​.',
+  //     'Throughout her career, Francisca has received numerous accolades, including winning two national honors as highlighted by Dakota State University. She is also an ambassador for Blacks in Cybersecurity and Google Women Techmakers, demonstrating her commitment to diversity and inclusion in the tech fieldDr. David Kariuki.',
   //   state: 'SOUTH DAKOTA',
   // },
   // {
@@ -999,7 +999,7 @@ const contentLaureat = () => [
   },
   {
     title: 'DATA SCIENTIST',
-    subtitle: 'Dr. David Kariuki',
+    subtitle: 'Doctor David Kariuki',
     content1:
       'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
     content2:
