@@ -1800,6 +1800,35 @@ const contentLaureat = () => [
       "Rashida has an extensive background in government and public service, having worked for the City of Shreveport's Department of Community Development and Shreveport Federal Credit Union. She is actively involved in numerous community organizations, serving as the President of the Rotary Club of South Shreveport, Co-Chair of Louisiana Asset Funders Network's Steering Committee, and a member of various advisory councils and coalitions. Rashida has been recognized for her contributions with honors such as Shreveport-Bossier's 2018 Class of Forty Under 40 and the 2019 Nonprofit Citizen of the Year Award from the Greater Shreveport Chamber of Commerce​.",
     state: 'LOUISIANA',
   },
+  {
+    title: 'ENTREPRENEUR',
+    subtitle: 'Ayanna Howard',
+    content1: "Ayanna Howard is an esteemed roboticist, entrepreneur, and educator, currently serving as the Dean of the College of Engineering at Ohio State University. Assuming the post in March 2021, Howard became the first woman to lead the Ohio State College of Engineering. Her pioneering work at NASA's Jet Propulsion Laboratory and as a professor at Georgia Tech has positioned her as a leader in AI and robotics. She is known for her innovative research in human-robot interaction and her advocacy for diversity in STEM. Howard's contributions have earned her recognition as an influential figure in technology.",
+    content2: "Ayanna has received numerous accolades throughout her career, reflecting her significant contributions to robotics and AI. Notably, she has been recognized by Business Insider as one of the '23 Most Powerful Women Engineers in the World' and by Forbes in their 'America's Top 50 Women In Tech' list. Howard's work in technology and her efforts to promote diversity in STEM have also earned her a place in the 'Women in Technology Hall of Fame.'",
+    state: 'RHODE ISLAND',
+  },
+  {
+    title: 'HUMAN RESOURCES',
+    subtitle: 'Dale Merrill',
+    content1: "Dale Merrill is a distinguished leader at Foxwoods Resort Casino, where she plays a critical role in steering the organization towards sustained growth and innovation. Her leadership extends across various aspects of the casino's operations, reflecting her comprehensive understanding of the gaming and hospitality industry.",
+    content2: "Dale's exceptional leadership has earned her multiple awards, including recognition as one of the Great Women in Gaming by Global Gaming Women. Additionally, she holds certification from the Society of Human Resource Management. Beyond her professional achievements, Dale dedicates her time to volunteering with Plan4Health in Providence, RI, and serves as a board member for Three Rivers Community College in Norwich, CT.",
+    state: 'RHODE ISLAND',
+  },
+  {
+    title: 'SPORT/BUSINESS',
+    subtitle: 'Lamar Odom',
+    content1: "Lamar Odom, born November 6, 1979, in Queens, New York, is a former professional basketball player renowned for his tenure with the Los Angeles Lakers, where he won two NBA championships and earned the NBA Sixth Man of the Year Award in 2011. His NBA career includes stints with the Los Angeles Clippers, Miami Heat, and Dallas Mavericks. Odom also represented the United States, winning a bronze medal at the 2004 Athens Olympics and a gold medal at the 2010 FIBA World Championship.",
+    content2: "",
+    state: 'RHODE ISLAND',
+  },
+  {
+    title: 'CHARITY WORK',
+    subtitle: 'Ray Rickman',
+    content1: "Ray Rickman is a significant figure in Rhode Island's public and cultural spheres, having served as a State Representative and Rhode Island Deputy Secretary of State. As a rare book dealer and historian, he leads efforts in promoting African American history, including conducting educational tours in Providence. His roles have spanned from Providence Equal Opportunity Officer to Executive Director of the Human Relations Commission, and he's known for his work on EEO compliance and diversity initiatives across various institutions.",
+    content2: "Rickman's leadership extends to prominent historical and cultural organizations. He was President of the Rhode Island Black Heritage Society, served on the boards of the Rhode Island Historical Society and was also the first Treasurer of the Heritage Harbor Museum, a Smithsonian affiliate. In 2019, he received the Outstanding Philanthropic Citizen Award from the Association of Fundraising Professionals, recognizing his significant contributions to the community.",
+    state: 'RHODE ISLAND',
+  }
+
 ];
 
 export default contentLaureat;
