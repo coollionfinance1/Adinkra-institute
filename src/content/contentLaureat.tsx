@@ -313,15 +313,7 @@ const contentLaureat = () => [
     content2: `Dr. Freeman is renowned for his research in higher education leadership and the development of academic programs. He has received several prestigious awards, such as the Auburn University's Graduate School "2015 Auburn Authors Award" for his book "Advancing Higher Education as a Field of Study." His work has been widely published in numerous peer-reviewed journals and he is a sought-after speaker on topics related to diversity, equity, and inclusion in academia."`,
     state: 'IDAHO',
   },
-  {
-    title: 'EDUCATION',
-    subtitle: 'Doctor Chris Mathias',
-    content1:
-      "Dr. Chris Mathias is a Senior Affiliate at HCM Strategists and a Founding Partner at Brumback Associates LLC, specializing in K16+ education consultancy. With over two decades of experience, Dr. Mathias has held significant roles across K-12 and higher education systems, as well as elected office. In addition to his academic and professional roles, Dr. Mathias is the only Black member of Idaho's legislature, representing District 19 in the Idaho House of Representatives. He is also a member of Idaho's Criminal Justice Commission and the National Black Caucus of State Legislators, demonstrating his leadership and advocacy in public service.",
-    content2:
-      'Dr. Mathias is a veteran of the U.S. Coast Guard, where he earned the Arctic Service Medal and two Antarctic Service Medals. He graduated from Boise State University with a degree in criminal justice, where he was a TRiO McNair Scholar and student body president. He holds a J.D. from Vermont Law and Graduate School and a Ph.D. in Law and Public Policy from Northeastern University.',
-    state: 'IDAHO',
-  },
+
   {
     title: 'GASTRONOMY',
     subtitle: 'Mae Gaines',
@@ -618,15 +610,6 @@ const contentLaureat = () => [
       'C. Anthony Parker is the owner and operator of Elk City Auto Spa in Charleston, West Virginia. An accomplished entrepreneur, Parker began his business journey at 17 with a lawn care business and transitioned into the automotive industry by opening his first used car dealership at 19. Over the years, he expanded his enterprise, establishing multiple dealership locations and, in 2017, founding the Charleston Auto Body and Repair Center.',
     content2: `Parker is renowned for his expertise in automotive detailing and his dedication to delivering showroom-quality services. His business, Elk City Auto Spa, founded in 2019, has received significant recognition, including winning the "Best Detail in The Valley" award for two consecutive years (2019 and 2020).`,
     state: 'WEST VIRGINIA',
-  },
-  {
-    title: 'LAW',
-    subtitle: 'Tracey Parrish',
-    content1:
-      "Tracey Parrish is an accomplished paralegal with extensive experience in litigation case management, court filings, legal research, and document preparation. She currently serves at Emerzian Shankar Legal, Inc., where she plays a pivotal role in supporting the firm's legal operations. Tracey holds an Associate of Arts degree in Paralegal Studies from Fresno City College. Before joining Emerzian Shankar Legal, she worked with various local law firms specializing in civil litigation and managed her own small business.",
-    content2:
-      'Throughout her career, Tracey has received several awards in recognition of her outstanding contributions to the field of legal support, including the Paralegal Excellence Award, the Outstanding Service Award, and the Innovative Paralegal Practices Award.',
-    state: 'ALASKA',
   },
   {
     title: 'ENVIRONMENT',
