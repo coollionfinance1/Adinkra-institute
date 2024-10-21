@@ -53,7 +53,7 @@ const SearchBar: React.FC<{
           <div className="h-6 border-l border-slate-200 ml-1"></div>
           <div
             id="dropdownMenu"
-            className={`min-w-[150px] overflow-hidden absolute left-0 w-full mt-10 bg-white border border-slate-200 rounded-md shadow-lg z-10 ${
+            className={`min-w-[150px] overflow-hidden overflow-y-scroll absolute h-[300px] left-0 w-full mt-10 bg-white border border-slate-200 rounded-md shadow-lg z-10 ${
               isDropdownOpen ? "" : "hidden"
             }`}
           >
