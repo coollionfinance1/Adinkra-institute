@@ -1,5 +1,4 @@
 export const activeCountry = () => [
-  'Alaska',
   'Missouri',
   'Connecticut',
   'Vermont',
@@ -9,6 +8,7 @@ export const activeCountry = () => [
   'Wyoming',
   'Mississippi',
   'Delaware',
+  'Alaska',
   'New Mexico',
   'Maine',
   'South Dakota',
