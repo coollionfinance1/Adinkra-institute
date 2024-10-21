@@ -930,7 +930,7 @@ const contentLaureat = () => [
   },
   {
     title: 'SENATOR',
-    subtitle: 'Löki Gale Tobin',
+    subtitle: 'Senator Löki Gale Tobin',
     content1:
       'Löki Gale Tobin is a dedicated member of the Alaska State Senate, representing District I, which includes Downtown Anchorage and Joint Base Elmendorf-Richardson. Since her election in November 2022, she has been committed to serving her constituents with integrity and dedication.',
     content2:
