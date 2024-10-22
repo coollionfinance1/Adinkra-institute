@@ -553,12 +553,11 @@ const contentLaureat = () => [
     state: 'WEST VIRGINIA',
   },
   {
-    title: 'EDUCATION',
-    subtitle: 'Chiquita Howard-Bostic',
-    content1: `Dr. Chiquita Howard-Bostic is the Associate Vice President of Diversity, Equity, and Inclusivity and Chair of the Department of Sociology, Criminology, and Criminal Justice at Shepherd University. She holds a Ph.D. in Sociology from Virginia Tech and degrees in Legal Studies and Urban Planning from SUNY Buffalo. Renowned for her work in social justice, she founded "Help Bridge" to promote leadership and justice education.`,
-    content2:
-      "Her academic contributions have been recognized through numerous awards, including the Storer College Award for incorporating diversity and social justice into her teaching, the Outstanding Teacher Award, the Outstanding Service Award, and the Outstanding Academic Advisor Award at Shepherd University. In addition, she was named the 2018 Distinguished Alumni for the SUNY Buffalo Educational Opportunity Program and received the 2020 West Virginia Mother of the Year award from American Mothers, along with the 2021 WV Governor's Living the Dream award.",
-    state: 'WEST VIRGINIA',
+    title: 'DIVERSITY, EQUITY, AND INCLUSION',
+  subtitle: 'Chiquita Howard-Bostic',
+  content1: `Dr. Chiquita Howard-Bostic is a prominent leader in diversity, equity, and inclusion (DEI), with over 20 years of experience in higher education, nonprofit management, and community development. As the first in her family to earn a PhD, she holds a Doctorate in Sociology and has received numerous awards for her contributions to education and community leadership.`,
+  content2: `In addition to serving as Associate Vice President of DEI, Dr. Howard-Bostic is the founder of Help Bridge, Inc. (HB EMPOWER), which has empowered over 150 businesses and reached more than 3,000 students through innovative leadership and holistic art therapy solutions. She is actively involved in various community organizations, working tirelessly to promote social justice and create inclusive environments.`,
+  state: 'WEST VIRGINIA',
   },
   {
     title: 'PUBLIC RELATIONS',
