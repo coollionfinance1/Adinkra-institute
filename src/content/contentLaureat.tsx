@@ -1152,11 +1152,9 @@ const contentLaureat = () => [
   {
     title: 'COMMUNICATION',
     subtitle: 'Nikki Walker',
-    content1:
-      "Nikki Walker is a seasoned public relations professional with extensive experience across various sectors including beauty, fashion, celebrity, and lifestyle. As the Senior Director of Diversity, Equity, and Inclusion at Domo, Inc., she plays a pivotal role in shaping the company's DE&I strategies and initiatives. Walker's career spans over two decades, during which she has demonstrated expertise in media relations, event planning, and strategic communications.",
-    content2:
-      "Nikki's exceptional contributions have been recognized through numerous prestigious awards and accolades. She was named one of Utah Business Magazine's 30 Women to Watch and honored as part of the W Collective's 40 Over 40. In 2022, she received a Stevie Award, acknowledging her outstanding achievements in her field. Additionally, Nikki was the recipient of the 2021 Women Tech Change Catalyst Award, recognizing her significant impact in the technology sector. Most notably, she is a 2023 candidate for the Utah State Senate, reflecting her dedication to public service and her commitment to making a positive impact on a broader scale.",
-    state: 'UTAH',
+    content1: `Nikki Walker is a seasoned communications professional with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent roles, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Transitioning into the tech sector, Nikki excelled as the Director of Community Engagement and DEI at a leading tech company, focusing on inclusivity and community connections.`,
+  content2: `In 2024, she launched NWPR & Consulting, a communications agency specializing in culturally competent strategies, and became a bestselling author as a co-author of the anthology 'Awareness Put Me On.' Nikki actively contributes to her community by serving on several nonprofit boards in Utah. Her achievements have garnered numerous accolades, including the Women Tech Council Change Catalyst Award, recognition as one of Utah Business Magazine's 30 Women to Watch, and a bronze Stevie Award for Female Employee of the Year.`,
+  state: 'UTAH',
   },
   {
     title: 'LEGISLATION',
