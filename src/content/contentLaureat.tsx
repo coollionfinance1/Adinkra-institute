@@ -10,15 +10,6 @@ const contentLaureat = () => [
     state: 'CONNECTICUT',
   },
   {
-    title: 'FINANCE',
-    subtitle: 'Thasunda Brown Duckett',
-    content1:
-      'Thasunda Brown Duckett is an American business leader and the President and Chief Executive Officer  of TIAA, a financial services organization dedicated to providing secure retirements and investment solutions. On May 1, 2021, Duckett made history as the fourth Black woman to lead a Fortune 500 company.',
-    content2:
-      "Duckett has received numerous accolades for her leadership and advocacy work. She has been listed among Fortune's Most Powerful Women and recognized by EBONY's Media Power 100 list. In addition, she has been honored with the Executive Leadership Council Achievement Award and was featured as one of the TIME100 Most Influential People in the World. She also serves on the boards of several organizations, including Nike, Inc., Robert F. Kennedy Human Rights, Sesame Workshop, and the National Medal of Honor Museum, showcasing her dedication to making a positive impact both within and beyond the business world​.",
-    state: 'CONNECTICUT',
-  },
-  {
     title: 'ENTREPRENEUR',
     subtitle: 'André Swanston',
     content1:
@@ -297,15 +288,6 @@ const contentLaureat = () => [
     state: 'IDAHO',
   },
   {
-    title: 'BUSINESS',
-    subtitle: 'Phillip Thompson',
-    content1:
-      "Phillip Thompson is a highly respected figure in Boise, Idaho, serving as the Executive Director and Board President of the Idaho Black History Museum. With a background in information technology spanning over two decades, Thompson has played a significant role in various community and professional organizations. His family has deep roots in Idaho, having established Idaho's first Black church, which now houses the museum.",
-    content2:
-      "Phillip Thompson has been recognized with several awards for his contributions to the community and his leadership. Notable among these are the Idaho Humanities Council Outstanding Achievement in Humanities Award, the City of Boise's Mayor's Community Service Award, and the Idaho Black History Museum's Distinguished Service Award.",
-    state: 'IDAHO',
-  },
-  {
     title: 'EDUCATION',
     subtitle: 'Dr. Sydney Freeman Jr',
     content1:
@@ -541,15 +523,6 @@ const contentLaureat = () => [
       'Dr. Michelle Foster is the President and CEO of The Greater Kanawha Valley Foundation (TGKVF), the largest community foundation in Central Appalachia. TGKVF funds initiatives in education, health, community economic development, basic needs, and arts & culture, granting more than $13 million annually to benefit low-wealth individuals. Before joining TGKVF, Dr. Foster was the CEO of the Kanawha Institute for Social Research & Action, Inc. (KISRA), where she led efforts to strengthen West Virginia families through health, employment, and learning initiatives.',
     content2:
       'Her dedication to community service shines through her leadership roles in numerous organizations, both nationally and locally. Noteworthy achievements include receiving numerous accolades recognizing her contributions, such as the Woman of Achievement Award from the YWCA and the Living the Dream Award from the WV Martin Luther King, Jr. Holiday Commission.',
-    state: 'WEST VIRGINIA',
-  },
-  {
-    title: 'ADMINISTRATION/EDUCATION',
-    subtitle: 'Ranjita Misra',
-    content1:
-      'Dr. Ranjita Misra is a distinguished Full Professor in the Department of Social and Behavioral Sciences and serves as the Director of the Public Health Training Center at the West Virginia University (WVU) School of Public Health. She is renowned for her expertise in health disparities, particularly in the areas of diabetes, metabolic syndrome, and cardiovascular disease (CVD). She has led numerous randomized clinical trials focused on disease prevention and management in community- and faith-based settings as well as clinics, utilizing cost-effective models such as community health workers and health coaches.',
-    content2:
-      'Throughout her career, Dr. Misra has received numerous accolades, including the Women in Science and Health (WISH) Excellence Award, the Mentoring Award, and the Outstanding Achievement in Community Engaged Research Award from WVU. Her distinguished honors also include the Health Disparities Scholars Award from MD Anderson, the Armstrong Scholar and Research Award from Texas A&M University, and the Best Published Paper Award by the API Caucus of the American Public Health Association.',
     state: 'WEST VIRGINIA',
   },
   {
