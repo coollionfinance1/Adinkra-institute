@@ -733,11 +733,9 @@ const contentLaureat = () => [
   {
     title: 'DATA SCIENTIST',
     subtitle: 'Doctor David Kariuki',
-    content1:
-      'David Kariuki is a dedicated Data Research Analyst and an active member of the ABE Graduate Student Association at South Dakota State University. With a keen interest in data analytics and research, David has consistently demonstrated his ability to analyze complex datasets and derive meaningful insights that contribute to various academic and professional projects.',
-    content2:
-      'In his role within the ABE Graduate Student Association, David actively participates in organizing events, fostering a collaborative environment among students, and advocating for the needs and interests of his peers. His leadership and dedication to the association reflect his passion for community building and academic excellence. In acknowledgment of his innovation and creativity, David was honored with the Distinguished Innovation and Creative Works Award by South Dakota State University.',
-    state: 'SOUTH DAKOTA',
+    content1: `David Wambui is a master's student in operations management and data science, recognized for his innovative contributions to the tech industry. He developed an advanced algorithm that uses natural language processing to enhance the Quality Function Deployment (QFD) process in manufacturing by integrating multilingual customer feedback. This technology streamlines product development, reduces operational costs, and prioritizes customer-centric approaches.`,
+  content2: `His achievements have earned him prestigious accolades, including the 2024 Global Distinguished Innovator Award and the 2024 Distinguished Innovation and Creative Works Award from South Dakota State University. A previous recipient of the Young Innovators Award by ENACTUS in 2017, David continues to drive transformative advancements in product quality management and customer-focused innovation.`,
+  state: 'SOUTH DAKOTA',
   },
   {
     title: 'SCIENCE',
