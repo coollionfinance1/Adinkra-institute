@@ -1071,15 +1071,6 @@ const contentLaureat = () => [
     state: 'DELAWARE',
   },
   {
-    title: 'COMMUNICATION',
-    subtitle: 'Sophonie Milord',
-    content1:
-      "Sophonie Milord is a dedicated Communications Specialist at the University of Delaware, where she excels in managing internal and external communications, developing compelling content, and supporting the university's outreach efforts. Her academic background and professional expertise in communications have equipped her with the skills necessary to excel in her role.",
-    content2:
-      'Throughout her career, Sophonie has been recognized for her exceptional contributions to the field, receiving several awards, including the Excellence in Communication Award, the Outstanding Service Award, and the Innovative Communication Practices Award for her innovative approaches to enhancing communication within the university.',
-    state: 'DELAWARE',
-  },
-  {
     title: 'EDUCATION',
     subtitle: 'Doctor David Rudder',
     content1:
