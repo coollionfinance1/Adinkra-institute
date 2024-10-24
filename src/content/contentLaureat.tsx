@@ -1062,15 +1062,6 @@ const contentLaureat = () => [
     state: 'DELAWARE',
   },
   {
-    title: 'EDUCATION',
-    subtitle: 'Alaina V. Robinson',
-    content1:
-      'Alaina V. Robinson is a Policy Specialist II at the Institute for Public Administration (IPA) in the Joseph R. Biden, Jr. School of Public Policy and Administration. Alaina works with the Education Services team on policy research and public service projects at the IPA. ​Previously, she worked as a legislative fellow in the Washington, D.C. office of U.S. Senator Chris Coons (D-DE).',
-    content2:
-      'Throughout her career, Robbins has received several awards that underscore her commitment and excellence in public policy. These include the Biden School Graduate Scholar Award, which honors her outstanding academic performance and contributions to public policy, and the Emerging Scholar Award, recognizing her potential and impact in the field of public administration.',
-    state: 'DELAWARE',
-  },
-  {
     title: 'POLICY RESEARCH',
     subtitle: 'Serita Porter',
     content1:
