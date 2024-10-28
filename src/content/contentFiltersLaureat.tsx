@@ -13,11 +13,11 @@ export const activeCountry = () => [
   'New Mexico',
   'Delaware',
   'Utah',
-
+  'Hawaii',
+  'Oregon',
   'Mississippi',
   'Louisiana',
   'Rhode Island',
   'Nebraska',
   'Iowa',
-  'Oregon',
 ];
