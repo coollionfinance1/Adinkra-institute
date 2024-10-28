@@ -1181,26 +1181,28 @@ const contentLaureat = () => [
     title: 'DEAN & PROFESSOR',
     subtitle: 'Camille A. Nelson',
     content1:
-      "Camille A. Nelson is a distinguished legal scholar and academic leader, currently serving as the Dean of the William S. Richardson School of Law at the University of Hawai'i at Mānoa. Prior to this role, she was the Dean of American University Washington College of Law (AUWCL) and the first woman and person of color to serve as Dean of Suffolk University Law School in Boston.",
-    content2: `Nelson's leadership in legal education is widely recognized. She has been named one of the "Top 35 Women in Higher Education" by Diverse Issues in Higher Education magazine and listed among the "Most Influential People in Legal Education" by the National Jurist. She has also received the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School and the Ida B. Wells Award from the Massachusetts Black Women Lawyers.`,
-    state: 'HAWAII',
+    'Camille A. Nelson is a distinguished legal scholar and academic leader, currently serving as the Dean of the William S. Richardson School of Law at the University of Hawai’i at Mānoa. Previously, she was the Dean of American University Washington College of Law and notably the first woman and person of color to serve as Dean of Suffolk University Law School in Boston.',
+  content2:
+    'Nelson’s impact in legal education is widely recognized. She has been named one of the “Top 35 Women in Higher Education” by Diverse Issues in Higher Education magazine and was listed among the “Most Influential People in Legal Education” by the National Jurist. She has also received the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School in 2017.',
+  state: 'HAWAII',
   },
   {
     title: 'SCHOLAR AND CULTURAL WORKER',
     subtitle: 'Dr. Akiemi Glenn',
     content1:
-      "Dr. Akiemi Glenn is a distinguished scholar, linguist, and community leader based in Honolulu, Hawai'i. She is the founder and executive director of The Pōpolo Project, an organization dedicated to redefining Blackness in Hawai'i and the broader Pacific region. Through this initiative, Dr. Glenn works to highlight the rich diversity and cultural heritage of Black communities in Hawai'i, fostering connections and creating spaces for cultural expression and education.",
-    content2:
-      "In recognition of her work, Dr. Glenn has received numerous awards and honors. Some of her accolades include being featured in the New York Times, National Geographic, and Hawai'i Public Radio. She has been a keynote speaker at various prestigious events and continues to be a leading voice in the dialogue around race, culture, and social justice in Hawai'i.",
-    state: 'HAWAII',
+    'Dr. Akiemi Glenn is a distinguished scholar, linguist, and community leader based in Honolulu, Hawai\'i. She is the founder and executive director of The Pōpolo Project, an organization dedicated to redefining Blackness in Hawai\'i and the broader Pacific region. Through this initiative, Dr. Glenn works to celebrate the diversity and cultural heritage of Black communities in Hawai\'i, fostering connections and creating spaces for cultural expression and education.',
+  content2:
+    'Her work has been prominently featured in the New York Times, National Geographic, and Hawai\'i Public Radio. Dr. Glenn is a sought-after keynote speaker at various prestigious events and is a leading voice in the dialogue on race, culture, and social justice in Hawai\'i.',
+  state: 'HAWAII',
   },
   {
     title: 'PROFESSOR OF LAW',
     subtitle: 'Dr. Maxine A. Burkett',
     content1:
-      "Dr. Maxine A. Burkett is a prominent legal scholar specializing in climate change law and policy. She serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai'i at Mānoa. Dr. Burkett has also held prestigious positions such as the Global Fellow at the Woodrow Wilson International Center for Scholars and Senior Advisor with the Office of the Special Presidential Envoy for Climate under former Secretary of State John Kerry.",
-    content2: `Dr. Maxine A. Burkett has been honored with several prestigious awards throughout her career. She was awarded the Wayne Morse Chair of Law and Politics at the University of Oregon, recognizing her expertise and contributions to the theme of "Climate Ethics and Climate Equity," making her the youngest recipient of this distinguished chair. In 2016, she received the Bicentennial Medal for Distinguished Achievement from Williams College, highlighting her significant academic and professional accomplishments.`,
-    state: 'HAWAII',
+    'Dr. Maxine A. Burkett is a prominent legal scholar specializing in climate change law and policy. She serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai\'i at Mānoa. Dr. Burkett has held esteemed roles, including as a Global Fellow at the Woodrow Wilson International Center for Scholars and as a Senior Advisor with the Office of the Special Presidential Envoy for Climate under former Secretary of State John Kerry.',
+  content2:
+    'Dr. Burkett has received several notable awards, including Hawaii Business’s “20 for the Next 20” in 2017, Williams College\'s Bicentennial Medal in 2016, and Pacific Business News’s “40 Under 40” in 2016, all recognizing her exceptional leadership and impact both in Hawai\'i and beyond.',
+  state: 'HAWAII',
   },
   {
     title: 'LAW',
@@ -1214,27 +1216,26 @@ const contentLaureat = () => [
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Alexis Akiona',
-    content1:
-      "Alexis Akiona is a pioneering Native Hawaiian designer and the creative force behind LexBreezy Hawai'i, a modern aloha wear brand that celebrates the essence of Hawaiian culture through contemporary designs. Born and raised in Hilo, Hawai'i, Alexis comes from a lineage of fashion entrepreneurs; her mother, Lola Miller, is the founder of Simply Sisters by Lola Miller Designs.",
-    content2:
-      "Since its inception, LexBreezy Hawai'i has grown significantly. In 2021, Alexis opened her first brick-and-mortar store in Kailua, Oʻahu. In 2022, LexBreezy Hawai'i was selected to join the seventh cohort of Mana Up, an accelerator program for Hawai'i-based businesses. In addition, Alexis was honored as the Hawaii Venture Capital Association's 2024 Entrepreneur of the Year.",
-    state: 'HAWAII',
+     subtitle: 'Alexis Akiona',
+  content1:
+    'Alexis Akiona is a pioneering Hawaiian designer and the creative force behind LexBreezy Hawai\'i, a modern aloha wear brand that celebrates the essence of Hawaiian culture through contemporary designs. Born and raised in Hilo, Hawai\'i, Alexis comes from a lineage of fashion entrepreneurs; her mother, Lola Miller, is the founder of Simply Sisters by Lola Miller Designs.',
+  state:'HAWAII',
   },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Raquel Noriko',
-    content1:
-      'Raquel Noriko is a renowned hair care professional and entrepreneur specializing in curly hair. She is the founder and lead stylist at the Raquel Noriko Curl Studio in Maui, Hawaii. With a deep passion for hair and a commitment to celebrating natural curls, Raquel has built a reputation as a top stylist and educator in her field.',
-    content2: `Raquel has been recognized for her outstanding contributions to the hair care industry and her community. In 2023, she was honored with the "Best Curly Hair Stylist" award by the Maui Beauty Association, highlighting her expertise and dedication to her craft. Additionally, Raquel's studio was named "Top Hair Salon for Curly Hair" by Hawaii Beauty Magazine in 2022.`,
-    state: 'HAWAII',
+    subtitle: 'Raquel Noriko Tosaya',
+  content1:
+    'Raquel Noriko Tosaya is a renowned hair care professional and entrepreneur specializing in curly hair. She is the founder and lead stylist at the Raquel Noriko Tosaya Culture Curl Studio LLC in Maui, Hawai\'i. With a deep passion for hair and a commitment to celebrating natural curls, Raquel has built a reputation as a top stylist and educator in her field.',
+  state: 'HAWAII',
   },
   {
     title: 'PROFESSOR OF LAW',
-    subtitle: 'Lenese Herbert',
     content1:
-      "Lenese Herbert is a distinguished legal scholar specializing in criminal law, evidence, and administrative law. She serves as a Visiting Professor of Law at the William S. Richardson School of Law at the University of Hawai'i at Mānoa for the 2023-2024 academic year. Herbert has been recognized with numerous accolades for her contributions to legal education and scholarship, including the Outstanding Faculty Award at Howard University School of Law, the Trailblazer Award from the National Bar Association for her pioneering work in criminal law, and the Public Service Award from the American Bar Association for her contributions to public service.",
-    content2: '',
-    state: 'HAWAII',
+    'Lenese Herbert is a distinguished legal scholar specializing in criminal law, evidence, and administrative law. She serves as a Professor of Law at Howard University and has contributed as a SCOTUSblog case author, writing on federal constitutional cases before the U.S. Supreme Court.',
+  content2:
+    'Professor Herbert has served as an expert witness before the U.S. Department of Housing and Urban Development and has appeared as a legal analyst for major media outlets, including the Washington Post, BBC, CSPAN, PBS Newshour, NPR, Voice of America, Al-Jazeera English, NBC News Channel 4 (Washington, DC), WTTG Fox 5 (Washington, DC), News Channel 8 (Washington, DC), and The Washington Informer.',
+  state: 'HAWAII',
   },
   {
     title: 'ENTREPRENEUR',
@@ -1248,27 +1249,27 @@ const contentLaureat = () => [
   {
     title: 'PROFESSOR OF LAW',
     subtitle: 'Charles R. Lawrence III',
-    content1:
-      "Charles R. Lawrence III is a renowned legal scholar specializing in constitutional law, critical race theory, and equal protection. He currently serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai'i at Mānoa. Throughout his career, Lawrence has received numerous accolades for his contributions to legal scholarship and social justice. These include the Founder's Award from the Society of American Law Teachers (SALT), recognizing his commitment to justice and equality in legal education, and the Clyde Ferguson Award from the Association of American Law Schools (AALS), honoring his outstanding achievements as a law professor of color who has made a significant impact in the legal academy and the broader society.",
-    content2: '',
-    state: 'HAWAII',
+  content1:
+    'Charles R. Lawrence III is a renowned legal scholar specializing in constitutional law, critical race theory, and equal protection. He currently serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai\'i at Mānoa.',
+  content2:
+    'Throughout his career, Professor Lawrence has received numerous accolades for his contributions to legal scholarship and social justice, including the Derrick Bell Legacy Award from the Critical Race Studies in Education Association and the Society of American Law Teachers Teaching Award.',
+  state: 'HAWAII',
   },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Amy Benson',
     content1:
-      'Amy Benson is the founder of Afro Aloha, a vibrant cultural initiative based in Hawaii that celebrates African heritage and fosters a sense of community among people of African descent living in the Aloha State. With a passion for cultural preservation and community building, Benson established Afro Aloha to create a platform that highlights African culture through various events, educational programs, and social gatherings.',
-    content2:
-      'Amy has been honored with several prestigious awards for her contributions to cultural preservation and community building. She received the Hawaii Cultural Preservation Award, the Community Leadership Award from the Hawaii Association of Nonprofits, the Innovative Cultural Initiative Award from the Hawaii Arts Alliance, and the Diversity Champion Award from the Hawaii Diversity Council.',
-    state: 'HAWAII',
+    'Amy Benson is the founder of Afro Aloha, a vibrant cultural initiative based in Hawai\'i that celebrates African heritage and fosters a sense of community among people of African descent living in the Aloha State. Driven by a passion for cultural preservation and community building, Benson established Afro Aloha to create a platform that highlights African culture through various events, educational programs, and social gatherings.',
+  state: 'HAWAII',
   },
   {
     title: 'MEDIA',
     subtitle: 'Morgan DeBaun',
     content1:
-      'Morgan DeBaun is a serial entrepreneur and corporate advisor. She is the Founder and CEO of Blavity Inc., a leading digital media company focused on Black culture and millennials. DeBaun co-founded Blavity in 2014, which has grown into a platform reaching over 100 million people monthly. Her impact extends beyond media, as she has raised $12 million in venture capital for Blavity, Inc. and advises influential global brands.',
-    content2: `Morgan has received notable accolades for her impactful work in media and community building. She was recognized by Forbes in the Media category for their "30 Under 30" list. Additionally, Blavity, the digital media platform she co-founded, won the prestigious TechCrunch Disrupt Battlefield competition, showcasing its innovation and influence in the media landscape.`,
-    state: 'OREGON',
+    'Morgan DeBaun is a serial entrepreneur and corporate advisor. She is the Founder and CEO of Blavity Inc., a leading digital media company focused on Black culture and millennials. DeBaun co-founded Blavity in 2014, and it has since grown into a platform reaching over 100 million people monthly. Beyond media, she has raised $12 million in venture capital for Blavity, Inc. and advises influential global brands.',
+  content2:
+    'Morgan has received notable accolades for her impactful work in media and community building. She is a recipient of ADCOLOR\'s Innovative Award, has been recognized by Forbes in the 30 Under 30 and America\'s Top 50 Women in Tech lists, and was named one of the 100 Most Influential African Americans by The Root.',
+  state: 'OREGON',
   },
   {
     title: 'BUSINESS',
@@ -1282,8 +1283,8 @@ const contentLaureat = () => [
   {
     title: 'EDUCATION',
     subtitle: 'Tory Campbell',
-    content1:
-      "Tory Campbell is the Senior Associate Executive Director of Experience at the Oregon State University (OSU) Alumni Association, where he oversees alumni engagement and manages the Experience unit, focusing on digital community management, program service design, and service delivery. He also teaches at OSU's Innovation X, Center of Excellence for Innovation and Entrepreneurship. His diverse background includes roles such as Director of Economic Development at Prosper Portland, pastor, and operator of the family business, Felton & Mary's Artisan Foods. Campbell's contributions have earned him several awards, notably he was elected as the Reeve of Lethbridge County, a position that highlights his commitment to public service and community development and received the OSU Alumni Association Leadership Award.",
+  content1:
+    'Tory Campbell is the Founder & Principal Consultant at Facultas Leadership Group. His diverse background includes roles such as Director of Economic Development at Prosper Portland and as a pastor. With a strong foundation in business and entrepreneurship, Tory co-founded Felton & Mary\'s Artisan Foods, a family business producing traditional BBQ sauces and rubs that celebrate his heritage. His entrepreneurial journey has strengthened his advocacy for small businesses and deepened his understanding of the unique challenges faced by entrepreneurs, driving his commitment to community development and economic empowerment.',
     content2: '',
     state: 'OREGON',
   },
@@ -1291,10 +1292,10 @@ const contentLaureat = () => [
     title: 'REAL ESTATE',
     subtitle: 'Anyeley Hallová',
     content1:
-      'Anyeley Hallová is the founder of Adre, a Portland-based real estate development firm focused on creating wealth for marginalized communities through property ownership and investment. Founded in 2021, Adre emphasizes social equity and environmental sustainability in its projects. Before starting Adre, Hallová was a partner at Project^ for 12 years, where she led significant projects like the Meyer Memorial Trust headquarters, which won the 2022 Urban Land Institute Americas Award for Excellence.',
-    content2:
-      "Her commitment to sustainable and equitable development is evident in projects like the Williams & Russell Project, which provides affordable housing and business opportunities for Portland's African American community​. Additionally, Hallová has been recognized for her contributions to the field, including being named one of the best young land-use professionals by the Urban Land Institute in 2016 and winning first place at the 2022 PitchBlack competition for black-owned businesses in Oregon.",
-    state: 'OREGON',
+    'Anyeley Hallová is the founder of Adre, a Portland-based real estate development firm dedicated to creating wealth for marginalized communities through property ownership and investment. Established in 2021, Adre focuses on social equity and environmental sustainability in its projects. Prior to founding Adre, Hallová was a partner at Project^ for 12 years, where she led impactful projects like the Meyer Memorial Trust headquarters, winner of the 2022 Urban Land Institute Americas Award for Excellence.',
+  content2:
+    'Hallová’s commitment to sustainable and equitable development is evident in projects such as the Williams & Russell Project, which offers affordable housing and business opportunities for Portland’s African American community. Recognized for her contributions, she was named one of the best young land-use professionals by the Urban Land Institute in 2016 and has been honored as a “Top 40 Under 40” and “Woman of Influence” by the Portland Business Journal. Additionally, The Daily Journal of Commerce named her a “Woman of Vision,” and she was recognized as a Grist 50 Fixer for her impactful work in real estate development.',
+  state: 'OREGON',
   },
   {
     title: 'BUSINESS',
@@ -1309,18 +1310,19 @@ const contentLaureat = () => [
     title: 'COMMUNITY',
     subtitle: 'Camille Trummer',
     content1:
-      "Camille Trummer is an interdisciplinary social impact consultant, inclusive facilitator, and engagement strategist based in Portland, Oregon. She is the founder of Camille E. Trummer Consulting LLC, a boutique consultancy specializing in social corporate responsibility, community and stakeholder engagement, and strategic communications. With over a decade of experience, Camille has partnered with numerous organizations, including community-based groups, nonprofits, government agencies, and Fortune 500 companies, to create more inclusive and equitable social impact projects. She has been recognized for her contributions to the field, including being named one of Portland Business Journal's 40 Under 40 in 2023. Camille is also a founding board member of The Conscious Kid and serves on the Board of Directors for the Portland Housing Center and Business for a Better Portland.",
-    content2: '',
-    state: 'OREGON',
+    'Camille Trummer is an interdisciplinary social impact consultant, inclusive facilitator, and engagement strategist based in Portland, Oregon. She is the founder of Camille E. Trummer Consulting LLC, a boutique consultancy that specializes in social corporate responsibility, community and stakeholder engagement, and strategic communications.',
+  content2:
+    'With over a decade of experience, Camille has collaborated with a wide range of organizations—including community-based groups, nonprofits, government agencies, and Fortune 500 companies—to develop more inclusive and equitable social impact projects. In recognition of her work, she was named one of Portland Business Journal’s 40 Under 40 in 2023.',
+  state: 'OREGON',
   },
   {
     title: 'CIVIL SERVANT',
     subtitle: 'Millicent Williams',
-    content1:
-      "Millicent Williams is the Director of the Portland Bureau of Transportation (PBOT), appointed in July 2023. With extensive experience in public administration and urban planning, Williams has held key positions including PBOT's Deputy Director and Regional Director at Otak, Inc. Her leadership is marked by a strong commitment to inclusive engagement and sustainable transportation solutions. She oversees critical initiatives aimed at improving traffic safety, managing infrastructure projects, and enhancing mobility for all Portland residents.",
-    content2:
-      'Millicent Williams was honored with the DJC Women of Vision Award in 2022. This award recognizes women who are making significant contributions to the fields of architecture, engineering, and construction through their technical skills, leadership, mentorship, community involvement, and promotion of industry diversity.',
-    state: 'OREGON',
+  content1:
+    'Millicent Williams is the Director of the Portland Bureau of Transportation (PBOT), appointed in July 2023. With extensive experience in public administration and urban planning, she has held key positions including PBOT\'s Deputy Director and Regional Director at Otak, Inc.',
+  content2:
+    'Williams’ leadership is defined by her commitment to inclusive engagement and sustainable transportation solutions. She oversees critical initiatives to improve traffic safety, manage infrastructure projects, and enhance mobility for all Portland residents.',
+  state: 'OREGON',
   },
   {
     title: 'ENTREPRENEUR',
@@ -1360,36 +1362,36 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'Dr. Tim Lampkin',
     content1:
-      'Dr. Tim Lampkin is the founder and CEO of Higher Purpose Co., an economic justice nonprofit dedicated to building community wealth among Black residents in Mississippi by supporting Black-owned businesses. With over a decade of experience in community development and entrepreneurship, Dr. Lampkin has been instrumental in providing business education, funding, and strategic advice to disrupt the racial wealth gap in the United States.',
-    content2:
-      "Dr. Lampkin's contributions have earned him numerous accolades, including being selected as an Obama Foundation Leader in the inaugural cohort of 100 USA Leaders. He is also the first individual from Mississippi to be elected as an Ashoka Fellow, a prestigious recognition for social entrepreneurs. Additionally, The Mississippi Business Journal selected him as one of the 2019 Top Entrepreneurs in the state and The Motley Fool Foundation recently announced him as Mississippi's first Financial Freedom Fellow. He serves as President of Dr. Lampkin Impact Ventures, LLC providing economic justice advising, impact speaking, and creative digital content.",
-    state: 'MISSISSIPPI',
+    'Dr. Tim Lampkin is the founder and CEO of Higher Purpose Co., an economic justice nonprofit dedicated to building community wealth among Black residents in Mississippi by supporting Black-owned businesses. With over a decade of experience in community development and entrepreneurship, Dr. Lampkin has been instrumental in providing business education, funding, and strategic guidance to address the racial wealth gap in the United States.',
+  content2:
+    'Dr. Lampkin’s impactful work has earned him numerous accolades, including being named one of Mississippi’s Top Entrepreneurs in 2019 by the Mississippi Business Journal. He was also selected by Ashoka as Mississippi’s first recipient of the lifetime Social Impact Fellowship and was honored as the state’s inaugural Financial Freedom Fellow by The Motley Fool Foundation.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'POLITIC',
     subtitle: 'Bennie Thompson',
     content1:
-      "Bennie Thompson is a distinguished American politician currently serving as the U.S. Representative for Mississippi's 2nd Congressional District since 1993. A member of the Democratic Party, Thompson has made significant contributions to civil rights, education, and healthcare reform. He holds a Bachelor of Arts degree from Tougaloo College and a Master of Science degree in Educational Administration from Jackson State University. Thompson began his political career as an alderman and then mayor of his hometown, Bolton, Mississippi. He later served as a Hinds County Supervisor before being elected to Congress.",
-    content2:
-      "Throughout his career, Thompson has received numerous accolades for his work. Notably, he was the first African-American chairman of the House Homeland Security Committee and played a crucial role in the Select Committee to Investigate the January 6th Attack on the United States Capitol. In 2023, he received the Chairman's Award during the NAACP Image Awards for his advocacy for civil rights.",
-    state: 'MISSISSIPPI',
+    'Bennie Thompson is a distinguished American politician currently serving as the U.S. Representative for Mississippi\'s 2nd Congressional District. A dedicated member of the Democratic Party, Thompson has made significant contributions to civil rights, education, and healthcare reform. He holds a Bachelor of Arts degree from Tougaloo College and a Master of Science degree in Educational Administration from Jackson State University.',
+  content2:
+    'Thompson began his political career as an alderman and then mayor of his hometown, Bolton, Mississippi, later serving as a Hinds County Supervisor before being elected to Congress. He was the first African-American chairman of the House Homeland Security Committee, and in 2023, he received the Chairman’s Award at the NAACP Image Awards for his advocacy for civil rights.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'ATTORNEY/POLITICIAN',
     subtitle: 'Jennifer Riley Collins',
     content1:
-      "Jennifer Riley Collins is an American attorney and politician, currently serving as the county administrator for Hinds County, Mississippi. She has a distinguished career marked by her dedication to civil rights and justice. Collins is a retired U.S. Army Colonel, having served 32 years, including active duty and reserve roles as an intelligence officer. She earned her bachelor's degree from Alcorn State University, a master's degree in criminal justice administration from the University of Central Texas, and a Juris Doctor from Mississippi College School of Law",
-    content2:
-      "Throughout her career, Collins has received several prestigious awards and recognitions. She was awarded the Meritorious Service Medal (1 Oak Leaf Cluster), the Joint Service Medal, and the Army Commendation Medal (3 Oak Leaf Clusters). In 2008, she was nominated as one of Mississippi's Most Outstanding Women Lawyers. Her significant contributions to juvenile justice reform and her advocacy for equal justice have established her as a prominent figure in the legal and military communities​",
-    state: 'MISSISSIPPI',
+    'Jennifer Riley Collins is an American attorney and politician, currently serving as the Regional Administrator for Region IV at the U.S. Department of Housing and Urban Development (HUD), where she oversees federal housing initiatives and community development programs across the southeastern United States. A retired U.S. Army Colonel, Collins served 32 years, including roles as an intelligence officer in both active duty and reserve capacities. She holds a bachelor’s degree from Alcorn State University, a master’s degree in criminal justice administration from the University of Central Texas, and a Juris Doctor from Mississippi College School of Law.',
+  content2:
+    'Throughout her career, Collins has received several prestigious awards and recognitions. In 2020, she was selected for the Higher Heights Executive Leadership Fellowship, aimed at empowering Black women leaders. In 2018, she received the Hidden Figure Award from the National Bar Association for her contributions to the legal field. Additionally, she was named a Fellow of the W.K. Kellogg Foundation Community Leadership Network in 2017, an honor recognizing individuals dedicated to social equity and community change.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'LAWYER/HUMANITARIAN',
-    subtitle: 'Derrick Johnson',
-    content1: `Derrick Johnson is the President and CEO of the NAACP, a position he has held since October 2017. He previously served as vice chairman of the NAACP National Board of Directors and as the state president for the Mississippi State Conference NAACP. Under his leadership, the NAACP has launched several impactful campaigns, including the "Log Out" Facebook Campaign, the Jamestown to Jamestown Partnership, and the "We Are Done Dying" Campaign, which addresses healthcare inequities in the U.S.`,
-    content2:
-      "Derrick Johnson's contributions have been widely recognized through various prestigious awards. He received the Tougaloo College Meritorious Leadership Award, acknowledging his outstanding leadership and commitment to social justice. Additionally, Johnson was honored with the NAACP Medgar Evers Award for Excellence and the prestigious Mississippi Leader Award, further highlighting his significant impact on civil rights and social equity.",
-    state: 'MISSISSIPPI',
+    content1:
+    'Derrick Johnson is the President and CEO of the NAACP, a role he has held since October 2017. He previously served as vice chairman of the NAACP National Board of Directors and as the state president for the Mississippi State Conference NAACP. Under his leadership, the NAACP has launched impactful campaigns, including the "Log Out" Facebook Campaign, the Jamestown to Jamestown Partnership, and the "We Are Done Dying" Campaign, which addresses healthcare inequities in the United States.',
+  content2:
+    'Johnson’s leadership has been instrumental in steering the NAACP through critical initiatives focused on combating systemic racial injustices and advocating for social equity across the nation.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'ACTRESS',
@@ -1401,38 +1403,37 @@ const contentLaureat = () => [
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Cassandra Welchlin',
-    content1:
-      "Cassandra Welchlin is the Executive Director and co-convener of the Mississippi Black Women's Roundtable (MSBWR), an inter-generational statewide network dedicated to increasing civic engagement and voter participation among Black women while advocating for just and equitable public policy on behalf of Black women and girls. She co-founded and launched the Mississippi Women's Economic Security Initiative (MWESI), which was the first Women's Agenda launched in the South.",
-    content2:
-      "Cassandra has received several awards for her impactful work. She is a recipient of the Mississippi Black Women's Roundtable Award and has been recognized by the Ms. Foundation for her leadership and advocacy efforts.",
-    state: 'MISSISSIPPI',
+    subtitle: 'Cassandra Welchlin',
+  content1:
+    'Cassandra Welchlin is the Executive Director and co-convener of the Mississippi Black Women’s Roundtable (MSBWR), an inter-generational statewide network dedicated to increasing civic engagement and voter participation among Black women, while advocating for equitable public policy on behalf of Black women and girls. An active fellow in various leadership programs, Cassandra has been honored with several prestigious awards, including the 2021 Who’s Who Mississippi Women - Fannie Lou Hamer Award and the Woman of Vision Award by the Ms. Foundation for Women.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'CIVIC MAKER',
     subtitle: 'Pamela Junior',
     content1:
-      'Pamela Junior is the former director of the Two Mississippi Museums, comprising the Museum of Mississippi History and the Mississippi Civil Rights Museum in Jackson, Mississippi. Appointed in 2017, Junior was instrumental in the success and popularity of these museums, which have attracted over 320,000 visitors since their opening. Prior to this role, she served as the director of the Smith Robertson Museum and Cultural Center for seventeen years, where she dedicated her efforts to preserving and promoting African American history and culture.',
-    content2:
-      'Throughout her career, Junior has been recognized with numerous awards, including the Freedom Rider Award from the Mississippi Freedom 50th Foundation, the For My People Award from the Margaret Walker Center at Jackson State University, the Hometown Hero Award from the Jackson Convention and Visitors Bureau, and the Museum Leadership Award by the Association of African American Museums. She was also inducted into the Mississippi Tourism Hall of Fame. Junior continues to serve her community as a board member for Visit Jackson and an advisory board member for the Mississippi Book Festival.',
-    state: 'MISSISSIPPI',
+    'Pamela Junior is the Museum Manager at the Smith Robertson Museum and Cultural Center, where she is dedicated to preserving and promoting African American history and culture in Jackson, Mississippi. With a deep commitment to education and community engagement, Junior manages the museum’s exhibitions, educational programs, and cultural events, highlighting the rich contributions of African Americans to Mississippi’s heritage.',
+  content2:
+    'Junior has served on the boards of the Mississippi Delta National Heritage Area and the Mississippi Book Festival and co-founded the Mississippi Black Theater Festival. Under her leadership, the Smith Robertson Museum was named among the "50 States 50 Spots" by CNN in 2014. Junior has been honored with multiple awards, including the Civil Rights and Social Justice Award at the 8th Annual National Civil Rights Conference, the Freedom Rider Award from the Mississippi Freedom 50th Foundation, the For My People Award from the Margaret Walker Center at Jackson State University, and the Hometown Hero Award from the Jackson Convention and Visitors Bureau. She was also recognized at the 47th Annual Dr. Martin Luther King, Jr. Birthday Convocation at Jackson State University in 2015.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'POLITICS',
     subtitle: 'Cheikh Taylor',
     content1:
-      'Cheikh Taylor is a committed politician and community leader known for his service in the Mississippi House of Representatives. Born on December 12, 1973, in Starkville, Mississippi, Taylor has made a significant impact through his legislative work and community initiatives. He was elected to represent the 38th district in 2017 and has held key roles, including vice chairman of the County Affairs Committee and membership in several other influential committees.',
-    content2:
-      'In 2023, Taylor was elected chairman of the Mississippi Democratic Party, where he focuses on unifying the party and enhancing its infrastructure and financial stability. He is also the executive director of the Brickfire Project, a nonprofit providing vital services in the Golden Triangle area. Taylor has received several awards, including the Legislator of the Year Award from the Mississippi Association of Educators, the Community Leadership Award from the Starkville Area Arts Council, and the Public Service Award from the Mississippi Black Legislative Caucus.',
-    state: 'MISSISSIPPI',
+    'Cheikh Taylor is a committed politician and community leader known for his service in the Mississippi House of Representatives. Born on December 12, 1973, in Starkville, Mississippi, Taylor has made a significant impact through his legislative work and community initiatives. Elected to represent the 38th district in 2017, he has held key roles, including vice chairman of the County Affairs Committee and membership in several other influential committees.',
+  content2:
+    'In 2023, Taylor was elected chairman of the Mississippi Democratic Party, where he focuses on unifying the party and strengthening its infrastructure and financial stability. His dedication to public service and party leadership underscores his commitment to fostering progress in Mississippi.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'COMMUNICATION',
     subtitle: 'Zakiya Summers',
     content1:
-      'Zakiya Summers is a dedicated politician serving her second term in the Mississippi House of Representatives for District 68, encompassing parts of Hinds and Rankin counties. Known for her deep Jackson roots and community involvement, Summers has a robust background in advocacy, having worked with the ACLU of Mississippi and One Voice. She has championed legislation such as the Dignity for Incarcerated Women Act, increased funding for early learning, and voter suffrage, focusing on public education, healthcare expansion, and criminal justice reform.',
-    content2:
-      "Summers has been recognized with several awards, including the Mississippi Business Journal's Top 50 Business Leading Women of the Year (2018), the Social Justice Award from Zeta Phi Beta Sorority (2018), the Human Rights Award from Young Church Women United (2019), and the SHERO Award from Butterflies by Grace Defined by Faith (2021).",
-    state: 'MISSISSIPPI',
+    'Zakiya Summers is a dedicated politician serving her second term in the Mississippi House of Representatives for District 68, covering parts of Hinds and Rankin counties. Deeply rooted in Jackson with a strong background in advocacy, she has worked with the ACLU of Mississippi and One Voice. Summers has championed legislation such as the Dignity for Incarcerated Women Act, increased funding for early learning, and voter suffrage, focusing on issues like public education, healthcare expansion, and criminal justice reform.',
+  content2:
+    'Her dedication has earned her several awards, including the 2019 Human Rights Award from Young Church Women United and the 2021 SHERO Award from Butterflies for Grace Defined by Faith. In 2021, she graduated from the W.K. Kellogg Foundation Community Leadership Network Fellowship program, and in 2022, she was honored as Public Citizen of the Year by the Jefferson County Hospital Partial Hospitalization Program, led by Lucas Watson. She also received the Community Service Award from Alpha Phi Alpha Fraternity, Inc., Epsilon Lambda Chapter, and the Women Leading Change in Politics and Government Award from Women for Progress in Mississippi.',
+  state: 'MISSISSIPPI',
   },
   {
     title: 'ENTREPRENEUR',
