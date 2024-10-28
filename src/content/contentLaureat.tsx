@@ -1091,36 +1091,37 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Ashley Bell',
     content1:
-      'Ashley Bell is the founder and CEO of Ready Life, a fintech company dedicated to reducing the racial wealth and homeownership gaps in the United States. Under his leadership, Ready Life focuses on innovative banking solutions that enable marginalized communities to secure mortgages based on cash flow rather than traditional credit scores. Bell co-founded the company alongside notable figures such as Dr. Bernice A. King and key executives from the fintech industry.',
-    content2: `Ashley Bell has received numerous accolades throughout his career. He was named one of the "Top 40 Young Lawyers" by the American Bar Association and a "Lawyer on the Rise" by Georgia's leading legal journal. In 2017, he was recognized as a Georgia "Super Lawyer Rising Star." These awards highlight his significant contributions to the legal field and his impact on various community and business initiatives.`,
-    state: 'UTAH',
+    'Ashley Bell is the founder and CEO of Ready Life, a fintech company dedicated to reducing the racial wealth and homeownership gaps in the United States. Under his leadership, Ready Life focuses on innovative banking solutions that enable marginalized communities to secure mortgages based on cash flow rather than traditional credit scores. Bell co-founded the company alongside notable figures such as Dr. Bernice A. King and key executives from the fintech industry.',
+  content2:
+    "Ashley Bell has received numerous accolades throughout his career. He was named one of the 2023 Utah Business Leaders of the Year, recognized as a \"Top 40 Young Lawyer\" by the American Bar Association, and as a \"Lawyer on the Rise\" by Georgia's leading legal journal. These awards highlight his significant contributions to the legal field and his impact on various community and business initiatives.",
+  state: 'UTAH',
   },
   {
     title: 'BUSINESS',
     subtitle: 'James Jackson III',
-    content1:
-      "James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a critical resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has initiated several programs, including the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at elevating the diverse community in the state​",
-    content2:
-      "In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, where he builds relationships with diverse suppliers across the enterprise. His contributions have earned him several awards, including Utah Business Magazine's Forty Under 40 (2020), Westminster College's Unsung Hero (2018), and Omega Psi Phi Citizen of the Year (2018)​",
-    state: 'UTAH',
+     content1:
+    'James Jackson III is a prominent figure in Utah’s Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), a vital resource supporting Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has launched key initiatives, including the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at empowering and elevating Utah’s diverse communities.',
+  content2:
+    "In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, where he fosters relationships with diverse suppliers across the organization. His contributions have been recognized with several awards, including the Rising Star Award from the University of Utah David Eccles School of Business and the Dr. Ronald G. Coleman Award in 2023.",
+  state: 'UTAH',
   },
   {
     title: 'LAW',
     subtitle: 'Erika George',
-    content1:
-      'Erika George is the Samuel D. Thurman Professor of Law at the Utah S.J. Quinney College of Law. She earned a B.A. with honors from the University of Chicago and a J.D. from Harvard Law School, where she served as Articles Editor of the Harvard Civil Rights-Civil Liberties Law Review. She also holds an M.A. in International Relations from the University of Chicago.',
-    content2:
-      'She is a Fellow of the American Bar Foundation. She is Chair of the Advisory Board of the American Bar Association Center for Human Rights and serves on the editorial board of the Cambridge University Press Business and Human Rights Journal.',
-    state: 'UTAH',
+  content1:
+    'Erika George is the Associate Dean for Equity, Justice, and Engagement and holds the R. Gordon Butler Scholar in International Law title at Boston University School of Law. In this capacity, she leads initiatives to advance equity, inclusion, and social justice while actively engaging in research and teaching on international law and human rights.',
+  content2:
+    "Professor George earned her B.A. with honors and an M.A. in International Relations from the University of Chicago, followed by a J.D. from Harvard Law School, where she served as the Articles Editor for the Harvard Civil Rights-Civil Liberties Law Review. A Fellow of the American Bar Foundation, she has also contributed her expertise as a member of the Executive Board of the American Bar Association Center for Human Rights.",
+  state: 'UTAH',
   },
   {
     title: 'BUSINESS DEVELOPMENT',
     subtitle: 'Shawn Newell',
-    content1:
-      "Shawn Newell is the Vice President of Business Development at Industrial Supply Company, where he has worked for over 35 years. He is also a prominent community leader, serving as the Vice President of the Salt Lake Branch of the NAACP and a former Commissioner on the Governor's Martin Luther King Jr. Human Rights Commission. Additionally, Newell heads the Utah Multicultural Civic Council and serves on various boards, including the Utah Non-Profit Association and the Utah Manufacturer's Association Board.",
-    content2:
-      'Shawn has held significant roles in education and workforce development, such as Chair of the Workforce and Economic Development Advisory Board at Salt Lake Community College (SLCC) and President of the SLCC Alumni Council. He has received several awards throughout his career, including being named a Distinguished Alumni by Salt Lake Community College in 2017, recognizing his contributions and achievements in both his professional and community roles.',
-    state: 'UTAH',
+     content1:
+    'Shawn Newell is the Owner of Waves Enterprises, L.L.C., where he leverages his extensive experience in business and community development to drive impactful initiatives. Through his leadership, Shawn has become a prominent figure in advancing workforce development, diversity, and community engagement.',
+  content2:
+    'He has served on the boards of Salt Lake Community College and the Utah State Board of Education. In recognition of his contributions, he was honored as the 2017 SLCC Distinguished Alumni, highlighting his dedication to education and community service.',
+  state: 'UTAH',
   },
   {
     title: 'CIVIC LEADER',
@@ -1134,17 +1135,20 @@ const contentLaureat = () => [
   {
     title: 'COMMUNICATION',
     subtitle: 'Nikki Walker',
-    content1: `Nikki Walker is a seasoned communications professional with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent roles, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Transitioning into the tech sector, Nikki excelled as the Director of Community Engagement and DEI at a leading tech company, focusing on inclusivity and community connections.`,
-  content2: `In 2024, she launched NWPR & Consulting, a communications agency specializing in culturally competent strategies, and became a bestselling author as a co-author of the anthology 'Awareness Put Me On.' Nikki actively contributes to her community by serving on several nonprofit boards in Utah. Her achievements have garnered numerous accolades, including the Women Tech Council Change Catalyst Award, recognition as one of Utah Business Magazine's 30 Women to Watch, and a bronze Stevie Award for Female Employee of the Year.`,
+    content1:
+    'Nikki Walker is a seasoned communications professional with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent roles, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Transitioning into the tech sector, Nikki excelled as the Director of Community Engagement and DEI at a leading tech company, where she focused on inclusivity and community connections.',
+  content2:
+    'In 2024, Nikki launched NWPR & Consulting, a communications agency specializing in culturally competent strategies, and became a bestselling author as a co-author of the anthology "Awareness Put Me On." Actively engaged in her community, she serves on several nonprofit boards in Utah. Her achievements have earned her numerous accolades, including the Women Tech Change Catalyst Award, recognition as one of Utah Business Magazine\'s 30 Women to Watch, and a Stevie Award celebrating her exceptional contributions to her field.',
   state: 'UTAH',
   },
   {
     title: 'LEGISLATION',
     subtitle: 'Sandra Hollins',
-    content1:
-      'Sandra Hollins is a distinguished state legislator and social worker, serving as the first African American woman in the Utah State Legislature. Prior to her political career, Hollins worked as a licensed clinical social worker focusing on substance abuse and homelessness, managing the homeless outreach program at Volunteers of America Utah.',
-    content2: `Elected to the Utah House of Representatives in 2014, Hollins has made significant strides in legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, which bans chokeholds and other restrictive methods by police. She continues to serve on numerous committees and is actively involved in her community through various boards and organizations. Hollins has been recognized with awards such as the Call to Serve Award from Delta Sigma Theta Sorority, the Pioneer Award from the Utah African American Chamber of Commerce, and the Business Champion Award from the Salt Lake Chamber.`,
-    state: 'UTAH',
+      content1:
+    'Sandra Hollins is a distinguished state legislator and social worker, serving as the first African American woman in the Utah State Legislature. Before her political career, Hollins worked as a licensed clinical social worker specializing in substance abuse and homelessness, including managing the homeless outreach program at Volunteers of America Utah.',
+  content2:
+    'Elected to the Utah House of Representatives in 2014, Hollins has championed significant legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, banning chokeholds and other restrictive methods by police. She is an active member on numerous committees and contributes to her community through various boards and organizations. Hollins has been honored with awards such as the Salt Lake City NAACP Rosa Parks Award, a Sister Called to Serve Award, and the Salt Lake Chamber Pathfinder Award.',
+  state: 'UTAH',
   },
   {
     title: 'RELIGION/SOCIAL ACTIONS',
@@ -1159,18 +1163,19 @@ const contentLaureat = () => [
     title: 'POLITIC',
     subtitle: 'Mia B. Love',
     content1:
-      "Mia B. Love is a prominent American political figure known for her trailblazing achievements and dedicated public service. She served as the U.S. Representative for Utah's 4th Congressional District from 2015 to 2019, becoming the first Black Republican woman in Congress and the first Haitian-American elected to Congress. Love is currently a CNN correspondent and serves as a non-resident senior fellow at the United States Studies Centre at the University of Sydney.",
-    content2: `Mia Love has received several prestigious awards and honors throughout her career. She was named one of Utah Business Magazine's "30 Women to Watch" and received the "Rising Star" designation by CNN during her 2012 campaign.`,
-    state: 'UTAH',
+    'Mia B. Love is a prominent American political figure known for her trailblazing achievements and dedicated public service. She served as the U.S. Representative for Utah\'s 4th Congressional District from 2015 to 2019, becoming the first Black Republican woman in Congress and the first Haitian-American elected to Congress.',
+  content2:
+    'Love currently contributes her insights as a CNN correspondent and serves as a non-resident senior fellow at the United States Studies Centre at the University of Sydney, where she engages in public policy discussions and analysis.',
+  state: 'UTAH',
   },
   {
     title: 'EDUCATION',
     subtitle: 'Dr. Ronald G. Coleman',
     content1:
-      'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. He has had a significant impact on the field of Ethnic Studies, being one of the founding faculty members of the Ethnic Studies program at the University of Utah in 1973. He is an Emeritus Associate Professor of History and Ethnic Studies at the University, and a nationally recognized scholar of African American history.',
-    content2:
-      'Throughout his illustrious career, Dr. Coleman has been a staunch advocate for minority education and human rights. He co-founded the Utah Coalition for the Advancement of Minorities in Higher Education and served as chairman of the Martin Luther King, Jr. Human Rights Commission in Utah, playing a pivotal role in establishing the Martin Luther King, Jr. holiday in the state. His dedication to community service and education has earned him several prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice and recognition from the Federal King Commission and the King Center for Nonviolent Social Change.',
-    state: 'UTAH',
+    'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. He played a pivotal role in founding the University of Utah\'s Ethnic Studies program in 1973 and is an Emeritus Associate Professor of History and Ethnic Studies, renowned for his scholarship in African American history.',
+  content2:
+    'Dr. Coleman\'s commitment to community service and education has earned him numerous prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice, the Calvin S. and Jeneal N. Hatch Prize in Teaching, the 2000 Governor’s Award in Humanities, and the Albert B. Fitz Civil Rights Worker of the Year Award.',
+  state: 'UTAH',
   },
   {
     title: 'DEAN & PROFESSOR',
