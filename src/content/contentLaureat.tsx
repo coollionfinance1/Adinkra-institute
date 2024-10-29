@@ -792,34 +792,36 @@ const contentLaureat = () => [
   {
     title: 'BUSINESS',
     subtitle: 'James Clark',
-    content1: `James Clark is the Vice President of Public Safety and Community Response at the Urban League of Metropolitan St. Louis. With over 25 years of experience, Clark has been a pivotal figure in designing and implementing programs that enhance community safety and engagement. His initiatives, such as the "Serving Our Streets" program and the Urban Gun Violence De-Escalation Network, focus on resource delivery, conflict mediation, and neighborhood-based case management.`,
-    content2: `Throughout his career, Clark has organized large-scale community support events, including facilitating COVID-19 vaccinations for over 100,000 citizens and food distribution events supporting over 75,000 families. His dedication and impact have earned him numerous accolades, including the NAACP Montford Point Marines Trailblazer Award, the St. Louis American Foundation's Stellar Performance Award, the Normandy Schools Collaborative "Friend of the District" Award, and the St. Louis Community Empowerment Foundation's Excellence in Service Award.`,
-    state: 'MISSOURI',
+    content1:
+    'James Clark is the Vice President of Public Safety and Community Response at the Urban League of Metropolitan St. Louis. With over 25 years of experience, Clark has been instrumental in designing and implementing programs that focus on enhancing community safety and engagement. His initiatives, such as the "Serving Our Streets" program and the Urban Gun Violence De-Escalation Network, emphasize resource delivery, conflict mediation, and neighborhood-based case management.',
+  content2:
+    'Throughout his career, Clark has organized large-scale community support efforts, including facilitating COVID-19 vaccinations for over 100,000 residents and organizing food distribution events that have supported over 75,000 families.',
+  state: 'MISSOURI',
   },
   {
     title: 'BUSINESS',
     subtitle: 'Rosalind G. Brewer',
     content1:
-      "Rosalind G. Brewer, commonly known as Roz Brewer, is a prominent American businesswoman known for her groundbreaking leadership roles in some of the largest corporations. She is currently serving as the Chief Executive Officer of Walgreens Boots Alliance, a position she took up in March 2021. Before this, she was the Chief Operating Officer and Group President at Starbucks from October 2017 to January 2021, and prior to that, she served as the President and CEO of Sam's Club from 2012 to 2017, making her the first African American to lead a Walmart division. Her extensive leadership experience also includes serving on the boards of directors for companies such as Amazon, Lockheed Martin, and Molson Coors Brewing Company. She is the current Chairperson of the Board of Trustees at Spelman College, her alma mater​.",
-    content2:
-      "Throughout her career, Brewer has been recognized with numerous awards for her leadership and influence. These include being named one of Forbes' World's 100 Most Powerful Women multiple times, ranking 15th on Fortune's Most Powerful Women List in 2015, and being named among the 25 most influential women by the Financial Times in 2021.",
-    state: 'MISSOURI',
+    'Rosalind G. Brewer, commonly known as Roz Brewer, is a prominent American businesswoman celebrated for her pioneering leadership in major corporations. She most recently served as the Chief Executive Officer of Walgreens Boots Alliance, a position she held starting in March 2021. Previously, Brewer was the Chief Operating Officer and Group President at Starbucks from October 2017 to January 2021, and before that, she made history as the first African American President and CEO of Sam’s Club (2012-2017), a division of Walmart.',
+  content2:
+    'Brewer’s influence extends across several major corporate boards, including Amazon, Lockheed Martin, and Molson Coors Brewing Company. A Spelman College alumna, she currently serves as Chairperson of the Board of Trustees at the college. Throughout her career, Brewer has earned numerous accolades, including being named among Forbes’ World’s 100 Most Powerful Women and ranked 15th on Fortune’s Most Powerful Women List in 2015. She was also recognized as one of the 25 most influential women by the Financial Times in 2021.',
+  state: 'MISSOURI',
   },
   {
     title: 'BUSINESS',
     subtitle: 'Sandra M. Moore',
     content1:
-      'Sandra M. Moore is the Managing Director and Chief Impact Officer at Advantage Capital, where she leads initiatives to maximize community impact through strategic investments. With over three decades of experience in urban planning and economic development, she previously served as President of Urban Strategies, Inc., transforming distressed urban areas into vibrant communities. Her earlier roles include CEO of the Missouri Family Investment Trust and Director of the Missouri Department of Labor and Industrial Relations.',
-    content2:
-      'Moore has been a key figure in various community initiatives. She established the St. Louis Blues Museum and participated in Heat Up, Cool Down St. Louis. Recently, she was appointed Chair of the Missouri Historical Society Board of Trustees, reflecting her commitment to community service. She also has been honored with the Gerry and Bob Virgil Ethic of Service Award for her dedication to mentorship and community engagement.',
-    state: 'MISSOURI',
+    'Sandra M. Moore is the Managing Director and Chief Impact Officer at Advantage Capital, where she leads initiatives to drive community impact through strategic investments. With over 30 years of experience in urban planning and economic development, Moore previously served as President of Urban Strategies, Inc., where she focused on transforming distressed urban neighborhoods into vibrant communities. Her earlier roles include CEO of the Missouri Family Investment Trust and Director of the Missouri Department of Labor and Industrial Relations.',
+  content2:
+    'Moore’s leadership and contributions have earned her significant recognition. She was named one of the "Most Influential Business Women" in 2006 and listed among the "Most Admired Business Leaders" by St. Louis Small Business Monthly. Her dedication to impact-driven investments and community revitalization continues to shape economic growth and social equity.',
+  state: 'MISSOURI',
   },
   {
     title: 'JOURNALIST',
     subtitle: 'Yolanda Young',
-    content1: `Yolanda Young is a distinguished American journalist, author, and lecturer known for her insightful work on law, politics, and culture. Born on October 31, 1968, Young has addressed prestigious audiences at Harvard Law School and the University of Arizona, and was the keynote speaker at the 2011 National Black Pre-Law Conference. Her first book, "On Our Way To Beautiful," received favorable reviews, showcasing her talent as a memoirist. Young has also contributed to anthologies such as "This I Believe II" and "The Black Body.`,
-    content2: `In 2008, Young founded "On Being A Black Lawyer" (OBABL), a news and resource center for African American attorneys, which has been recognized by the American Bar Association. Her journalistic contributions include columns for USA Today and commentary for NPR and The Washington Post. Young's commitment to literary and journalistic excellence is further highlighted by her role as a board member of the PEN/Faulkner Foundation.`,
-    state: 'MISSOURI',
+     content1:
+    'Yolanda R. Young is a dedicated Democratic representative for Jackson County (District 22) in the Missouri House of Representatives, having been elected to her first term in January 2020 through a special election. Throughout her tenure, she has championed policies supporting community development and social justice, focusing on the needs of her constituents. Alongside her legislative work, Young operates Young Family Farm, a small urban farm business that aims to provide healthy food alternatives for residents in the urban core, addressing food access in areas known as food deserts.',
+  state: 'MISSOURI',
   },
   {
     title: 'ENTREPRENEUR',
@@ -834,9 +836,10 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Khalia Collier',
     content1:
-      "Khalia Collier is a prominent sports executive and entrepreneur known for her impactful role in the world of women's basketball. She is the owner and general manager of the St. Louis Surge, a women's professional basketball team, and serves as the commissioner of the Global Women's Basketball Association (GWBA). Born and raised in St. Louis, Collier played college basketball at Columbia College and Missouri Baptist University, where she earned a degree in communications. At the young age of 23, she purchased the Surge and has since led the team to multiple national championships, emphasizing both on-court success and community impact.",
-    content2: `Collier's leadership and contributions have earned her numerous awards, including being named to the St. Louis Business Journal's "30 Under 30" and "40 Under 40" lists, receiving the YMCA's MLK Human Dignity Award, the Power 100 Award, and Glamour's Missouri Woman of the Year Award. Additionally, she was honored with the prestigious Jack Buck Award for community impact and was inducted into the Fort Zumwalt High School Athletics Hall of Fame in 2022. Her dedication to community service is further exemplified by her role as Vice President of Community Relations for St. Louis City SC, the region's Major League Soccer franchise.`,
-    state: 'MISSOURI',
+    'Khalia Collier is a prominent sports executive and entrepreneur known for her transformative role in women’s basketball. She is the owner and general manager of the St. Louis Surge, a professional women’s basketball team, and serves as commissioner of the Global Women’s Basketball Association (GWBA). Collier’s leadership of the Surge, which she purchased at the age of 23, has led the team to multiple national championships, focusing on both athletic excellence and community impact.',
+  content2:
+    'Collier’s achievements have earned her numerous accolades, including St. Louis Business Journal’s "30 Under 30" and "40 Under 40," YMCA’s MLK Human Dignity Award, the Power 100 Award, Glamour’s Missouri Woman of the Year Award, and the Jack Buck Award for community impact.',
+  state: 'MISSOURI',
   },
   {
     title: 'ENTREPRENEUR',
@@ -851,10 +854,10 @@ const contentLaureat = () => [
     title: 'LAW',
     subtitle: 'Tracey Parrish',
     content1:
-      "Tracey Parrish is an accomplished paralegal with extensive experience in litigation case management, court filings, legal research, and document preparation. She currently serves at Emerzian Shankar Legal, Inc., where she plays a pivotal role in supporting the firm's legal operations. Tracey holds an Associate of Arts degree in Paralegal Studies from Fresno City College. Before joining Emerzian Shankar Legal, she worked with various local law firms specializing in civil litigation and managed her own small business.",
-    content2:
-      'Throughout her career, Tracey has received several awards in recognition of her outstanding contributions to the field of legal support, including the Paralegal Excellence Award, the Outstanding Service Award, and the Innovative Paralegal Practices Award.',
-    state: 'ALASKA',
+    'Tracey Parrish is a seasoned professional in the insurance industry and the owner of Alaska Pacific Insurance Agency (APIA), a multi-state company she founded in 1998. With over 25 years of experience, she has successfully expanded APIA to serve clients across 25 states, providing a comprehensive range of insurance services.',
+  content2:
+    'In addition to her business achievements, Tracey is committed to community leadership. She serves as Treasurer on the Board of Directors for the Alaska Women’s Leadership Forum and founded Brix, a non-profit organization that aims to inspire and educate young women in their career paths. Her contributions have earned her the Women Entrepreneur of the Year in Leadership for Alaska award.',
+  state: 'ALASKA',
   },
   {
     title: 'ENVIRONMENT',
@@ -876,28 +879,26 @@ const contentLaureat = () => [
     title: 'COMMUNITY',
     subtitle: 'Kayla Green',
     content1:
-      'Kayla Green is the Director of People and Culture at United Way of Anchorage, where she champions equity, diversity, inclusion, and access within the organization and the wider Anchorage community. Her extensive background in human resources and her academic credentials have been instrumental in her success in this role.',
-    content2:
-      'Throughout her career, Kayla has received several awards, including the Excellence in Communication Award, the Outstanding Service Award, and the Innovative Communication Practices Award for her creative approaches to enhancing communication. She is also actively involved in the community, serving as the 1st vice president of the Anchorage chapter of the NAACP and a member of the State of Alaska Board for Marriage and Family Therapy.',
-    state: 'ALASKA',
+    'Kayla Green is a skilled Human Resources Business Partner at ASRC Energy Services, LLC, where she applies her expertise in talent management, employee engagement, and organizational development to support and empower the workforce. With over a decade of experience in HR, Kayla is recognized for her dedication to fostering inclusive and equitable workplace environments that encourage growth and collaboration.',
+  content2:
+    'Beyond her professional role, Kayla is deeply involved in community advocacy. She serves as the 1st Vice President of the Anchorage NAACP and is a member of the State of Alaska Board for Marriage and Family Therapy, positions that underscore her commitment to equity and community support.',
+  state: 'ALASKA',
   },
   {
     title: 'SENATOR',
     subtitle: 'Senator Löki Gale Tobin',
     content1:
-      'Löki Gale Tobin is a dedicated member of the Alaska State Senate, representing District I, which includes Downtown Anchorage and Joint Base Elmendorf-Richardson. Since her election in November 2022, she has been committed to serving her constituents with integrity and dedication.',
-    content2:
-      "Throughout her career, Löki has held various significant roles that highlight her commitment to public service and community development. She volunteered with the Peace Corps in Azerbaijan, worked as a consultant for Kawerak, and served as the director of communications and donor relations at the Alaska Community Foundation. Löki's contributions have been widely recognized. She has received several prestigious awards, including being named a National Innovation Fellow, which acknowledges her innovative approach to policy and community engagement. She is also the Chair of the Senate Education Committee and a member of several other key committees, such as Judiciary, Transportation, and Health & Social Services.",
-    state: 'ALASKA',
+    'Löki Gale Tobin serves as a member of the Alaska State Senate for District I, representing Anchorage and Joint Base Elmendorf-Richardson. Elected in 2022, she officially began her term in January 2023. Tobin’s career reflects a profound commitment to public service, encompassing roles in policy development, community engagement, and strategic communications. Her work includes contributions to significant legislation in education, and she has served as a Peace Corps volunteer. Löki remains a strong advocate for inclusive policies that serve Alaska’s diverse communities.',
+  state: 'ALASKA',
   },
   {
     title: 'BUSINESS',
     subtitle: 'Traci Gatewood',
     content1:
-      "Traci Gatewood is the owner of G2 Diversified Services, a consulting firm in Fairbanks, Alaska, specializing in improving organizational effectiveness. With over 25 years of experience in human resources management, strategic planning, and training development, Traci has established herself as a leader in her field. Her work focuses on diversity, equity, and inclusion, exemplified by projects such as the Anchorage Museum's anti-racism initiative and systemic racism awareness at the University of Alaska Fairbanks.",
-    content2:
-      'Throughout her career, Traci has received several awards, including the Outstanding Service Award from the Fairbanks Chamber of Commerce, the Excellence in Human Resources Leadership Award, and the Innovative Business Practices Award. She also serves on multiple boards, including the Alaska Behavioral Health Board and the Fairbanks North Star Borough Salaries and Emoluments Commission.',
-    state: 'ALASKA',
+    'Traci Gatewood is the owner of G2 Diversified Services, a consulting firm in Fairbanks, Alaska, specializing in organizational effectiveness, diversity, equity, and inclusion. With over 25 years of experience in human resources, strategic planning, and training, Traci has established herself as a leader in driving positive organizational change.',
+  content2:
+    'A graduate of the University of Alaska Fairbanks, Traci has received numerous awards, including induction into the Golden Key National Honor Society, the Gray Tilly Memorial Award for her nontraditional path to graduation, as well as membership in the Phi Kappa Phi and Psi Chi Honor Societies. Named Student of the Year in Psychology, Traci also earned the National Defense Service Medal in recognition of her dedication to service.',
+  state: 'ALASKA',
   },
   {
     title: 'CIVISM',
@@ -921,9 +922,10 @@ const contentLaureat = () => [
     title: 'COMMUNITY',
     subtitle: 'Julie Varee',
     content1:
-      "Julie Varee is a distinguished development professional with over 30 years of experience. She currently serves as the Donor Relations Director at the Anchorage Museum, where she collaborates with individuals looking to make significant leadership-level and legacy gifts. Julie's professional journey has included roles with nonprofits in Washington, D.C., and Monterey, California, before she settled in Anchorage, Alaska, in 1989. Her extensive experience and commitment to advancing the field of philanthropy have earned her numerous accolades, including being honored by the AFP Alaska Chapter as the state's Outstanding Professional in Philanthropy in 1998. Additionally, she served as the Alaska Chapter's Diversity & Inclusion Committee Chair in 2016.",
-    content2: '',
-    state: 'ALASKA',
+    'Julie Varee is a retired information professional with over 30 years of experience in community engagement, most recently serving as the Archivist at the Anchorage Museum Atwood Resource Center. In this role, she focused on engaging the community with the museum’s archives and collections, supporting programs and exhibitions that highlight Alaska’s cultural heritage.',
+  content2:
+    'Julie’s dedication to diversity, equity, inclusion, and accessibility (DEIA) initiatives earned her the 2022 Diversity Award from the Society of American Archivists (SAA), celebrating her contributions to inclusivity in the archival field. An active member of Alaska’s nonprofit community, she served as the Diversity & Inclusion Committee Chair for the AFP Alaska Chapter in 2016 and was honored as Alaska’s Outstanding Professional in Philanthropy by AFP Alaska in 1998. Julie holds a Master’s in Library and Information Science from the University of Washington’s iSchool, enhancing her expertise in archival and information sciences.',
+  state: 'ALASKA',
   },
   {
     title: 'SPORT/ COMMUNITY',
@@ -973,10 +975,10 @@ const contentLaureat = () => [
     title: 'LAW',
     subtitle: 'Shammara Henderson',
     content1:
-      'Shammara Henderson is a distinguished American lawyer and jurist currently serving as a judge on the New Mexico Court of Appeals, a position she has held since March 1, 2020. Appointed by Governor Michelle Lujan Grisham, she made history as the first African American to serve on this court. Henderson has served as a clerk for the New Mexico Supreme Court, an assistant district attorney, and an assistant United States attorney. She co-founded Henderson & Grohman, PC, and has been an adjunct professor at the University of New Mexico School of Law.',
-    content2:
-      "Throughout her career, she has received numerous accolades, including the 2020 New Mexico Bar Association's Young Lawyers Division Outstanding Young Lawyer of the Year award and recognition as a Trailblazer by the University of New Mexico.",
-    state: 'NEW MEXICO',
+    'Shammara Henderson is a distinguished American lawyer and jurist currently serving as a judge on the New Mexico Court of Appeals, a role she has held since March 1, 2020. Appointed by Governor Michelle Lujan Grisham, she made history as the first African American to serve on this court. Henderson’s career spans various notable roles, including clerk for the New Mexico Supreme Court, assistant district attorney, and assistant United States attorney.',
+  content2:
+    'Henderson co-founded the law firm Henderson & Grohman, PC, and has also served as an adjunct professor at the University of New Mexico School of Law. Her contributions have been widely recognized, including the 2020 New Mexico Bar Association’s Young Lawyers Division Outstanding Young Lawyer of the Year award and recognition as a Trailblazer by the University of New Mexico.',
+  state: 'NEW MEXICO',
   },
   {
     title: 'FINANCE',
@@ -1007,10 +1009,11 @@ const contentLaureat = () => [
   {
     title: 'POETRY/ COMMUNITY',
     subtitle: 'Hakim Bellamy',
-    content1: `Hakim Bellamy is a highly accomplished poet, educator, and community leader based in Albuquerque, New Mexico. He was the inaugural Poet Laureate of Albuquerque from 2012 to 2014. Bellamy has earned multiple fellowships, including those from the W.K. Kellogg Foundation and the Kennedy Center, highlighting his impact in arts and community leadership. He has published several poetry collections, with his debut book "SWEAR" winning the Tillie Olsen Award for Creative Writing. His latest work, "Commissions y Corridos," was published in 2022.`,
-    content2:
-      'Bellamy holds an M.A. in Communications from the University of New Mexico and has taught at both UNM and the Institute of American Indian Arts. He has been recognized for his contributions to literature and social justice, including receiving the Emerging Creative Bravos Award and being named a Kennedy Center Citizen Artist Fellow. Bellamy currently serves as the Development Coordinator for the Center for Public Policy and was recently appointed President of the One Albuquerque Fund.',
-    state: 'NEW MEXICO',
+    content1:
+    'Hakim Bellamy is a highly accomplished poet, educator, and community leader based in Albuquerque, New Mexico. He served as Albuquerque’s inaugural Poet Laureate from 2012 to 2014 and has earned multiple fellowships, including those from the W.K. Kellogg Foundation and the Kennedy Center, showcasing his significant impact on arts and community leadership.',
+  content2:
+    'Bellamy has published several poetry collections, with his debut book "SWEAR" winning the Tillie Olsen Award for Creative Writing. His latest work, "Commissions y Corridos," was published in 2022. Holding an M.A. in Communications from the University of New Mexico, he has taught at both UNM and the Institute of American Indian Arts. Bellamy’s contributions to literature and social justice have earned him honors such as the Emerging Creative Bravos Award and recognition as a Kennedy Center Citizen Artist Fellow. He currently serves as the Development Coordinator for the Center for Public Policy.',
+  state: 'NEW MEXICO',
   },
   {
     title: 'TECHNOLOGY',
