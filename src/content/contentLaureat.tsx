@@ -1641,7 +1641,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Melissa Shivers',
+    subtitle: 'Doctor. Melissa Shivers',
     content1:
       'Dr. Melissa Shivers is the Senior Vice President for Student Life at The Ohio State University, a role she has held since January 2020. With nearly 30 years of experience in higher education, Dr. Shivers has dedicated her career to removing barriers to student and staff success, advancing health, safety, and security, and promoting diversity and inclusion. Prior to joining Ohio State, she held leadership roles at the University of Iowa, University of Tennessee, University of Georgia, Clemson University, and Georgia Southern University.',
     content2:
