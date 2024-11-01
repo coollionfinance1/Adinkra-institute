@@ -1632,7 +1632,7 @@ const contentLaureat = () => [
   },
   {
     title: 'ENTREPRENEUR',
-    subtitle: 'Dr. Eulanda Sanders',
+    subtitle: 'Eulanda Sanders',
     content1:
       'Dr. Eulanda Sanders is a distinguished design educator and practitioner, currently serving as the Chief Strategist for Innovation and Entrepreneurship at the Iowa State University College of Design. She has an extensive background in innovation, entrepreneurship, and leadership, making significant contributions to design research and actively promoting diversity, equity, inclusion, and belonging (DEIB) initiatives.',
     content2:
@@ -1650,7 +1650,7 @@ const contentLaureat = () => [
   },
   {
     title: 'BUSINESS',
-    subtitle: 'Dr. LaDrina Wilson',
+    subtitle: 'Labrina Wilson',
     content1:
       "Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She is also the Vice President for Student Services at Black Hawk College, where she oversees student affairs and promotes educational success. Dr. Wilson has built a robust foundation for her career. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Additionally, she has been recognized with several awards for her contributions, including being named one of the Quad Cities Business Journal's Most Influential Leaders.",
     content2: '',
@@ -1658,7 +1658,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Kesho Y. Scott',
+    subtitle: 'Kesho Y. Scott',
     content1:
       "Dr. Kesho Y. Scott is an associate professor of American Studies and Sociology at Grinnell College. An internationally renowned diversity trainer and consultant, she has dedicated her career to addressing and unlearning racism and other social injustices. Dr. Scott's pioneering work in cultural competency has seen her develop workshops and training programs that have been implemented across the United States and internationally. She is the first African American woman to receive tenure at Grinnell College, marking a significant milestone in her academic career.",
     content2: `Dr. Scott is also an award-winning writer, known for her books "The Habit of Surviving: Black Women's Strategies for Life" and "Unlearning Racism: Stop Hurting Others and Ourselves." Her accolades include the American Book Award in 1988 for "Tight Spaces," a book co-authored with Cherry Muhanji and Egyirba High, and an honorary Doctor of Social Science degree from Grinnell College in 2021`,
@@ -1675,7 +1675,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Skylar Mayberry-Mayes',
+    subtitle: 'Skylar Mayberry-Mayes',
     content1:
       "Dr. Skylar Mayberry-Mayes is a dedicated community leader and educator, currently serving as the Executive Director of the Jacobson Institute at Grand View University. In this role, he focuses on providing skills, training, and assessment for a future-ready workforce. Dr. Mayberry-Mayes is also an adjunct instructor at the University of Northern Iowa's Wilson College of Business and has previously worked in community relations and external affairs for Principal Financial Group and Nationwide Insurance.",
     content2:
@@ -1686,41 +1686,90 @@ const contentLaureat = () => [
     title: 'ELECTRICAL ENGINEER',
     subtitle: 'Kimberly Bryant',
     content1:
-      "Kimberly Bryant is the founder and CEO of Black Girls Code, a nonprofit organization she established in 2011 to introduce young African American girls to technology and computer programming. Her career spans over 20 years in the biotechnology and pharmaceutical industries, having held significant roles at companies like Genentech, Merck, and Pfizer. Inspired by her daughter's interest in programming and the lack of suitable courses for minority girls, Bryant created Black Girls Code to fill this gap and promote diversity in the tech industry.",
-    content2: `Bryant's work has earned her numerous accolades, including the Jefferson Award for Community Service in 2012 and being named a White House Champion of Change for Tech Inclusion in 2013. She has also been recognized as one of the "25 Most Influential African Americans in Technology" by Business Insider and has received the Smithsonian Magazine's American Ingenuity Award for Social Progress. Additionally, she was honored with the SXSW Interactive Festival Hall of Fame award in 2019. As a thought leader in tech inclusion, Bryant has spoken at various high-profile events such as TEDx, SXSW, and the Platform Summit.`,
+      'Kimberly Bryant is the founder and CEO of Black Girls Code, a nonprofit organization she established in 2011 to introduce young African American girls to technology and computer programming. Her career spans over 20 years in the biotechnology and pharmaceutical industries, having held significant roles at companies like Genentech, Merck, and Pfizer.',
+    content2:
+      "Inspired by her daughter's interest in programming and the lack of suitable courses for minority girls, Bryant created Black Girls Code to fill this gap and promote diversity in the tech industry. Bryant's work has earned her numerous accolades, including the Jefferson Award for Community Service in 2012 and being named a White House Champion of Change for Tech Inclusion in 2013.",
     state: 'LOUISIANA',
   },
   {
     title: 'ACTIVIST',
     subtitle: 'Brittany Packnett Cunningham',
-    content1: `Brittany Packnett Cunningham is a renowned social justice activist, educator, and writer. She is the Vice President of Social Impact at BET and serves as a political analyst for NBC News and MSNBC. Additionally, she hosts the podcast "UNDISTRACTED," which explores news and justice through an intersectional lens. Packnett Cunningham has been a prominent figure in social justice movements, co-founding Campaign Zero to combat police violence and serving on President Obama's Task Force on 21st Century Policing and the Ferguson Commission. Her career also includes significant roles at Teach For America and as a policy advisor in Congress.",
-                          content2: "Her impactful work has garnered numerous accolades, including being named one of TIME Magazine's 12 New Faces of Black Leadership, and receiving honors from BET, Politico, and Marie Claire. She has been featured on the covers of Essence and British Vogue. Packnett Cunningham has delivered a highly-viewed TED Talk on the revolution of confidence and is the author of the forthcoming book, "We Are Like Those Who Dream." She serves on the Gucci Changemakers Council and the Sephora Equity Advisors Board, continuously working to advance social justice and equity`,
+    content1:
+      'Brittany Packnett Cunningham is a renowned social justice activist, educator, and writer. She is the Vice President of Social Impact at BET and serves as a political analyst for NBC News and MSNBC. Additionally, she hosts the podcast "UNDISTRACTED," which explores news and justice through an intersectional lens.',
+    content2:
+      "Packnett Cunningham has been a prominent figure in social justice movements, co-founding Campaign Zero to combat police violence and serving on President Obama's Task Force on 21st Century Policing and the Ferguson Commission. Her impactful work has garnered numerous accolades, including being named one of TIME Magazine’s 12 New Faces of Black Leadership.",
     state: 'LOUISIANA',
   },
   {
     title: 'COMMUNITY',
     subtitle: 'Myra Richardson',
     content1:
-      "Myra Richardson is a prominent activist and serial entrepreneur based in Baton Rouge, Louisiana. She is the founder of 225Fest, a celebration highlighting the cultural vibrancy of Baton Rouge, and the co-creator of Justice X, an organization aimed at fostering social justice. Growing up amidst adversity, Richardson has become a well-recognized leader and catalyst for change, particularly known for her role as Louisiana's Ambassador for the Women's March on Washington. Her activism began in earnest as a teenager when she organized a massive peaceful protest to the State Capitol following the shooting of Alton Sterling, demonstrating her commitment to mobilizing youth against systemic oppression.",
+      'Myra Richardson is a prominent activist and serial entrepreneur based in Baton Rouge, Louisiana. She is the founder of 225Fest, a celebration highlighting the cultural vibrancy of Baton Rouge, and the co-creator of Justice X, an organization aimed at fostering social justice.',
     content2:
-      "Richardson has received several accolades for her impactful work. She has been featured as a TEDx speaker, sharing her insights on earning one's seat at the table and the importance of active engagement in social justice. Additionally, she received the W. Montague Cobb Lifetime Achievement Award by the NAACP, recognition as the Business Report's Youngest 40 Under 40 recipient, and the Acie J. Belton Lifetime Achievement Award for impactful Scotlandville advocates.",
+      'Growing up amidst adversity, Richardson has become a well-recognized leader and catalyst for change, particularly known for her role as Louisiana’s Ambassador for the Women’s March on Washington. Her activism began in earnest as a teenager when she organized a massive peaceful protest to the State Capitol following the shooting of Alton Sterling.',
     state: 'LOUISIANA',
   },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Andre Lewis',
     content1:
-      "Andre Lewis is the Chief Operating Officer of VPG Holdings LLC, a company he co-founded in 2010. VPG Holdings, based in New Orleans, specializes in real estate development and construction services. Andre graduated summa cum laude with a degree in Mechanical Engineering from Tuskegee University in 2008. His leadership has been crucial in expanding the company's portfolio, including overseeing over $8 million in purchase and rehab projects and planning for an additional $20 million in upcoming projects. Andre is currently leading a strategic plan to expand VPG's real estate portfolio to 1,000 housing units.",
-    content2: `Under Andre's operational leadership, VPG Construction has received several accolades, including recognition by INC 500 as the 250th fastest-growing company in America. Additionally, Andre has been honored as "Top Forty under 40" business professionals by the Gambit and has received the Millennial Award for Real Estate.`,
+      'Andre Lewis is the Chief Operating Officer of VPG Holdings LLC, a company he co-founded in 2010. VPG Holdings, based in New Orleans, specializes in real estate development and construction services. Andre graduated summa cum laude with a degree in Mechanical Engineering from Tuskegee University in 2008.',
+    content2:
+      "His leadership has been crucial in expanding the company’s portfolio, including overseeing over $8 million in purchase and rehab projects and planning for an additional $20 million in upcoming projects. Under Andre's operational leadership, VPG Construction has received several accolades, including recognition by INC 500 as the 250th fastest-growing company in America.",
     state: 'LOUISIANA',
   },
   {
     title: 'LAW',
     subtitle: 'Judge Jerry Edwards Jr.',
     content1:
-      "Judge Jerry Edwards Jr. is a trailblazing jurist and the first person of color to serve as a federal judge in the Western District of Louisiana, appointed in December 2023. His legal career began with clerkships in the Caddo Parish District Court, followed by a significant tenure at Blanchard, Walker, O'Quin & Roberts, where he became a shareholder and director. Edwards' expertise and leadership were further demonstrated during his time as Civil Chief and later as First Assistant U.S. Attorney for the Western District of Louisiana, overseeing major federal criminal and civil cases​;",
+      'Judge Jerry Edwards Jr. is a trailblazing jurist and the first person of color to serve as a federal judge in the Western District of Louisiana, appointed in December 2023. His legal career began with clerkships in the Caddo Parish District Court, followed by a significant tenure at Blanchard, Walker, O’Quin & Roberts, where he became a shareholder and director.',
     content2:
-      "Throughout his career, Judge Edwards has received numerous accolades. Notably, he was named a 40 under 40 recipient by the Young Professionals Initiative, recognizing his contributions to the Shreveport-Bossier community. Additionally, he has been included in Louisiana's Super Lawyers Rising Stars from 2012 to 2014. His professional affiliations include membership in the Judiciary Commission of Louisiana, the Louisiana State Bar Association Young Lawyers Division Council, the Louisiana Association of Defense Counsel, and the Shreveport-Bossier Black Lawyers Association, among others.",
+      "Edwards' expertise and leadership were further demonstrated during his time as Civil Chief and later as First Assistant U.S. Attorney for the Western District of Louisiana, overseeing major federal criminal and civil cases. Throughout his career, Judge Edwards has received numerous accolades.",
+    state: 'LOUISIANA',
+  },
+  {
+    title: 'BUSINESS',
+    subtitle: 'Kenya Roberson',
+    content1:
+      'Kenya Roberson serves as the Executive Director for the Monroe Regional Black Chamber of Commerce, where she drives economic growth and supports Black-owned businesses in the Monroe region. With a background in the fashion industry, working with prestigious brands like Herve Leger and Max Azria, she later founded Elite Garment Distro, a wholesale distribution company specializing in designer apparel.',
+    content2:
+      "Her innovative approach and dedication to blending high fashion with wholesale distribution have distinguished her in the industry. Kenya's leadership at the Monroe Regional Black Chamber of Commerce focuses on providing networking opportunities, business development, and economic empowerment for local entrepreneurs.",
+    state: 'LOUISIANA',
+  },
+  {
+    title: 'BUSINESS',
+    subtitle: 'Iam Tucker',
+    content1:
+      'Iam Tucker is the President and CEO of Integrated Logistical Support, Inc. (ILSI), a female and minority-owned civil engineering firm based in New Orleans. Under her leadership, ILSI Engineering specializes in sewer, water, street, and drainage design projects. As a second-generation owner, Tucker has grown the company significantly.',
+    content2:
+      "Tucker's leadership and entrepreneurial spirit have been widely recognized. She was honored as the 2024 National Small Business Person of the Year by the U.S. Small Business Administration, acknowledging her exceptional leadership and the sustainable growth of her business.",
+    state: 'LOUISIANA',
+  },
+  {
+    title: 'FINANCE',
+    subtitle: 'Rashida Dawson',
+    content1:
+      'Rashida Dawson is the Vice President of Financial Stability at United Way of Northwest Louisiana (UWNWLA) and the Nonprofit Manager of the Shreveport Financial Empowerment Center (SFEC). In her role at UWNWLA, she oversees various financial empowerment programs, including the Bank On Northwest Louisiana initiative.',
+    content2:
+      'Rashida has an extensive background in government and public service, having worked for the City of Shreveport’s Department of Community Development and Shreveport Federal Credit Union. She is actively involved in numerous community organizations.',
+    state: 'LOUISIANA',
+  },
+  {
+    title: 'ENTREPRENEURSHIP',
+    subtitle: 'Klassi R. Duncan',
+    content1:
+      'Klassi R. Duncan is the Vice President of the Center for Entrepreneurship & Innovation (CEI) at the Urban League of Louisiana. Based in New Orleans, she oversees several programs, including the Women’s Business Resource Center and the Contractor’s Resource Center.',
+    content2:
+      'Duncan has been recognized with several awards for her contributions and leadership. She received the 2021 Entrepreneurship Champion Award and has been actively involved with multiple professional organizations.',
+    state: 'LOUISIANA',
+  },
+  {
+    title: 'BUSINESS',
+    subtitle: 'Dr. Carla Antoine',
+    content1:
+      'Dr. Carla Antoine serves as the Director of the Small Business Support Services Center at the Urban League of Louisiana. She has over 8 years of experience as the CEO of Life Towne Center, a nonprofit organization that provides opportunities and resources for veteran-owned, minority-owned, and disadvantaged small businesses.',
+    content2:
+      "Dr. Antoine's academic credentials include a Doctor of Ministry, a Master of Divinity, and a Master of Arts. She is actively engaged in community programs like the Start Up! Louisiana Bootcamp.",
     state: 'LOUISIANA',
   },
   {
@@ -1842,7 +1891,7 @@ const contentLaureat = () => [
     state: 'Massachusetts',
   },
   {
-    title: 'Dr. Ashifi Gogo',
+    title: 'Ashifi Gogo',
     subtitle: 'Founder and CEO of Sproxil',
     content1:
       "Dr. Ashifi Gogo is a prominent entrepreneur, inventor, and global health pioneer, best known as the founder and CEO of Sproxil, a technology company dedicated to combating the distribution of counterfeit products. Under his leadership, Sproxil has developed award-winning technologies that have been used globally to verify product authenticity and engage consumers, significantly impacting industries such as healthcare, automotive, and consumer goods. Sproxil's solutions have been applied to over 2.5 billion product units in six countries.",
@@ -2008,7 +2057,7 @@ const contentLaureat = () => [
     state: 'Maryland',
   },
   {
-    title: 'Michelle Rice',
+    title: 'Michelle. Rice',
     subtitle: 'President of TV One and CLEO TV',
     content1:
       "Michelle Rice is the President of TV One and CLEO TV, subsidiaries of Urban One, the largest Black-owned broadcasting company in the United States. With over two decades of experience in the television industry, Rice has been instrumental in shaping content that highlights positive depictions of Black life and culture. She has played a pivotal role in launching and expanding TV One's sister network, CLEO TV, which serves Millennial and Gen X women of color.",
@@ -2035,7 +2084,7 @@ const contentLaureat = () => [
     state: 'Maryland',
   },
   {
-    title: 'Dr. Karsonya Wise Whitehead',
+    title: 'Karsonya Wise Whitehead',
     subtitle:
       'Professor of Communication and African and African American Studies at Loyola University Maryland',
     content1:
@@ -2045,7 +2094,7 @@ const contentLaureat = () => [
     state: 'Maryland',
   },
   {
-    title: 'Dr. Kenneth F. Harris',
+    title: 'Kenneth F. Harris',
     subtitle: 'Leader and Scientist',
     content1:
       'Dr. Kenneth F. Harris II is an accomplished leader and scientist, recognized globally for his contributions to the field of science and technology. Since the age of 16, he has been involved in significant projects at NASA Goddard Space Flight Center, contributing to the development and launch of five satellites. He is also acknowledged by Forbes Magazine as one of the world’s youngest and most impactful individuals in science.',
@@ -2072,7 +2121,7 @@ const contentLaureat = () => [
     state: 'Maryland',
   },
   {
-    title: 'Dr. Michelle A. Gourdine',
+    title: 'Michelle A. Gourdine',
     subtitle:
       'Chief Medical Officer (interim) at the University of Maryland Medical System',
     content1:

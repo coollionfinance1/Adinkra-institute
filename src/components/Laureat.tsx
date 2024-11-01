@@ -1,8 +1,8 @@
-import { Button, Typography } from "@material-tailwind/react";
-import { useEffect, useState } from "react";
+import { Button, Typography } from '@material-tailwind/react';
+import { useEffect, useState } from 'react';
 
 function removeAccents(str: string) {
-  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
 const Laureat: React.FC<{
@@ -11,29 +11,30 @@ const Laureat: React.FC<{
   subtitle: string;
   content1: string;
   content2: string;
-  state:string;
+  state: string;
 }> = ({ index, title, subtitle, content1, content2, state }) => {
   const [TestImg, setTestImg] = useState<string | undefined>(undefined);
   useEffect(() => {
     const loadImage = async () => {
       const img = await import(
         `../assets/Achievers/${state}/${removeAccents(
-          subtitle.split(" ")[0]
+          subtitle.split(' ')[0]
         )}.png`
       );
       setTestImg(img.default); // Use img.default if using React's Webpack setup
     };
 
+
     loadImage();
-  }, [subtitle]);
+  }, [state]);
   const [visible, setVisible] = useState(false);
   const className = !visible
-    ? "text-sm leading-6 text-gray-900 h-36 overflow-hidden"
-    : "text-sm leading-6 text-gray-900 overflow-hidden";
+    ? 'text-sm leading-6 text-gray-900 h-36 overflow-hidden'
+    : 'text-sm leading-6 text-gray-900 overflow-hidden';
   const mainClassName =
     index % 2 == 0
-      ? "flex flex-col lg:flex-row  justify-between items-start bg-bg p-4 rounded-md"
-      : "flex flex-col lg:flex-row justify-between items-start";
+      ? 'flex flex-col lg:flex-row  justify-between items-start bg-bg p-4 rounded-md'
+      : 'flex flex-col lg:flex-row justify-between items-start';
   return (
     <div className={mainClassName}>
       <div className="lg:w-[30%] h-full w-full flex justify-center items-center">

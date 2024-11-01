@@ -2,7 +2,7 @@ import { Typography } from "@material-tailwind/react";
 import SearchBar from "../components/SearchBar";
 import contentLaureat from "../content/contentLaureat";
 import Laureat from "../components/Laureat";
-import { activeCountry } from "../content/contentFiltersLaureat";
+import { activeCountry, statesChangeFormat } from "../content/contentFiltersLaureat";
 import { useState } from "react";
 
 function checkLetters(input: string, requiredLetters: string): boolean {
@@ -58,13 +58,13 @@ const Achievers = () => {
           )
           .map(({ title, subtitle, content1, content2 }, index) => (
             <Laureat
-              key={index}
+              key={subtitle}
               index={index}
               state={state.charAt(0).toUpperCase() + state.slice(1,state.length)}
               content1={content1}
               content2={content2 ?? ""}
-              title={title}
-              subtitle={subtitle}
+              title={statesChangeFormat.includes(state.charAt(0).toUpperCase() + state.slice(1,state.length)) ? subtitle : title}
+              subtitle={statesChangeFormat.includes(state.charAt(0).toUpperCase() + state.slice(1,state.length)) ? title : subtitle}
             />
           ))}
       </div>
