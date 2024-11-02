@@ -3706,7 +3706,7 @@ const contentLaureat = () => [
   },
   {
     title: 'BUSINESS',
-    subtitle: 'Dr. Traci Lynn',
+    subtitle: 'Traci Lynn',
     content1:
       'Dr. Traci Lynn is a highly successful entrepreneur, motivational speaker, and author, best known as the founder and CEO of Traci Lynn Jewelry. She launched the company in 1989 with just $200 and has grown it into a multi-million dollar enterprise, boasting nearly 25,000 independent sales consultants across 46 states.',
     content2:
@@ -4065,7 +4065,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Makola M. Abdullah',
+    subtitle: 'Makola M. Abdullah',
     content1:
       'Dr. Makola M. Abdullah is the 14th president of Virginia State University (VSU), a role he has held since February 2016. Under his leadership, VSU has experienced significant growth and accomplishments. Notably, the university saw the largest year-to-year increase in enrollment in over a decade, the highest retention rate in more than 20 years, and record-high four-year graduation rates.',
     content2:
@@ -4083,7 +4083,7 @@ const contentLaureat = () => [
   },
   {
     title: 'HIGH EDUCATION PIONEER',
-    subtitle: 'Dr. Tynisha D. Willingham',
+    subtitle: 'Tynisha D. Willingham',
     content1:
       'Dr. Tynisha D. Willingham is the Provost at Eastern Mennonite University (EMU), a position she began on July 3, 2023. She previously served as Vice President of Academic Affairs and Chief Academic Officer at Mary Baldwin University. With over 20 years of experience in academia, Dr. Willingham has led significant projects, including a SACSCOC Quality Enhancement Plan impact report and a 5-year interim report.',
     content2:
@@ -4191,7 +4191,7 @@ const contentLaureat = () => [
   },
   {
     title: 'SOCIAL JUSTICE',
-    subtitle: 'Darryl P. Turpin',
+    subtitle: 'Darryl. P. Turpin',
     content1:
       'Darryl P. Turpin is a leading expert in social justice and public health, currently serving as a Co-Principal for The Pinwheel Group. With a focus on addressing systemic inequities and promoting wellness among African American men, Turpin has held significant roles, including Coordinator for the City of Louisville’s Department of Public Health and Wellness and Branch Manager of Program Development for the Kentucky Department of Juvenile Justice. He developed the H.E.A.T. (Habilitation Empowerment Accountability Therapy) program, a culturally tailored intervention aimed at supporting African American men in the criminal justice system.',
     content2:
@@ -4263,7 +4263,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Tonya Perry',
+    subtitle: 'Tonya Perry',
     content1:
       'Dr. Tonya Perry is a distinguished professor at the University of Alabama at Birmingham (UAB), where she also serves as the Executive Director of GEAR UP Alabama and the Red Mountain Writing Project. Throughout her career, Dr. Perry has been dedicated to promoting equity and literacy, working closely with teachers, students, and communities to implement research-based literacy practices.',
     content2:
@@ -4299,7 +4299,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Audrey Gregory',
+    subtitle: 'Audrey Gregory',
     content1:
       'Dr. Audrey Gregory is a distinguished leader in healthcare, currently serving as the President and CEO of AdventHealth Central Florida-North Region. She oversees strategic planning, vision casting, physician relationships, and all operational aspects across Volusia, Flagler, and Lake counties.',
     content2:
@@ -4371,7 +4371,7 @@ const contentLaureat = () => [
   },
   {
     title: 'EDUCATION',
-    subtitle: 'Dr. Tonya Matthews',
+    subtitle: 'Tonya Matthews',
     content1:
       'Dr. Tonya Matthews is the CEO of the International African American Museum (IAAM) in Charleston, South Carolina. She is a thought leader in institutional equity, inclusion frameworks, and social entrepreneurship, with a rich background that spans both poetry and engineering. Prior to her role at IAAM, Dr. Matthews served as Associate Provost for Inclusive Workforce Development and Director of the STEM Innovation Learning Center at Wayne State University.',
     content2:
