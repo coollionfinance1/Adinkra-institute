@@ -1,16 +1,17 @@
-import Logo from "../components/Logo";
-import RichardPicture from "../assets/Richard.jpeg";
-import JeanPicture from "../assets/jean.jpeg";
-import AmyPicture from "../assets/amy.jpeg";
+import Logo from '../components/Logo';
+import RichardPicture from '../assets/Richard.jpeg';
+import JeanPicture from '../assets/jean.jpeg';
+import AmyPicture from '../assets/amy.jpeg';
+import DevPicture from '../assets/dev.jpeg';
 
 const contentEnglish = {
   topBar: {
-    logo: "Adinkra Institute",
+    logo: 'Adinkra Institute',
     navItems: [
       {
-        name: "Home",
-        link: "/#home",
-        tag: "home",
+        name: 'Home',
+        link: '/#home',
+        tag: 'home',
         Logo: () => {
           return (
             <svg
@@ -30,30 +31,9 @@ const contentEnglish = {
         },
       },
       {
-        name: "Honorees",
-        link: "honorees",
-        tag: "honorees",
-        Logo: () => {
-          return (
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              className="
-             t size-3"
-            >
-              <path
-                fillRule="evenodd"
-                d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z"
-                clipRule="evenodd"
-              />
-            </svg>
-          );
-        },
-      },{
-        name: "Team",
-        link: "/#team",
-        tag: "team",
+        name: 'Honorees',
+        link: 'honorees',
+        tag: 'honorees',
         Logo: () => {
           return (
             <svg
@@ -73,9 +53,31 @@ const contentEnglish = {
         },
       },
       {
-        name: "About Us",
-        link: "/#about",
-        tag: "about",
+        name: 'Team',
+        link: '/#team',
+        tag: 'team',
+        Logo: () => {
+          return (
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              className="
+             t size-3"
+            >
+              <path
+                fillRule="evenodd"
+                d="M9.293 2.293a1 1 0 0 1 1.414 0l7 7A1 1 0 0 1 17 11h-1v6a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-6H3a1 1 0 0 1-.707-1.707l7-7Z"
+                clipRule="evenodd"
+              />
+            </svg>
+          );
+        },
+      },
+      {
+        name: 'About Us',
+        link: '/#about',
+        tag: 'about',
         Logo: () => {
           return (
             <svg
@@ -95,9 +97,9 @@ const contentEnglish = {
         },
       },
       {
-        name: "Press",
-        link: "#press",
-        tag: "press",
+        name: 'Press',
+        link: '#press',
+        tag: 'press',
         Logo: () => {
           return (
             <svg
@@ -117,9 +119,9 @@ const contentEnglish = {
         },
       },
       {
-        name: "Contact Us",
-        link: "/#contact",
-        tag: "contact",
+        name: 'Contact Us',
+        link: '/#contact',
+        tag: 'contact',
         Logo: () => {
           return (
             <svg
@@ -140,30 +142,30 @@ const contentEnglish = {
       },
     ],
     contact: {
-      name: "Get in Touch",
-      link: "#contact",
+      name: 'Get in Touch',
+      link: '#contact',
     },
   },
   header: {
-    title: "Adinkra Distinguished Black Achievers Honors",
+    title: 'Adinkra Distinguished Black Achievers Honors',
     subTitle:
-      "Select any state on the map below to explore the 2024 laureates !",
+      'Select any state on the map below to explore the 2024 laureates !',
     content:
-      "Discover the exceptional individuals honored as Adinkra Distinguished Black Achievers. These leaders have made profound contributions to their communities throughout the United States.",
+      'Discover the exceptional individuals honored as Adinkra Distinguished Black Achievers. These leaders have made profound contributions to their communities throughout the United States.',
     button: {
-      name: "Learn more",
-      link: "#about",
-      tag: "about",
+      name: 'Learn more',
+      link: '#about',
+      tag: 'about',
     },
   },
   team: {
-    title: "Our Team",
-    subTitle: "Meet the dedicated team behind the initiative.",
+    title: 'Our Team',
+    subTitle: 'Meet the dedicated team behind the initiative.',
     members: [
       {
-        name: "Richard Seshie",
-        Subtitle: "President",
-        linkedin: "https://www.linkedin.com/in/richardseshie/",
+        name: 'Richard Seshie',
+        Subtitle: 'President',
+        linkedin: 'https://www.linkedin.com/in/richardseshie/',
         Image: () => {
           return (
             <img
@@ -175,9 +177,9 @@ const contentEnglish = {
         },
       },
       {
-        name: "Jean Claude Gouesse",
-        linkedin: "https://www.linkedin.com/in/jeanclaudegouesse/",
-        Subtitle: "Vice President",
+        name: 'Jean Claude Gouesse',
+        linkedin: 'https://www.linkedin.com/in/jeanclaudegouesse/',
+        Subtitle: 'Vice President',
         Image: () => {
           return (
             <img
@@ -189,9 +191,9 @@ const contentEnglish = {
         },
       },
       {
-        name: "Aminata Toure",
-        linkedin: "https://www.linkedin.com/in/aminata-toure-41a2a025a/",
-        Subtitle: "Project Manager",
+        name: 'Aminata Toure',
+        linkedin: 'https://www.linkedin.com/in/aminata-toure-41a2a025a/',
+        Subtitle: 'Project Manager',
         Image: () => {
           return (
             <img
@@ -202,44 +204,58 @@ const contentEnglish = {
           );
         },
       },
+      {
+        name: 'Sylla Ibrahim',
+        linkedin: 'https://www.linkedin.com/in/brahimcode',
+        Subtitle: 'IT Manager',
+        Image: () => {
+          return (
+            <img
+              src={DevPicture}
+              alt="Sylla Ibrahim"
+              className="rounded-full w-32 h-32"
+            />
+          );
+        },
+      },
     ],
   },
   about: {
-    title: "About us",
-    subTitle: "About Adinkra Distinguished Black Achievers Honors",
+    title: 'About us',
+    subTitle: 'About Adinkra Distinguished Black Achievers Honors',
     content:
-      "The Adinkra Distinguished Black Achievers Honors is a prestigious recognition program by the Adinkra Alliance Institute, aimed at celebrating individuals who have shown outstanding leadership and made a lasting impact in their communities. Our mission is to honor and uplift the unsung Black heroes creating positive change across the United States.",
+      'The Adinkra Distinguished Black Achievers Honors is a prestigious recognition program by the Adinkra Alliance Institute, aimed at celebrating individuals who have shown outstanding leadership and made a lasting impact in their communities. Our mission is to honor and uplift the unsung Black heroes creating positive change across the United States.',
     organization: {
-      title: "Our Organization",
-      subTitle: "Adinkra Alliance Institute",
+      title: 'Our Organization',
+      subTitle: 'Adinkra Alliance Institute',
       content:
-        " is a 501(c)3 non-profit organization dedicated to improving the lives of Black communities and minority groups and championing initiatives for development, environmental justice, and equity in the United States and globally.",
+        ' is a 501(c)3 non-profit organization dedicated to improving the lives of Black communities and minority groups and championing initiatives for development, environmental justice, and equity in the United States and globally.',
       sections: [
         {
-          title: "",
+          title: '',
           content:
-            "To recognize and support outstanding Black leaders who contribute significantly to their communities.",
+            'To recognize and support outstanding Black leaders who contribute significantly to their communities.',
           Logo: () => <Logo small />,
         },
         {
-          title: "",
+          title: '',
           content:
-            "To inspire and empower individuals by highlighting exemplary role models and their achievements.",
+            'To inspire and empower individuals by highlighting exemplary role models and their achievements.',
           Logo: () => <Logo small />,
         },
       ],
     },
   },
   contact: {
-    title: "Get in Touch",
+    title: 'Get in Touch',
     content:
       "We'd love to connect with you! Whether you have questions or are interested in collaborating, don’t hesitate to get in touch.",
     form: {
-      title: "Contact Us",
+      title: 'Contact Us',
     },
     list: [
       {
-        name: "team@adinkrafellowship.com",
+        name: 'team@adinkrafellowship.com',
         Logo: () => (
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -253,7 +269,7 @@ const contentEnglish = {
         ),
       },
       {
-        name: "8 the Green Suite G Dover, DE 19901-3618 United States",
+        name: '8 the Green Suite G Dover, DE 19901-3618 United States',
         Logo: () => (
           <svg
             xmlns="http://www.w3.org/2000/svg"
