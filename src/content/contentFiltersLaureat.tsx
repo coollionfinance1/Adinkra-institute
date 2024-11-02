@@ -69,7 +69,6 @@ export const statesChangeFormat = [
   'California',
   'Pennsylvania',
   'Arkansas',
-  'Ohio',
   'New York',
   'Tennessee',
   'Michigan',
