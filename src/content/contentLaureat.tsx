@@ -2312,7 +2312,7 @@ const contentLaureat = () => [
     state: 'New Hampshire',
   },
   {
-    title: 'Dr. Keith E. Whitfield',
+    title: 'Keith E. Whitfield',
     subtitle: 'President of the University of Nevada, Las Vegas',
     content1:
       'Dr. Keith E. Whitfield is the President of the University of Nevada, Las Vegas (UNLV), a position he has held since August 24, 2020. He is a renowned psychologist specializing in aging and cognitive health among African Americans, with a Ph.D. in Life Span Developmental Psychology from Texas Tech University. Prior to his current role, Whitfield held significant positions at Wayne State University and Duke University.',
@@ -2321,7 +2321,7 @@ const contentLaureat = () => [
     state: 'Nevada',
   },
   {
-    title: 'Dr. Javon Johnson',
+    title: 'Javon Johnson',
     subtitle:
       'Assistant Professor and Director of African American and African Diaspora Studies at UNLV',
     content1:
@@ -2366,7 +2366,7 @@ const contentLaureat = () => [
     state: 'Nevada',
   },
   {
-    title: 'Dr. Reginald Chhen Stewart',
+    title: 'Reginald Chhen Stewart',
     subtitle:
       'Vice President of Diversity, Equity, and Inclusion at Chapman University',
     content1:
@@ -2385,7 +2385,7 @@ const contentLaureat = () => [
     state: 'Nevada',
   },
   {
-    title: 'Dr. Angela Amar',
+    title: 'Angela Amar',
     subtitle: 'Dean of the School of Nursing at UNLV',
     content1:
       'Dr. Angela Amar is a distinguished leader in the field of nursing, currently serving as the Dean of the School of Nursing at the University of Nevada, Las Vegas (UNLV). She assumed this role in January 2018, bringing with her a wealth of experience from her previous positions at Emory University and Boston College. At Emory, she served as the Associate Dean for Undergraduate Studies and Chief Diversity Officer at the Nell Hodgson Woodruff School of Nursing, where she was instrumental in redesigning the undergraduate curriculum and improving NCLEX pass rates.',
@@ -2394,7 +2394,7 @@ const contentLaureat = () => [
     state: 'Nevada',
   },
   {
-    title: 'Dr. Melody T. McCloud',
+    title: 'Melody T. McCloud',
     subtitle: 'Accomplished Obstetrician-Gynecologist',
     content1:
       "Dr. Melody T. McCloud is an accomplished obstetrician-gynecologist and a trailblazer in her field. She made history in 1985 by becoming the first Black female to establish an OB-GYN practice in Dekalb County, GA, and the third in the metro Atlanta area. She is the founder and medical director of Atlanta Women's Health Care, PC, and is renowned for her nationwide lectures on women's health, relationships, sex, media images of Black women, and social issues.",
@@ -2603,7 +2603,7 @@ const contentLaureat = () => [
     state: 'Wisconsin',
   },
   {
-    title: 'Dr. Preston D. Cherry',
+    title: 'Preston D. Cherry',
     subtitle: 'Founder and President of Concurrent Financial Planning',
     content1:
       'Dr. Preston D. Cherry is a distinguished financial expert and academic leader. He is the founder and president of Concurrent Financial Planning, a firm dedicated to helping individuals achieve financial wellness and life wholeness. Dr. Cherry also serves as the Head of the Financial Planning Program and Director of the Charles Schwab Center for Personal Financial Planning at the University of Wisconsin-Green Bay.',
@@ -2640,7 +2640,7 @@ const contentLaureat = () => [
     state: 'Wisconsin',
   },
   {
-    title: 'Dr. Angela Byars-Winston',
+    title: 'Angela Byars-Winston',
     subtitle:
       'Professor of General Internal Medicine at the University of Wisconsin–Madison',
     content1:
@@ -2650,7 +2650,7 @@ const contentLaureat = () => [
     state: 'Wisconsin',
   },
   {
-    title: 'Dr. Brittany Bell',
+    title: 'Brittany Bell',
     subtitle: 'Dean of Students at Lawrence University',
     content1:
       'Dr. Brittany Bell is a dedicated educational leader and advocate for diversity and student engagement. She has recently been appointed as the Dean of Students at Lawrence University, following her roles as the Associate Dean of Diversity, Engagement, and Student Leadership for eight months, and the Assistant Dean of Students and Director of the Diversity and Intercultural Center for three years.',
@@ -2695,7 +2695,7 @@ const contentLaureat = () => [
     state: 'Arizona',
   },
   {
-    title: 'Dr. Tamika Sanders',
+    title: 'Tamika Sanders',
     subtitle: 'Founder of Savvy Pen',
     content1:
       'Dr. Tamika Sanders is a dedicated educator, entrepreneur, and advocate for arts education. She founded her company, Savvy Pen, in 2009 to create interactive programs that bridge cultural and socioeconomic divides between educators and students. Dr. Sanders holds a PhD in Higher Education, a Master of Business Administration, and a Bachelor of Arts in Communication. Her work focuses on developing curricula that incorporate diverse learning styles and humanistic principles to inspire lifelong learning.',
@@ -2786,7 +2786,7 @@ const contentLaureat = () => [
     state: 'Texas',
   },
   {
-    title: 'Dr. Bernard A. Harris Jr.',
+    title: 'Bernard A. Harris Jr.',
     subtitle: 'Astronaut and Entrepreneur',
     content1:
       "Dr. Bernard A. Harris Jr. is a highly accomplished scientist, surgeon, astronaut, and entrepreneur, best known for being the first African American to walk in space. Harris's distinguished career at NASA began with a National Research Council Fellowship at NASA Ames Research Center in 1987, where he conducted research in musculoskeletal physiology. He trained as a flight surgeon at the Aerospace School of Medicine, Brooks Air Force Base, and joined NASA's Johnson Space Center as a clinical scientist and flight surgeon.",
@@ -2849,7 +2849,7 @@ const contentLaureat = () => [
     state: 'Texas',
   },
   {
-    title: 'Dr. Cherae Farmer-Dixon',
+    title: 'Cherae Farmer-Dixon',
     subtitle: 'Dean of the School of Dentistry at Meharry Medical College',
     content1:
       'Dr. Cherae Farmer-Dixon is a distinguished leader in dentistry, currently serving as the Dean of the School of Dentistry at Meharry Medical College. She is one of the few women to head a prominent dental program in the United States, which produces 40 percent of the nation’s practicing African American dentists. Dr. Farmer-Dixon has dedicated nearly three decades to the institution, previously holding the position of Associate Dean for Academic and Student Affairs. In addition to her academic role, she serves as a Lieutenant Colonel in the United States Army Reserve, exemplifying her commitment to service and leadership.',
