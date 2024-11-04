@@ -1024,26 +1024,27 @@ const contentLaureat = () => [
     title: 'COMMUNITY MANAGEMENT',
     subtitle: 'Cimone Philpotts',
     content1:
-      "Cimone Philpotts is a dedicated public policy professional and PhD student at the Biden School of Public Policy and Administration at the University of Delaware. She is known for her extensive research and advocacy work focusing on race, gender, and education policy. Cimone recently received the prestigious American Society for Public Administration (ASPA) Founders' Fellowship, which recognizes her outstanding contributions to the field of public administration.",
+      'Cimone Philpotts is a Program Manager at ChristianaCare, where she oversees healthcare programs aimed at improving patient outcomes and enhancing operational efficiency. Known for her extensive research and advocacy work, Cimone focuses on issues related to race, gender, and education policy. She was honored with the prestigious American Society for Public Administration (ASPA) Founders\' Fellowship, highlighting her exceptional contributions to public administration.',
     content2:
-      "Throughout her career, Cimone has been committed to community service and advocacy, volunteering with various organizations including the United Way of Delaware's Women in Action Mentoring Program, the World Economic Forum's Global Shaper's Program, and the Metropolitan Wilmington Urban League Young Professionals. She also actively participates in the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.",
+      'Cimone is deeply committed to community service, actively volunteering with organizations such as the United Way of Delaware\'s Women in Action Mentoring Program, the World Economic Forum\'s Global Shapers Program, and the Metropolitan Wilmington Urban League Young Professionals. She is also involved with the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.',
     state: 'DELAWARE',
   },
   {
     title: 'HEALTH',
     subtitle: 'Dr. Alethea A. Miller',
     content1:
-      "Dr. Alethea A. Miller is a distinguished healthcare professional and nursing expert, currently serving as a supervisor for the Smart Start nurses with Delaware Health and Social Services. She has built a successful career in healthcare, providing vital support and education to young parents throughout Delaware. Dr. Miller's background in nursing practice and healthcare management enhances her ability to deliver comprehensive care and support, ensuring the well-being of her patients and their families.",
+      'Dr. Alethea A. Miller is a distinguished healthcare professional, currently serving as the Maternal and Child Health Clinical Lead at the Delaware Division of Medicaid and Medical Assistance (DMMA). In this role, she leads initiatives that prioritize maternal and child health, ensuring young parents across Delaware receive comprehensive support and education. Dr. Miller’s background includes roles as a nursing supervisor, maternal and child health specialist, and educator, reflecting her strong commitment to public health and community wellness.',
     content2:
-      "Dr. Miller's dedication to delivering exceptional healthcare services and her leadership in nursing have earned her several awards, including the 2020 Distinguished Alumni Award from Delaware Technical Community College. Her commitment to excellence in patient care and her strategic approach to community health have significantly impacted the healthcare system in Delaware, improving outcomes for countless families.",
+      'Dr. Miller’s dedication to healthcare excellence has earned her numerous accolades, including the 2020 Distinguished Alumni Award from Delaware Technical Community College. Holding a Doctor of Nursing Practice (DNP) along with other advanced degrees in nursing, Dr. Miller leverages her expertise to drive community health, patient care, and leadership in her field.',
     state: 'DELAWARE',
   },
   {
     title: 'RESEARCH AND EQUITY',
     subtitle: 'Dabney Brice',
     content1:
-      'Dabney Brice is an accomplished professional specializing in research and equity thought leadership, currently serving as an Associate at Echoing Green, a global organization that supports emerging social entrepreneurs. She earned her Master of Public Administration (MPA) degree from the Biden School of Public Policy and Administration at the University of Delaware in 2020. In her role at Echoing Green, Brice advances research initiatives and promotes equity-driven leadership, focusing on fostering innovative solutions to critical social issues. Her expertise in financial management, strategic planning, and policy advocacy has been instrumental in supporting and empowering social entrepreneurs. Her dedication to public service and equity has earned her several awards, including the Biden School Graduate Scholar Award and the Echoing Green Equity Leadership Award.',
-    content2: '',
+      'Dabney Brice is an accomplished professional in research and equity thought leadership, currently serving as the Manager of Research & Communications at Echoing Green, a global organization that supports emerging social entrepreneurs. In her role, she leads research initiatives and develops strategic communications to amplify social impact. Her background includes expertise in financial management, strategic planning, and policy advocacy, making her an instrumental figure in empowering social entrepreneurs.',
+    content2:
+      'Dabney holds a Master of Public Administration (MPA) from the Biden School of Public Policy and Administration at the University of Delaware, where she graduated in 2020. Her commitment to public service and equity has earned her several awards, including the prestigious Biden School Graduate Scholar Award.',
     state: 'DELAWARE',
   },
   {
@@ -1057,7 +1058,7 @@ const contentLaureat = () => [
     title: 'ASSISTANT POLICY',
     subtitle: 'Valdese West',
     content1:
-      "Valdese West is a distinguished professional recognized for her exceptional contributions to the business and non-profit sectors in Delaware. She currently holds a leadership position at United Way of Delaware, where she drives initiatives aimed at improving the quality of life for residents throughout the state. Her focus includes enhancing educational opportunities, promoting financial stability, and fostering community engagement. West's commitment to community service and leadership has earned her numerous accolades. In 2020, she was honored with the DBT40 award by Delaware Business Times, highlighting her significant impact and dedication to making a difference in the community.",
+      'Valdese West is a recognized leader in public service and employee relations, currently serving as the Manager of Employee and Labor Relations for the State of Delaware. She specializes in fostering positive workplace dynamics and improving labor relations. Her impactful work has earned her significant recognition, including induction into the Delaware Business Times "40 Under 40" for her dedication to leadership and contributions to the state’s workforce.',
     content2: '',
     state: 'DELAWARE',
   },
@@ -1082,9 +1083,9 @@ const contentLaureat = () => [
     title: 'PUBLIC ADMINISTRATION',
     subtitle: 'Nicholas Brock',
     content1:
-      "Nicholas Brock is an accomplished public administration professional and policy analyst, currently presiding over and adjudicating criminal and civil cases within the jurisdiction of the Justice of the Peace in Delaware. An alumnus of the University of Delaware's Joseph R. Biden, Jr. School of Public Policy & Administration, he has built a successful career focused on community development and public service.",
+      'Nicholas Brock, Esq. serves as a Magistrate Judge at the Delaware Justice of the Peace Court, where he applies his legal expertise to oversee cases and ensure fair judicial proceedings. With a strong background in law, Judge Brock is deeply committed to upholding justice and integrity within Delaware’s judicial system, managing legal disputes, interpreting laws, and providing resolutions that reflect his dedication to public service.',
     content2:
-      'Brock has received several accolades throughout his career, including the University Graduate Scholars Award, which provided him with full tuition and an academic-year stipend during his graduate studies. His commitment to public service and excellence in policy implementation is evident through his significant contributions to improving the efficiency and effectiveness of public services, particularly in his role within the judiciary.',
+      'An alumnus of the University of Delaware’s Joseph R. Biden, Jr. School of Public Policy & Administration, Judge Brock has built a successful career focused on community development and public service. His experience and commitment have made him a trusted figure within the Delaware legal community, with a focus on ensuring justice and enhancing community well-being.',
     state: 'DELAWARE',
   },
   {
@@ -1099,27 +1100,25 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'James Jackson III',
     content1:
-      "James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a critical resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has initiated several programs, including the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at elevating the diverse community in the state​",
+      'James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a key resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has launched impactful programs like the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at uplifting and empowering the state’s diverse communities.',
     content2:
-      "In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, where he builds relationships with diverse suppliers across the enterprise. His contributions have earned him several awards, including Utah Business Magazine's Forty Under 40 (2020), Westminster College's Unsung Hero (2018), and Omega Psi Phi Citizen of the Year (2018)​",
+      'In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, building relationships with diverse suppliers across the organization. His contributions to diversity and community development have earned him several awards, including the Rising Star Award from the University of Utah David Eccles School of Business and the Dr. Ronald G. Coleman Award in 2023.',
     state: 'UTAH',
   },
   {
     title: 'LAW',
     subtitle: 'Erika George',
     content1:
-      'Erika George is the Samuel D. Thurman Professor of Law at the Utah S.J. Quinney College of Law. She earned a B.A. with honors from the University of Chicago and a J.D. from Harvard Law School, where she served as Articles Editor of the Harvard Civil Rights-Civil Liberties Law Review. She also holds an M.A. in International Relations from the University of Chicago.',
+      'Erika George is the Associate Dean for Equity, Justice, and Engagement and holds the R. Gordon Butler Scholar in International Law title at Boston University School of Law. In her role, she spearheads initiatives to promote equity, inclusion, and social justice and is actively involved in research and teaching on international law and human rights.',
     content2:
-      'She is a Fellow of the American Bar Foundation. She is Chair of the Advisory Board of the American Bar Association Center for Human Rights and serves on the editorial board of the Cambridge University Press Business and Human Rights Journal.',
+      'Professor George earned a B.A. with honors and an M.A. in International Relations from the University of Chicago, and a J.D. from Harvard Law School, where she served as Articles Editor for the Harvard Civil Rights-Civil Liberties Law Review. She is a Fellow of the American Bar Foundation and has served on the Executive Board of the American Bar Association Center for Human Rights.',
     state: 'UTAH',
   },
   {
     title: 'BUSINESS DEVELOPMENT',
     subtitle: 'Shawn Newell',
-    content1:
-      "Shawn Newell is the Vice President of Business Development at Industrial Supply Company, where he has worked for over 35 years. He is also a prominent community leader, serving as the Vice President of the Salt Lake Branch of the NAACP and a former Commissioner on the Governor's Martin Luther King Jr. Human Rights Commission. Additionally, Newell heads the Utah Multicultural Civic Council and serves on various boards, including the Utah Non-Profit Association and the Utah Manufacturer's Association Board.",
-    content2:
-      'Shawn has held significant roles in education and workforce development, such as Chair of the Workforce and Economic Development Advisory Board at Salt Lake Community College (SLCC) and President of the SLCC Alumni Council. He has received several awards throughout his career, including being named a Distinguished Alumni by Salt Lake Community College in 2017, recognizing his contributions and achievements in both his professional and community roles.',
+     content1:
+      'Shawn Newell is the Owner of Waves Enterprises, L.L.C., where he utilizes his extensive experience in business and community development to drive impactful initiatives. A prominent figure in workforce development, diversity, and community engagement, Shawn has served on the boards of Salt Lake Community College and the Utah State Board of Education. In recognition of his contributions, he was honored as the 2017 SLCC Distinguished Alumni, reflecting his commitment to education and public service.',
     state: 'UTAH',
   },
   {
@@ -1134,16 +1133,19 @@ const contentLaureat = () => [
   {
     title: 'COMMUNICATION',
     subtitle: 'Nikki Walker',
-    content1: `Nikki Walker is a seasoned communications professional with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent roles, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Transitioning into the tech sector, Nikki excelled as the Director of Community Engagement and DEI at a leading tech company, focusing on inclusivity and community connections.`,
-    content2: `In 2024, she launched NWPR & Consulting, a communications agency specializing in culturally competent strategies, and became a bestselling author as a co-author of the anthology 'Awareness Put Me On.' Nikki actively contributes to her community by serving on several nonprofit boards in Utah. Her achievements have garnered numerous accolades, including the Women Tech Council Change Catalyst Award, recognition as one of Utah Business Magazine's 30 Women to Watch, and a bronze Stevie Award for Female Employee of the Year.`,
+    content1:
+      'Nikki Walker is a seasoned communications expert with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent positions, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Later, she transitioned into the tech sector as the Director of Community Engagement and DEI, where she excelled in promoting inclusivity and community connections.',
+    content2:
+      'In 2024, Nikki launched NWPR & Consulting, a communications agency focused on culturally competent strategies, and became a bestselling author with her co-authored anthology, "Awareness Put Me On." Actively contributing to her community, she serves on several nonprofit boards in Utah. Her achievements have been recognized with the Women Tech Change Catalyst Award, Utah Business Magazine's "30 Women to Watch," and a Stevie Award honoring her exceptional contributions to the field.',
     state: 'UTAH',
   },
   {
     title: 'LEGISLATION',
     subtitle: 'Sandra Hollins',
     content1:
-      'Sandra Hollins is a distinguished state legislator and social worker, serving as the first African American woman in the Utah State Legislature. Prior to her political career, Hollins worked as a licensed clinical social worker focusing on substance abuse and homelessness, managing the homeless outreach program at Volunteers of America Utah.',
-    content2: `Elected to the Utah House of Representatives in 2014, Hollins has made significant strides in legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, which bans chokeholds and other restrictive methods by police. She continues to serve on numerous committees and is actively involved in her community through various boards and organizations. Hollins has been recognized with awards such as the Call to Serve Award from Delta Sigma Theta Sorority, the Pioneer Award from the Utah African American Chamber of Commerce, and the Business Champion Award from the Salt Lake Chamber.`,
+      'Sandra Hollins is a distinguished state legislator and social worker, known for her groundbreaking role as the first African American woman in the Utah State Legislature. Prior to her political career, Hollins served as a licensed clinical social worker with a focus on substance abuse and homelessness, managing the homeless outreach program at Volunteers of America Utah.',
+    content2:
+      'Elected to the Utah House of Representatives in 2014, Hollins has championed significant legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, banning police chokeholds. She is active on numerous committees and community boards and has received several honors, including the Salt Lake City NAACP Rosa Parks Award, the Sister Called to Serve Award, and the Salt Lake Chamber Pathfinder Award.',
     state: 'UTAH',
   },
   {
@@ -1159,17 +1161,16 @@ const contentLaureat = () => [
     title: 'POLITIC',
     subtitle: 'Mia B. Love',
     content1:
-      "Mia B. Love is a prominent American political figure known for her trailblazing achievements and dedicated public service. She served as the U.S. Representative for Utah's 4th Congressional District from 2015 to 2019, becoming the first Black Republican woman in Congress and the first Haitian-American elected to Congress. Love is currently a CNN correspondent and serves as a non-resident senior fellow at the United States Studies Centre at the University of Sydney.",
-    content2: `Mia Love has received several prestigious awards and honors throughout her career. She was named one of Utah Business Magazine's "30 Women to Watch" and received the "Rising Star" designation by CNN during her 2012 campaign.`,
+      'Mia B. Love is a prominent American political figure recognized for her trailblazing achievements and commitment to public service. She served as the U.S. Representative for Utah’s 4th Congressional District from 2015 to 2019, making history as the first Black Republican woman and the first Haitian-American elected to Congress. Currently, Love is a CNN correspondent and a non-resident senior fellow at the United States Studies Centre at the University of Sydney.',
     state: 'UTAH',
   },
   {
     title: 'EDUCATION',
     subtitle: 'Dr. Ronald G. Coleman',
     content1:
-      'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. He has had a significant impact on the field of Ethnic Studies, being one of the founding faculty members of the Ethnic Studies program at the University of Utah in 1973. He is an Emeritus Associate Professor of History and Ethnic Studies at the University, and a nationally recognized scholar of African American history.',
+      'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. A founding faculty member of the University’s Ethnic Studies program in 1973, he has significantly impacted the field and is an Emeritus Associate Professor of History and Ethnic Studies. Dr. Coleman is also a nationally recognized scholar of African American history, known for his contributions to education and social justice.',
     content2:
-      'Throughout his illustrious career, Dr. Coleman has been a staunch advocate for minority education and human rights. He co-founded the Utah Coalition for the Advancement of Minorities in Higher Education and served as chairman of the Martin Luther King, Jr. Human Rights Commission in Utah, playing a pivotal role in establishing the Martin Luther King, Jr. holiday in the state. His dedication to community service and education has earned him several prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice and recognition from the Federal King Commission and the King Center for Nonviolent Social Change.',
+      'Dr. Coleman’s dedication to community service and education has been honored with numerous prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice, the Calvin S. and Jeneal N. Hatch Prize in Teaching, the 2000 Governor’s Award in Humanities, and the Albert B. Fitz Civil Rights Worker of the Year Award.',
     state: 'UTAH',
   },
   {
