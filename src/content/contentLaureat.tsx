@@ -1648,9 +1648,9 @@ const contentLaureat = () => [
   },
   {
     title: 'BUSINESS',
-    subtitle: 'Labrina Wilson',
-    content1:
-      'Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as CEO of Iman Consulting, where she provides expertise in leadership training, diversity, equity, inclusion consulting, and professional development. With a background in executive leadership, Dr. Wilson has previously served as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Her dedication to community progress and equity has been widely recognized, including being named one of the Quad Cities Business Journal’s Most Influential Leaders.',
+    subtitle: 'LaDrina Wilson',
+    content: 
+        'Dr. LaDrina Wilson is a distinguished educational leader and community advocate, currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Recognized for her impactful contributions, Dr. Wilson has been honored with multiple awards, including being named one of the Quad Cities Business Journal's Most Influential Leaders.',
     state:
     content2: '',
     state: 'IOWA',
