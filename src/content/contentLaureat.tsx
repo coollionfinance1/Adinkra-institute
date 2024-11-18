@@ -1024,9 +1024,9 @@ const contentLaureat = () => [
     title: 'COMMUNITY MANAGEMENT',
     subtitle: 'Cimone Philpotts',
     content1:
-      'Cimone Philpotts is a Program Manager at ChristianaCare, where she oversees healthcare programs aimed at improving patient outcomes and enhancing operational efficiency. Known for her extensive research and advocacy work, Cimone focuses on issues related to race, gender, and education policy. She was honored with the prestigious American Society for Public Administration (ASPA) Founders\' Fellowship, highlighting her exceptional contributions to public administration.',
+      "Cimone Philpotts is a Program Manager at ChristianaCare, where she oversees healthcare programs aimed at improving patient outcomes and enhancing operational efficiency. Known for her extensive research and advocacy work, Cimone focuses on issues related to race, gender, and education policy. She was honored with the prestigious American Society for Public Administration (ASPA) Founders' Fellowship, highlighting her exceptional contributions to public administration.",
     content2:
-      'Cimone is deeply committed to community service, actively volunteering with organizations such as the United Way of Delaware\'s Women in Action Mentoring Program, the World Economic Forum\'s Global Shapers Program, and the Metropolitan Wilmington Urban League Young Professionals. She is also involved with the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.',
+      "Cimone is deeply committed to community service, actively volunteering with organizations such as the United Way of Delaware's Women in Action Mentoring Program, the World Economic Forum's Global Shapers Program, and the Metropolitan Wilmington Urban League Young Professionals. She is also involved with the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.",
     state: 'DELAWARE',
   },
   {
@@ -1099,8 +1099,7 @@ const contentLaureat = () => [
   {
     title: 'BUSINESS',
     subtitle: 'James Jackson III',
-    content1:
-      'James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a key resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has launched impactful programs like the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at uplifting and empowering the state’s diverse communities.',
+    content1: `James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a key resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has launched impactful programs like the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at uplifting and empowering the state’s diverse communities.`,
     content2:
       'In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, building relationships with diverse suppliers across the organization. His contributions to diversity and community development have earned him several awards, including the Rising Star Award from the University of Utah David Eccles School of Business and the Dr. Ronald G. Coleman Award in 2023.',
     state: 'UTAH',
@@ -1117,7 +1116,7 @@ const contentLaureat = () => [
   {
     title: 'BUSINESS DEVELOPMENT',
     subtitle: 'Shawn Newell',
-     content1:
+    content1:
       'Shawn Newell is the Owner of Waves Enterprises, L.L.C., where he utilizes his extensive experience in business and community development to drive impactful initiatives. A prominent figure in workforce development, diversity, and community engagement, Shawn has served on the boards of Salt Lake Community College and the Utah State Board of Education. In recognition of his contributions, he was honored as the 2017 SLCC Distinguished Alumni, reflecting his commitment to education and public service.',
     state: 'UTAH',
   },
@@ -1135,8 +1134,7 @@ const contentLaureat = () => [
     subtitle: 'Nikki Walker',
     content1:
       'Nikki Walker is a seasoned communications expert with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent positions, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Later, she transitioned into the tech sector as the Director of Community Engagement and DEI, where she excelled in promoting inclusivity and community connections.',
-    content2:
-      'In 2024, Nikki launched NWPR & Consulting, a communications agency focused on culturally competent strategies, and became a bestselling author with her co-authored anthology, "Awareness Put Me On." Actively contributing to her community, she serves on several nonprofit boards in Utah. Her achievements have been recognized with the Women Tech Change Catalyst Award, Utah Business Magazine's "30 Women to Watch," and a Stevie Award honoring her exceptional contributions to the field.',
+    content2: `In 2024, Nikki launched NWPR & Consulting, a communications agency focused on culturally competent strategies, and became a bestselling author with her co-authored anthology, "Awareness Put Me On." Actively contributing to her community, she serves on several nonprofit boards in Utah. Her achievements have been recognized with the Women Tech Change Catalyst Award, Utah Business Magazine's "30 Women to Watch," and a Stevie Award honoring her exceptional contributions to the field.`,
     state: 'UTAH',
   },
   {
@@ -1178,8 +1176,7 @@ const contentLaureat = () => [
     subtitle: 'Camille A. Nelson',
     content1:
       'Camille A. Nelson is a distinguished legal scholar and academic leader, currently serving as the Dean of the William S. Richardson School of Law at the University of Hawai’i at Mānoa. Before this, she held notable positions as Dean of the American University Washington College of Law (AUWCL) and was the first woman and person of color to serve as Dean of Suffolk University Law School in Boston, breaking barriers in legal education.',
-    content2:
-      'Dean Nelson's leadership is widely recognized in higher education. She has been named one of the “Top 35 Women in Higher Education” by Diverse Issues in Higher Education magazine and listed among the “Most Influential People in Legal Education” by the National Jurist. Her contributions were further honored by the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School in 2017.',
+    content2: `Dean Nelson's leadership is widely recognized in higher education. She has been named one of the “Top 35 Women in Higher Education” by Diverse Issues in Higher Education magazine and listed among the “Most Influential People in Legal Education” by the National Jurist. Her contributions were further honored by the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School in 2017.`,
     state: 'HAWAII',
   },
   {
@@ -1246,7 +1243,6 @@ const contentLaureat = () => [
     subtitle: 'Charles R. Lawrence III',
     content1:
       'Charles R. Lawrence III is a renowned legal scholar specializing in constitutional law, critical race theory, and equal protection. He serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai‘i at Mānoa. Recognized for his impactful contributions to legal scholarship and social justice, Professor Lawrence has been honored with the Derrick Bell Legacy Award by the Critical Race Studies in Education Association and the Society of American Law Teachers Teaching Award.',
-    state:
     content2: '',
     state: 'HAWAII',
   },
@@ -1409,7 +1405,7 @@ const contentLaureat = () => [
       'Pamela Junior is the Museum Manager at the Smith Robertson Museum and Cultural Center in Jackson, Mississippi, where she is devoted to preserving and promoting African American history and culture. Through her leadership, Junior oversees exhibitions, educational programs, and cultural events that honor the impactful contributions of African Americans to Mississippi’s heritage.',
     content2:
       'Junior’s commitment extends to serving on the Mississippi Delta National Heritage Area board of directors and the Mississippi Book Festival. She co-founded the Mississippi Black Theater Festival, and her accolades include the Freedom Rider Award from the Mississippi Freedom 50th Foundation, the For My People Award from the Margaret Walker Center at Jackson State University, and the Hometown Hero Award from the Jackson Convention and Visitors Bureau.',
-    state:'MISSISSIPPI',
+    state: 'MISSISSIPPI',
   },
   {
     title: 'POLITICS',
@@ -1454,7 +1450,7 @@ const contentLaureat = () => [
   {
     title: 'CHARITY WORK',
     subtitle: 'Ray Rickman',
-     content1:
+    content1:
       'Ray Rickman is a prominent figure in Rhode Island’s public and cultural landscape, currently serving as the Executive Director at Stages of Freedom. His career includes impactful roles as a State Representative and Rhode Island Deputy Secretary of State, where he dedicated himself to promoting African American history and culture. Known for his commitment to diversity and EEO compliance, Rickman has held positions such as Providence Equal Opportunity Officer and Executive Director of the Human Relations Commission.',
     content2:
       'Rickman’s influence extends to Rhode Island’s historical and cultural organizations, where he served as President of the Rhode Island Black Heritage Society and on the board of the Rhode Island Historical Society. Notably, he was the first Treasurer of the Smithsonian-affiliated Heritage Harbor Museum. In 2019, the Association of Fundraising Professionals honored him with the Outstanding Philanthropic Citizen Award, recognizing his substantial community contributions.',
@@ -1472,9 +1468,9 @@ const contentLaureat = () => [
     title: 'ACTIVIST',
     subtitle: 'Leah Williams Metts',
     content1:
-      'Leah Williams Metts is a prominent community leader, business owner, and activist based in Providence, Rhode Island. As the owner of LWM Consulting, she leverages her expertise to support community initiatives and provide strategic guidance for organizational development. Known for her impactful work in enhancing children\'s recreational facilities and tackling violent crime, Leah is dedicated to creating safer, more enriching environments for communities across Rhode Island.',
+      "Leah Williams Metts is a prominent community leader, business owner, and activist based in Providence, Rhode Island. As the owner of LWM Consulting, she leverages her expertise to support community initiatives and provide strategic guidance for organizational development. Known for her impactful work in enhancing children's recreational facilities and tackling violent crime, Leah is dedicated to creating safer, more enriching environments for communities across Rhode Island.",
     content2:
-      'Her dedication has been widely recognized, including being honored as one of YWCA Rhode Island\'s Women of Achievement in 2014. Leah has served in numerous leadership roles, including co-chairing the alumni board at Davey Lopes Recreation Center, serving on the NAACP Executive Board, and chairing its Youth Council. Additionally, she contributed her time on the boards of the Southside Elementary Charter School and the Providence Police Advisory Board, and as a Court Appointed Special Advocate. She has also held key roles such as Director of Community Engagement at OIC of Rhode Island and Community Outreach Coordinator for Swim Empowerment.',
+      "Her dedication has been widely recognized, including being honored as one of YWCA Rhode Island's Women of Achievement in 2014. Leah has served in numerous leadership roles, including co-chairing the alumni board at Davey Lopes Recreation Center, serving on the NAACP Executive Board, and chairing its Youth Council. Additionally, she contributed her time on the boards of the Southside Elementary Charter School and the Providence Police Advisory Board, and as a Court Appointed Special Advocate. She has also held key roles such as Director of Community Engagement at OIC of Rhode Island and Community Outreach Coordinator for Swim Empowerment.",
     state: 'RHODE ISLAND',
   },
   {
@@ -1564,7 +1560,7 @@ const contentLaureat = () => [
     title: 'REAL ESTATE',
     subtitle: 'Ashley Kuhn',
     content1:
-      'Ashley Kuhn is an experienced real estate professional and the President and co-founder of Blair Freeman Group, Nebraska\'s only 100% woman-owned and 100% minority-owned construction and owners’ representation company. With over 15 years of industry expertise, Ashley previously served at White Lotus Group, where she played a pivotal role in overseeing over $700 million in real estate development projects.',
+      "Ashley Kuhn is an experienced real estate professional and the President and co-founder of Blair Freeman Group, Nebraska's only 100% woman-owned and 100% minority-owned construction and owners’ representation company. With over 15 years of industry expertise, Ashley previously served at White Lotus Group, where she played a pivotal role in overseeing over $700 million in real estate development projects.",
     content2:
       'Ashley is deeply committed to community service, reflected in her active involvement with numerous organizations, including the Greater Omaha Chamber (Executive Committee), Lozier Foundation, CREW Metro Omaha (where she served as Past President), the Union for Contemporary Arts, and Omaha Girls Inc. Her dedication to empowering communities and promoting diversity in real estate exemplifies her impactful leadership.',
     state: 'NEBRASKA',
@@ -1649,8 +1645,7 @@ const contentLaureat = () => [
   {
     title: 'BUSINESS',
     subtitle: 'LaDrina Wilson',
-    content1:
-      'Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Additionally, she has been recognized with several awards for her contributions, including being named one of the Quad Cities Business Journal's Most Influential Leaders.',
+    content1: `Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Additionally, she has been recognized with several awards for her contributions, including being named one of the Quad Cities Business Journal's Most Influential Leaders.`,
     state: 'IOWA',
   },
   {
@@ -1873,10 +1868,10 @@ const contentLaureat = () => [
     title: 'Dr. David A. Thomas',
     subtitle: 'President of Morehouse College',
     content1:
-    'Dr. David A. Thomas is the 12th President of Morehouse College, appointed in January 2018. Under his visionary leadership, Morehouse College has seen remarkable advancements in strategic effectiveness, program expansion, and educational innovation. Dr. Thomas led a record-breaking fundraising campaign, raising approximately $190 million, the largest in the college’s history. He also introduced Morehouse’s first online degree programs and positioned the institution as a hub for discussions on global leadership, professional equity, and social justice.',
-  content2:
-    "Throughout his career, Dr. Thomas has received numerous awards for his impactful work in education, including being recognized as one of 'Atlanta’s 500 Most Powerful Leaders' by Atlanta Magazine. His contributions continue to shape Morehouse College's influence as a center for intellectual discourse and academic excellence.",
-  state: 'Massachusetts',
+      'Dr. David A. Thomas is the 12th President of Morehouse College, appointed in January 2018. Under his visionary leadership, Morehouse College has seen remarkable advancements in strategic effectiveness, program expansion, and educational innovation. Dr. Thomas led a record-breaking fundraising campaign, raising approximately $190 million, the largest in the college’s history. He also introduced Morehouse’s first online degree programs and positioned the institution as a hub for discussions on global leadership, professional equity, and social justice.',
+    content2:
+      "Throughout his career, Dr. Thomas has received numerous awards for his impactful work in education, including being recognized as one of 'Atlanta’s 500 Most Powerful Leaders' by Atlanta Magazine. His contributions continue to shape Morehouse College's influence as a center for intellectual discourse and academic excellence.",
+    state: 'Massachusetts',
   },
   {
     title: 'Zeninjor Enwemeka',
@@ -1900,10 +1895,10 @@ const contentLaureat = () => [
     title: 'Ade Adesanya',
     subtitle: 'Co-founder and President of Moving Analytics',
     content1:
-    'Ade Adesanya is the Co-founder and President of Movn Health, a digital health company revolutionizing cardiac rehabilitation through cutting-edge technology. Movn Health’s programs, based on evidence-based methods in partnership with Stanford University, have been widely implemented across major health systems, including Kaiser Permanente and the Veteran Affairs Medical Center. Under Ade’s leadership, Movn Health has raised substantial funding to further its global impact on cardiac health.',
-  content2:
-    "Ade's contributions to healthcare and entrepreneurship have earned him significant recognition, including being named one of Forbes' '30 Under 30' in healthcare in 2018. His work continues to advance access to quality cardiac care and demonstrate the transformative potential of digital health.",
-  state: 'Massachusetts',
+      'Ade Adesanya is the Co-founder and President of Movn Health, a digital health company revolutionizing cardiac rehabilitation through cutting-edge technology. Movn Health’s programs, based on evidence-based methods in partnership with Stanford University, have been widely implemented across major health systems, including Kaiser Permanente and the Veteran Affairs Medical Center. Under Ade’s leadership, Movn Health has raised substantial funding to further its global impact on cardiac health.',
+    content2:
+      "Ade's contributions to healthcare and entrepreneurship have earned him significant recognition, including being named one of Forbes' '30 Under 30' in healthcare in 2018. His work continues to advance access to quality cardiac care and demonstrate the transformative potential of digital health.",
+    state: 'Massachusetts',
   },
   {
     title: 'Olivia Watkins',
@@ -1957,19 +1952,19 @@ const contentLaureat = () => [
     title: 'Robert F. Smith',
     subtitle: 'Founder, Chairman, and CEO of Vista Equity Partners',
     content1:
-    'Robert F. Smith is a renowned American businessman, investor, and philanthropist celebrated for his remarkable contributions to technology and finance. As the founder, chairman, and CEO of Vista Equity Partners, Smith has become one of the leading investors in software, data, and tech-enabled companies. Under his guidance, Vista Equity Partners has evolved into a top private equity firm, dedicated to fostering innovation and sustainable growth across its portfolio companies.',
-  content2:
-    "Throughout his career, Robert has received multiple awards acknowledging his commitment to community impact and philanthropy, including the Founder’s Award from Foster Love, the George H.W. Bush Points of Light Award, and the HBCU Impact Award. His efforts continue to inspire and influence corporate and social responsibility.",
-  state: 'Colorado',
+      'Robert F. Smith is a renowned American businessman, investor, and philanthropist celebrated for his remarkable contributions to technology and finance. As the founder, chairman, and CEO of Vista Equity Partners, Smith has become one of the leading investors in software, data, and tech-enabled companies. Under his guidance, Vista Equity Partners has evolved into a top private equity firm, dedicated to fostering innovation and sustainable growth across its portfolio companies.',
+    content2:
+      'Throughout his career, Robert has received multiple awards acknowledging his commitment to community impact and philanthropy, including the Founder’s Award from Foster Love, the George H.W. Bush Points of Light Award, and the HBCU Impact Award. His efforts continue to inspire and influence corporate and social responsibility.',
+    state: 'Colorado',
   },
   {
     title: 'Nigel Daniels',
     subtitle: 'Policy Advisor at Brownstein Hyatt Farber Schreck',
     content1:
-    'Nigel Daniels is a Judicial Law Clerk with the Colorado Judicial Branch, where he plays a key role in supporting judicial processes by conducting thorough legal research, drafting judicial opinions, and aiding judges in case management. With a background in public service and a strong commitment to legal integrity, Nigel combines his analytical skills with a dedication to the principles of justice.',
-  content2:
-    "Nigel’s career reflects a broad commitment to public service, including roles as special assistant to U.S. Senator Michael Bennet and senior advisor to former Mayor Michael B. Hancock. His service and contributions were recognized by Colorado State University, which awarded him the 2023 Distinguished Graduate of the Last Decade (GOLD) Award for his achievements and dedication since graduation.",
-  state: 'Colorado',
+      'Nigel Daniels is a Judicial Law Clerk with the Colorado Judicial Branch, where he plays a key role in supporting judicial processes by conducting thorough legal research, drafting judicial opinions, and aiding judges in case management. With a background in public service and a strong commitment to legal integrity, Nigel combines his analytical skills with a dedication to the principles of justice.',
+    content2:
+      'Nigel’s career reflects a broad commitment to public service, including roles as special assistant to U.S. Senator Michael Bennet and senior advisor to former Mayor Michael B. Hancock. His service and contributions were recognized by Colorado State University, which awarded him the 2023 Distinguished Graduate of the Last Decade (GOLD) Award for his achievements and dedication since graduation.',
+    state: 'Colorado',
   },
   {
     title: "Benilda 'Benny' Samuels",
@@ -2075,10 +2070,10 @@ const contentLaureat = () => [
     title: 'Dominique Dawes',
     subtitle: 'Retired American Artistic Gymnast',
     content1:
-    'Dominique Dawes is a retired American artistic gymnast and Limited Partner of the Atlanta Falcons. Known for her role in the “Magnificent Seven,” the first U.S. women’s gymnastics team to win Olympic gold at the 1996 Atlanta Games, Dawes also made history as the first African American woman to win an Olympic medal in gymnastics. Her athletic career includes numerous medals from the World Championships and U.S. National Championships.',
-  content2:
-    "Beyond gymnastics, Dawes has championed youth health and fitness, serving as the President of the Women's Sports Foundation and as a motivational speaker. Her influence extends into media and advocacy, where she promotes sports and education, continuing to inspire new generations through her commitment to athleticism and empowerment.",
-  state: 'Maryland',
+      'Dominique Dawes is a retired American artistic gymnast and Limited Partner of the Atlanta Falcons. Known for her role in the “Magnificent Seven,” the first U.S. women’s gymnastics team to win Olympic gold at the 1996 Atlanta Games, Dawes also made history as the first African American woman to win an Olympic medal in gymnastics. Her athletic career includes numerous medals from the World Championships and U.S. National Championships.',
+    content2:
+      "Beyond gymnastics, Dawes has championed youth health and fitness, serving as the President of the Women's Sports Foundation and as a motivational speaker. Her influence extends into media and advocacy, where she promotes sports and education, continuing to inspire new generations through her commitment to athleticism and empowerment.",
+    state: 'Maryland',
   },
   {
     title: 'Karsonya Wise Whitehead',
@@ -2094,8 +2089,8 @@ const contentLaureat = () => [
     title: 'Kenneth F. Harris',
     subtitle: 'Leader and Scientist',
     content1:
-    'Dr. Kenneth F. Harris II is an accomplished leader and scientist serving as a Senior Project Manager at The Aerospace Corporation, where he is recognized for his contributions to science and technology globally. Since age 16, Dr. Harris has been involved in pivotal projects at NASA Goddard Space Flight Center, helping to develop and launch five satellites. Named by Forbes as one of the world’s youngest impactful figures in science, Dr. Harris is committed to STEM education and advancing diversity and inclusion within the scientific community.',
-  state: 'Maryland',
+      'Dr. Kenneth F. Harris II is an accomplished leader and scientist serving as a Senior Project Manager at The Aerospace Corporation, where he is recognized for his contributions to science and technology globally. Since age 16, Dr. Harris has been involved in pivotal projects at NASA Goddard Space Flight Center, helping to develop and launch five satellites. Named by Forbes as one of the world’s youngest impactful figures in science, Dr. Harris is committed to STEM education and advancing diversity and inclusion within the scientific community.',
+    state: 'Maryland',
   },
   {
     title: 'Hope Wiseman',
@@ -2117,13 +2112,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Michelle A. Gourdine',
-    subtitle: 
-      'Public Health Leader & Chief Medical Officer',
+    subtitle: 'Public Health Leader & Chief Medical Officer',
     content1:
-    'Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Senior Vice President of CVS Health and Chief Medical Officer of CVS Caremark. In this role, she leads strategic initiatives focused on advancing health equity, improving patient outcomes, and overseeing critical clinical services. Dr. Gourdine’s extensive background in population health and health policy includes her prior role as Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she managed significant budgets and staffing to implement impactful health policies.',
-  content2:
-    "Dr. Gourdine’s contributions to public health have been recognized with numerous awards. She has been honored as one of Maryland's Top 100 Women in 2001, 2003, and 2005, and was named Woman of the Year by Baltimore County in 2002. Her consulting firm, Michelle Gourdine and Associates, was also awarded the Top 100 MBE Award in 2013 for its excellence in advancing healthcare initiatives.",
-  state: 'Maryland',
+      'Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Senior Vice President of CVS Health and Chief Medical Officer of CVS Caremark. In this role, she leads strategic initiatives focused on advancing health equity, improving patient outcomes, and overseeing critical clinical services. Dr. Gourdine’s extensive background in population health and health policy includes her prior role as Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she managed significant budgets and staffing to implement impactful health policies.',
+    content2:
+      "Dr. Gourdine’s contributions to public health have been recognized with numerous awards. She has been honored as one of Maryland's Top 100 Women in 2001, 2003, and 2005, and was named Woman of the Year by Baltimore County in 2002. Her consulting firm, Michelle Gourdine and Associates, was also awarded the Top 100 MBE Award in 2013 for its excellence in advancing healthcare initiatives.",
+    state: 'Maryland',
   },
   {
     title: 'Ta-Nehisi Coates',
