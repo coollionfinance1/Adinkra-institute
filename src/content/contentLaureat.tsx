@@ -2,9 +2,9 @@
 const contentLaureat = () => [
   {
     title: 'ENTREPRENEUR',
-    subtitle: 'Brianna Regine Walston',
+    subtitle: 'Brianna Regime Walston',
     content1:
-      'Brianna Regine Walston is a dynamic entrepreneur and UConn alumna that has made remarkable strides in the strategic communications industry. As the Founder and CEO of Brianna Regine Visionary Consulting LLC (BRVC), she has built a firm renowned for its focus on brand development, social and digital strategy, public relations, and operations management. BRVC is dedicated to supporting underserved communities, emphasizing clients in entertainment, non-profit, startup, lifestyle, and government sectors.',
+      'Brianna Regime Walston is a dynamic entrepreneur and UConn alumna that has made remarkable strides in the strategic communications industry. As the Founder and CEO of Brianna Regime Visionary Consulting LLC (BRVC), she has built a firm renowned for its focus on brand development, social and digital strategy, public relations, and operations management. BRVC is dedicated to supporting underserved communities, emphasizing clients in entertainment, non-profit, startup, lifestyle, and government sectors.',
     content2:
       "Brianna's leadership and vision have earned her significant accolades, including being named the 2023 Young Entrepreneur of the Year by the U.S. Small Business Administration. Her commitment to diversity is reflected in her team, composed entirely of women-identifying individuals from various cultural backgrounds. With a mission to create visibility and opportunities for underrepresented groups, Brianna continues to drive BRVC towards greater impact and success.",
     state: 'CONNECTICUT',
