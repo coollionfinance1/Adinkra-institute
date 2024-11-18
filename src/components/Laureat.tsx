@@ -50,7 +50,7 @@ const Laureat: React.FC<{
           {title}
         </Typography>
         <Typography variant="h4" className=" mb-3 font-bold">
-          {subtitle}
+          {subtitle === 'Labrina Wilson' ? 'Dr. Labrina Wilson' : subtitle}
         </Typography>
         <p className={className}>
           {content1}

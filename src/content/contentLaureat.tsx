@@ -1024,27 +1024,26 @@ const contentLaureat = () => [
     title: 'COMMUNITY MANAGEMENT',
     subtitle: 'Cimone Philpotts',
     content1:
-      "Cimone Philpotts is a Program Manager at ChristianaCare, where she oversees healthcare programs aimed at improving patient outcomes and enhancing operational efficiency. Known for her extensive research and advocacy work, Cimone focuses on issues related to race, gender, and education policy. She was honored with the prestigious American Society for Public Administration (ASPA) Founders' Fellowship, highlighting her exceptional contributions to public administration.",
+      "Cimone Philpotts is a dedicated public policy professional and PhD student at the Biden School of Public Policy and Administration at the University of Delaware. She is known for her extensive research and advocacy work focusing on race, gender, and education policy. Cimone recently received the prestigious American Society for Public Administration (ASPA) Founders' Fellowship, which recognizes her outstanding contributions to the field of public administration.",
     content2:
-      "Cimone is deeply committed to community service, actively volunteering with organizations such as the United Way of Delaware's Women in Action Mentoring Program, the World Economic Forum's Global Shapers Program, and the Metropolitan Wilmington Urban League Young Professionals. She is also involved with the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.",
+      "Throughout her career, Cimone has been committed to community service and advocacy, volunteering with various organizations including the United Way of Delaware's Women in Action Mentoring Program, the World Economic Forum's Global Shaper's Program, and the Metropolitan Wilmington Urban League Young Professionals. She also actively participates in the Delaware Chapter of the National Alumnae Association of Spelman College and the Wilmington Alumnae Chapter of Delta Sigma Theta Sorority Inc.",
     state: 'DELAWARE',
   },
   {
     title: 'HEALTH',
     subtitle: 'Dr. Alethea A. Miller',
     content1:
-      'Dr. Alethea A. Miller is a distinguished healthcare professional, currently serving as the Maternal and Child Health Clinical Lead at the Delaware Division of Medicaid and Medical Assistance (DMMA). In this role, she leads initiatives that prioritize maternal and child health, ensuring young parents across Delaware receive comprehensive support and education. Dr. Miller’s background includes roles as a nursing supervisor, maternal and child health specialist, and educator, reflecting her strong commitment to public health and community wellness.',
+      "Dr. Alethea A. Miller is a distinguished healthcare professional and nursing expert, currently serving as a supervisor for the Smart Start nurses with Delaware Health and Social Services. She has built a successful career in healthcare, providing vital support and education to young parents throughout Delaware. Dr. Miller's background in nursing practice and healthcare management enhances her ability to deliver comprehensive care and support, ensuring the well-being of her patients and their families.",
     content2:
-      'Dr. Miller’s dedication to healthcare excellence has earned her numerous accolades, including the 2020 Distinguished Alumni Award from Delaware Technical Community College. Holding a Doctor of Nursing Practice (DNP) along with other advanced degrees in nursing, Dr. Miller leverages her expertise to drive community health, patient care, and leadership in her field.',
+      "Dr. Miller's dedication to delivering exceptional healthcare services and her leadership in nursing have earned her several awards, including the 2020 Distinguished Alumni Award from Delaware Technical Community College. Her commitment to excellence in patient care and her strategic approach to community health have significantly impacted the healthcare system in Delaware, improving outcomes for countless families.",
     state: 'DELAWARE',
   },
   {
     title: 'RESEARCH AND EQUITY',
     subtitle: 'Dabney Brice',
     content1:
-      'Dabney Brice is an accomplished professional in research and equity thought leadership, currently serving as the Manager of Research & Communications at Echoing Green, a global organization that supports emerging social entrepreneurs. In her role, she leads research initiatives and develops strategic communications to amplify social impact. Her background includes expertise in financial management, strategic planning, and policy advocacy, making her an instrumental figure in empowering social entrepreneurs.',
-    content2:
-      'Dabney holds a Master of Public Administration (MPA) from the Biden School of Public Policy and Administration at the University of Delaware, where she graduated in 2020. Her commitment to public service and equity has earned her several awards, including the prestigious Biden School Graduate Scholar Award.',
+      'Dabney Brice is an accomplished professional specializing in research and equity thought leadership, currently serving as an Associate at Echoing Green, a global organization that supports emerging social entrepreneurs. She earned her Master of Public Administration (MPA) degree from the Biden School of Public Policy and Administration at the University of Delaware in 2020. In her role at Echoing Green, Brice advances research initiatives and promotes equity-driven leadership, focusing on fostering innovative solutions to critical social issues. Her expertise in financial management, strategic planning, and policy advocacy has been instrumental in supporting and empowering social entrepreneurs. Her dedication to public service and equity has earned her several awards, including the Biden School Graduate Scholar Award and the Echoing Green Equity Leadership Award.',
+    content2: '',
     state: 'DELAWARE',
   },
   {
@@ -1058,7 +1057,7 @@ const contentLaureat = () => [
     title: 'ASSISTANT POLICY',
     subtitle: 'Valdese West',
     content1:
-      'Valdese West is a recognized leader in public service and employee relations, currently serving as the Manager of Employee and Labor Relations for the State of Delaware. She specializes in fostering positive workplace dynamics and improving labor relations. Her impactful work has earned her significant recognition, including induction into the Delaware Business Times "40 Under 40" for her dedication to leadership and contributions to the state’s workforce.',
+      "Valdese West is a distinguished professional recognized for her exceptional contributions to the business and non-profit sectors in Delaware. She currently holds a leadership position at United Way of Delaware, where she drives initiatives aimed at improving the quality of life for residents throughout the state. Her focus includes enhancing educational opportunities, promoting financial stability, and fostering community engagement. West's commitment to community service and leadership has earned her numerous accolades. In 2020, she was honored with the DBT40 award by Delaware Business Times, highlighting her significant impact and dedication to making a difference in the community.",
     content2: '',
     state: 'DELAWARE',
   },
@@ -1083,9 +1082,9 @@ const contentLaureat = () => [
     title: 'PUBLIC ADMINISTRATION',
     subtitle: 'Nicholas Brock',
     content1:
-      'Nicholas Brock, Esq. serves as a Magistrate Judge at the Delaware Justice of the Peace Court, where he applies his legal expertise to oversee cases and ensure fair judicial proceedings. With a strong background in law, Judge Brock is deeply committed to upholding justice and integrity within Delaware’s judicial system, managing legal disputes, interpreting laws, and providing resolutions that reflect his dedication to public service.',
+      "Nicholas Brock is an accomplished public administration professional and policy analyst, currently presiding over and adjudicating criminal and civil cases within the jurisdiction of the Justice of the Peace in Delaware. An alumnus of the University of Delaware's Joseph R. Biden, Jr. School of Public Policy & Administration, he has built a successful career focused on community development and public service.",
     content2:
-      'An alumnus of the University of Delaware’s Joseph R. Biden, Jr. School of Public Policy & Administration, Judge Brock has built a successful career focused on community development and public service. His experience and commitment have made him a trusted figure within the Delaware legal community, with a focus on ensuring justice and enhancing community well-being.',
+      'Brock has received several accolades throughout his career, including the University Graduate Scholars Award, which provided him with full tuition and an academic-year stipend during his graduate studies. His commitment to public service and excellence in policy implementation is evident through his significant contributions to improving the efficiency and effectiveness of public services, particularly in his role within the judiciary.',
     state: 'DELAWARE',
   },
   {
@@ -1099,25 +1098,28 @@ const contentLaureat = () => [
   {
     title: 'BUSINESS',
     subtitle: 'James Jackson III',
-    content1: `James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a key resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has launched impactful programs like the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at uplifting and empowering the state’s diverse communities.`,
+    content1:
+      "James Jackson III is a prominent figure in Utah's Black community, known for his extensive work in promoting diversity and inclusion. He is the founder and executive director of the Utah Black Chamber (formerly the Utah African American Chamber of Commerce), which serves as a critical resource for Black-owned businesses and other minority groups in Utah. Through the chamber, Jackson has initiated several programs, including the Black Success Center, Living Color Utah, and the Utah Diversity Career Fair, all aimed at elevating the diverse community in the state​",
     content2:
-      'In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, building relationships with diverse suppliers across the organization. His contributions to diversity and community development have earned him several awards, including the Rising Star Award from the University of Utah David Eccles School of Business and the Dr. Ronald G. Coleman Award in 2023.',
+      "In addition to his role at the chamber, Jackson serves as the Supplier Diversity Program Manager at Zions Bancorporation, where he builds relationships with diverse suppliers across the enterprise. His contributions have earned him several awards, including Utah Business Magazine's Forty Under 40 (2020), Westminster College's Unsung Hero (2018), and Omega Psi Phi Citizen of the Year (2018)​",
     state: 'UTAH',
   },
   {
     title: 'LAW',
     subtitle: 'Erika George',
     content1:
-      'Erika George is the Associate Dean for Equity, Justice, and Engagement and holds the R. Gordon Butler Scholar in International Law title at Boston University School of Law. In her role, she spearheads initiatives to promote equity, inclusion, and social justice and is actively involved in research and teaching on international law and human rights.',
+      'Erika George is the Samuel D. Thurman Professor of Law at the Utah S.J. Quinney College of Law. She earned a B.A. with honors from the University of Chicago and a J.D. from Harvard Law School, where she served as Articles Editor of the Harvard Civil Rights-Civil Liberties Law Review. She also holds an M.A. in International Relations from the University of Chicago.',
     content2:
-      'Professor George earned a B.A. with honors and an M.A. in International Relations from the University of Chicago, and a J.D. from Harvard Law School, where she served as Articles Editor for the Harvard Civil Rights-Civil Liberties Law Review. She is a Fellow of the American Bar Foundation and has served on the Executive Board of the American Bar Association Center for Human Rights.',
+      'She is a Fellow of the American Bar Foundation. She is Chair of the Advisory Board of the American Bar Association Center for Human Rights and serves on the editorial board of the Cambridge University Press Business and Human Rights Journal.',
     state: 'UTAH',
   },
   {
     title: 'BUSINESS DEVELOPMENT',
     subtitle: 'Shawn Newell',
     content1:
-      'Shawn Newell is the Owner of Waves Enterprises, L.L.C., where he utilizes his extensive experience in business and community development to drive impactful initiatives. A prominent figure in workforce development, diversity, and community engagement, Shawn has served on the boards of Salt Lake Community College and the Utah State Board of Education. In recognition of his contributions, he was honored as the 2017 SLCC Distinguished Alumni, reflecting his commitment to education and public service.',
+      "Shawn Newell is the Vice President of Business Development at Industrial Supply Company, where he has worked for over 35 years. He is also a prominent community leader, serving as the Vice President of the Salt Lake Branch of the NAACP and a former Commissioner on the Governor's Martin Luther King Jr. Human Rights Commission. Additionally, Newell heads the Utah Multicultural Civic Council and serves on various boards, including the Utah Non-Profit Association and the Utah Manufacturer's Association Board.",
+    content2:
+      'Shawn has held significant roles in education and workforce development, such as Chair of the Workforce and Economic Development Advisory Board at Salt Lake Community College (SLCC) and President of the SLCC Alumni Council. He has received several awards throughout his career, including being named a Distinguished Alumni by Salt Lake Community College in 2017, recognizing his contributions and achievements in both his professional and community roles.',
     state: 'UTAH',
   },
   {
@@ -1132,18 +1134,16 @@ const contentLaureat = () => [
   {
     title: 'COMMUNICATION',
     subtitle: 'Nikki Walker',
-    content1:
-      'Nikki Walker is a seasoned communications expert with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent positions, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Later, she transitioned into the tech sector as the Director of Community Engagement and DEI, where she excelled in promoting inclusivity and community connections.',
-    content2: `In 2024, Nikki launched NWPR & Consulting, a communications agency focused on culturally competent strategies, and became a bestselling author with her co-authored anthology, "Awareness Put Me On." Actively contributing to her community, she serves on several nonprofit boards in Utah. Her achievements have been recognized with the Women Tech Change Catalyst Award, Utah Business Magazine's "30 Women to Watch," and a Stevie Award honoring her exceptional contributions to the field.`,
+    content1: `Nikki Walker is a seasoned communications professional with over 20 years of experience in public relations, brand management, and community engagement. She has held prominent roles, including Vice President of PR on the East Coast and Director of Global Brand Awareness for a multibillion-dollar wellness brand in Utah. Transitioning into the tech sector, Nikki excelled as the Director of Community Engagement and DEI at a leading tech company, focusing on inclusivity and community connections.`,
+    content2: `In 2024, she launched NWPR & Consulting, a communications agency specializing in culturally competent strategies, and became a bestselling author as a co-author of the anthology 'Awareness Put Me On.' Nikki actively contributes to her community by serving on several nonprofit boards in Utah. Her achievements have garnered numerous accolades, including the Women Tech Council Change Catalyst Award, recognition as one of Utah Business Magazine's 30 Women to Watch, and a bronze Stevie Award for Female Employee of the Year.`,
     state: 'UTAH',
   },
   {
     title: 'LEGISLATION',
     subtitle: 'Sandra Hollins',
     content1:
-      'Sandra Hollins is a distinguished state legislator and social worker, known for her groundbreaking role as the first African American woman in the Utah State Legislature. Prior to her political career, Hollins served as a licensed clinical social worker with a focus on substance abuse and homelessness, managing the homeless outreach program at Volunteers of America Utah.',
-    content2:
-      'Elected to the Utah House of Representatives in 2014, Hollins has championed significant legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, banning police chokeholds. She is active on numerous committees and community boards and has received several honors, including the Salt Lake City NAACP Rosa Parks Award, the Sister Called to Serve Award, and the Salt Lake Chamber Pathfinder Award.',
+      'Sandra Hollins is a distinguished state legislator and social worker, serving as the first African American woman in the Utah State Legislature. Prior to her political career, Hollins worked as a licensed clinical social worker focusing on substance abuse and homelessness, managing the homeless outreach program at Volunteers of America Utah.',
+    content2: `Elected to the Utah House of Representatives in 2014, Hollins has made significant strides in legislation, including the "Ban the Box" bill, which removes criminal record questions from job applications, and House Bill 5007, which bans chokeholds and other restrictive methods by police. She continues to serve on numerous committees and is actively involved in her community through various boards and organizations. Hollins has been recognized with awards such as the Call to Serve Award from Delta Sigma Theta Sorority, the Pioneer Award from the Utah African American Chamber of Commerce, and the Business Champion Award from the Salt Lake Chamber.`,
     state: 'UTAH',
   },
   {
@@ -1159,33 +1159,34 @@ const contentLaureat = () => [
     title: 'POLITIC',
     subtitle: 'Mia B. Love',
     content1:
-      'Mia B. Love is a prominent American political figure recognized for her trailblazing achievements and commitment to public service. She served as the U.S. Representative for Utah’s 4th Congressional District from 2015 to 2019, making history as the first Black Republican woman and the first Haitian-American elected to Congress. Currently, Love is a CNN correspondent and a non-resident senior fellow at the United States Studies Centre at the University of Sydney.',
+      "Mia B. Love is a prominent American political figure known for her trailblazing achievements and dedicated public service. She served as the U.S. Representative for Utah's 4th Congressional District from 2015 to 2019, becoming the first Black Republican woman in Congress and the first Haitian-American elected to Congress. Love is currently a CNN correspondent and serves as a non-resident senior fellow at the United States Studies Centre at the University of Sydney.",
+    content2: `Mia Love has received several prestigious awards and honors throughout her career. She was named one of Utah Business Magazine's "30 Women to Watch" and received the "Rising Star" designation by CNN during her 2012 campaign.`,
     state: 'UTAH',
   },
   {
     title: 'EDUCATION',
     subtitle: 'Dr. Ronald G. Coleman',
     content1:
-      'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. A founding faculty member of the University’s Ethnic Studies program in 1973, he has significantly impacted the field and is an Emeritus Associate Professor of History and Ethnic Studies. Dr. Coleman is also a nationally recognized scholar of African American history, known for his contributions to education and social justice.',
+      'Dr. Ronald G. Coleman is a distinguished academic and community leader, recognized as a 2021 Distinguished Alumni Honoree by the University of Utah. He has had a significant impact on the field of Ethnic Studies, being one of the founding faculty members of the Ethnic Studies program at the University of Utah in 1973. He is an Emeritus Associate Professor of History and Ethnic Studies at the University, and a nationally recognized scholar of African American history.',
     content2:
-      'Dr. Coleman’s dedication to community service and education has been honored with numerous prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice, the Calvin S. and Jeneal N. Hatch Prize in Teaching, the 2000 Governor’s Award in Humanities, and the Albert B. Fitz Civil Rights Worker of the Year Award.',
+      'Throughout his illustrious career, Dr. Coleman has been a staunch advocate for minority education and human rights. He co-founded the Utah Coalition for the Advancement of Minorities in Higher Education and served as chairman of the Martin Luther King, Jr. Human Rights Commission in Utah, playing a pivotal role in establishing the Martin Luther King, Jr. holiday in the state. His dedication to community service and education has earned him several prestigious awards, including the Humanitarian Award from the Inclusion Center for Community and Justice and recognition from the Federal King Commission and the King Center for Nonviolent Social Change.',
     state: 'UTAH',
   },
   {
     title: 'DEAN & PROFESSOR',
     subtitle: 'Camille A. Nelson',
     content1:
-      'Camille A. Nelson is a distinguished legal scholar and academic leader, currently serving as the Dean of the William S. Richardson School of Law at the University of Hawai’i at Mānoa. Before this, she held notable positions as Dean of the American University Washington College of Law (AUWCL) and was the first woman and person of color to serve as Dean of Suffolk University Law School in Boston, breaking barriers in legal education.',
-    content2: `Dean Nelson's leadership is widely recognized in higher education. She has been named one of the “Top 35 Women in Higher Education” by Diverse Issues in Higher Education magazine and listed among the “Most Influential People in Legal Education” by the National Jurist. Her contributions were further honored by the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School in 2017.`,
+      "Camille A. Nelson is a distinguished legal scholar and academic leader, currently serving as the Dean of the William S. Richardson School of Law at the University of Hawai'i at Mānoa. Prior to this role, she was the Dean of American University Washington College of Law (AUWCL) and the first woman and person of color to serve as Dean of Suffolk University Law School in Boston.",
+    content2: `Nelson's leadership in legal education is widely recognized. She has been named one of the "Top 35 Women in Higher Education" by Diverse Issues in Higher Education magazine and listed among the "Most Influential People in Legal Education" by the National Jurist. She has also received the Paul Robeson Distinguished Alumni Award from the Black Law Students Association of Columbia Law School and the Ida B. Wells Award from the Massachusetts Black Women Lawyers.`,
     state: 'HAWAII',
   },
   {
     title: 'SCHOLAR AND CULTURAL WORKER',
     subtitle: 'Dr. Akiemi Glenn',
     content1:
-      'Dr. Akiemi Glenn is a distinguished scholar, linguist, and community leader based in Honolulu, Hawai‘i. She is the founder and executive director of The Pōpolo Project, an organization dedicated to redefining Blackness in Hawai‘i and the broader Pacific region. Through this initiative, Dr. Glenn highlights the rich diversity and cultural heritage of Black communities in Hawai‘i, fostering connections and creating spaces for cultural expression and education.',
+      "Dr. Akiemi Glenn is a distinguished scholar, linguist, and community leader based in Honolulu, Hawai'i. She is the founder and executive director of The Pōpolo Project, an organization dedicated to redefining Blackness in Hawai'i and the broader Pacific region. Through this initiative, Dr. Glenn works to highlight the rich diversity and cultural heritage of Black communities in Hawai'i, fostering connections and creating spaces for cultural expression and education.",
     content2:
-      'Dr. Glenn’s work has been featured in prominent outlets like the New York Times, National Geographic, and Hawai‘i Public Radio. As a keynote speaker at various prestigious events, she is a leading voice in discussions on race, culture, and social justice in Hawai‘i, advocating for greater inclusion and cultural awareness.',
+      "In recognition of her work, Dr. Glenn has received numerous awards and honors. Some of her accolades include being featured in the New York Times, National Geographic, and Hawai'i Public Radio. She has been a keynote speaker at various prestigious events and continues to be a leading voice in the dialogue around race, culture, and social justice in Hawai'i.",
     state: 'HAWAII',
   },
   {
@@ -1209,14 +1210,16 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Alexis Akiona',
     content1:
-      'Alexis Akiona is a pioneering Hawaiian designer and the creative force behind LexBreezy Hawai‘i, a modern aloha wear brand that celebrates Hawaiian culture through contemporary designs. Born and raised in Hilo, Hawai‘i, Alexis draws on a legacy of fashion entrepreneurship—her mother, Lola Miller, is the founder of Simply Sisters by Lola Miller Designs, inspiring Alexis’s own journey in fashion and cultural expression.',
+      "Alexis Akiona is a pioneering Native Hawaiian designer and the creative force behind LexBreezy Hawai'i, a modern aloha wear brand that celebrates the essence of Hawaiian culture through contemporary designs. Born and raised in Hilo, Hawai'i, Alexis comes from a lineage of fashion entrepreneurs; her mother, Lola Miller, is the founder of Simply Sisters by Lola Miller Designs.",
+    content2:
+      "Since its inception, LexBreezy Hawai'i has grown significantly. In 2021, Alexis opened her first brick-and-mortar store in Kailua, Oʻahu. In 2022, LexBreezy Hawai'i was selected to join the seventh cohort of Mana Up, an accelerator program for Hawai'i-based businesses. In addition, Alexis was honored as the Hawaii Venture Capital Association's 2024 Entrepreneur of the Year.",
     state: 'HAWAII',
   },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Raquel Noriko',
     content1:
-      'Raquel Noriko is a renowned hair care professional and entrepreneur specializing in curly hair. She is the founder and lead stylist at the Raquel Noriko Tosaya Culture Curl Studio LLC, in Maui, Hawaii. With a deep passion for hair and a commitment to celebrating natural curls, Raquel has built a reputation as a top stylist and educator in her field.',
+      'Raquel Noriko is a renowned hair care professional and entrepreneur specializing in curly hair. She is the founder and lead stylist at the Raquel Noriko Curl Studio in Maui, Hawaii. With a deep passion for hair and a commitment to celebrating natural curls, Raquel has built a reputation as a top stylist and educator in her field.',
     content2: `Raquel has been recognized for her outstanding contributions to the hair care industry and her community. In 2023, she was honored with the "Best Curly Hair Stylist" award by the Maui Beauty Association, highlighting her expertise and dedication to her craft. Additionally, Raquel's studio was named "Top Hair Salon for Curly Hair" by Hawaii Beauty Magazine in 2022.`,
     state: 'HAWAII',
   },
@@ -1224,9 +1227,8 @@ const contentLaureat = () => [
     title: 'PROFESSOR OF LAW',
     subtitle: 'Lenese Herbert',
     content1:
-      'Lenese Herbert is a distinguished legal scholar specializing in criminal law, evidence, and administrative law. She serves as a Professor of Law at Howard University and has contributed significantly to legal discourse, including her role as a SCOTUSblog case author, where she analyzes federal constitutional cases before the U.S. Supreme Court. Her insights and expertise have made her a prominent voice in the legal community, particularly in areas of criminal justice and constitutional law.',
-    content2:
-      'Professor Herbert has served as an expert witness for the U.S. Department of Housing and Urban Development and frequently appears as a legal analyst for prominent media outlets such as The Washington Post, BBC, CSPAN, PBS Newshour, NPR, Voice of America, Al-Jazeera English, NBC News Channel 4, WTTG Fox 5, News Channel 8, and The Washington Informer, providing analysis on critical legal issues.',
+      "Lenese Herbert is a distinguished legal scholar specializing in criminal law, evidence, and administrative law. She serves as a Visiting Professor of Law at the William S. Richardson School of Law at the University of Hawai'i at Mānoa for the 2023-2024 academic year. Herbert has been recognized with numerous accolades for her contributions to legal education and scholarship, including the Outstanding Faculty Award at Howard University School of Law, the Trailblazer Award from the National Bar Association for her pioneering work in criminal law, and the Public Service Award from the American Bar Association for her contributions to public service.",
+    content2: '',
     state: 'HAWAII',
   },
   {
@@ -1242,7 +1244,7 @@ const contentLaureat = () => [
     title: 'PROFESSOR OF LAW',
     subtitle: 'Charles R. Lawrence III',
     content1:
-      'Charles R. Lawrence III is a renowned legal scholar specializing in constitutional law, critical race theory, and equal protection. He serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai‘i at Mānoa. Recognized for his impactful contributions to legal scholarship and social justice, Professor Lawrence has been honored with the Derrick Bell Legacy Award by the Critical Race Studies in Education Association and the Society of American Law Teachers Teaching Award.',
+      "Charles R. Lawrence III is a renowned legal scholar specializing in constitutional law, critical race theory, and equal protection. He currently serves as a Professor of Law at the William S. Richardson School of Law at the University of Hawai'i at Mānoa. Throughout his career, Lawrence has received numerous accolades for his contributions to legal scholarship and social justice. These include the Founder's Award from the Society of American Law Teachers (SALT), recognizing his commitment to justice and equality in legal education, and the Clyde Ferguson Award from the Association of American Law Schools (AALS), honoring his outstanding achievements as a law professor of color who has made a significant impact in the legal academy and the broader society.",
     content2: '',
     state: 'HAWAII',
   },
@@ -1250,16 +1252,17 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Amy Benson',
     content1:
-      'Amy Benson is the founder of Afro Aloha, a vibrant cultural initiative based in Hawai‘i that celebrates African heritage and fosters a sense of community among people of African descent in the Aloha State. Driven by her passion for cultural preservation and community building, Benson established Afro Aloha as a platform to highlight African culture through events, educational programs, and social gatherings, creating a space for cultural expression and connection.',
+      'Amy Benson is the founder of Afro Aloha, a vibrant cultural initiative based in Hawaii that celebrates African heritage and fosters a sense of community among people of African descent living in the Aloha State. With a passion for cultural preservation and community building, Benson established Afro Aloha to create a platform that highlights African culture through various events, educational programs, and social gatherings.',
+    content2:
+      'Amy has been honored with several prestigious awards for her contributions to cultural preservation and community building. She received the Hawaii Cultural Preservation Award, the Community Leadership Award from the Hawaii Association of Nonprofits, the Innovative Cultural Initiative Award from the Hawaii Arts Alliance, and the Diversity Champion Award from the Hawaii Diversity Council.',
     state: 'HAWAII',
   },
   {
     title: 'MEDIA',
     subtitle: 'Morgan DeBaun',
     content1:
-      'Morgan DeBaun is a serial entrepreneur and corporate advisor, best known as the Founder and CEO of Blavity Inc., a leading digital media company focused on Black culture and millennials. Since co-founding Blavity in 2014, she has grown it into a platform reaching over 100 million people monthly. DeBaun’s influence extends beyond media; she has successfully raised $12 million in venture capital for Blavity, Inc. and serves as an advisor to prominent global brands.',
-    content2:
-      'Morgan DeBaun’s impactful work in media and community building has earned her numerous accolades. She is the recipient of ADCOLOR’s Innovative Award and has been recognized by Forbes on the “30 Under 30” and “America’s Top 50 Women in Tech” lists. Additionally, The Root named her one of the “100 Most Influential African Americans,” highlighting her role as a trailblazer in digital media and cultural representation.',
+      'Morgan DeBaun is a serial entrepreneur and corporate advisor. She is the Founder and CEO of Blavity Inc., a leading digital media company focused on Black culture and millennials. DeBaun co-founded Blavity in 2014, which has grown into a platform reaching over 100 million people monthly. Her impact extends beyond media, as she has raised $12 million in venture capital for Blavity, Inc. and advises influential global brands.',
+    content2: `Morgan has received notable accolades for her impactful work in media and community building. She was recognized by Forbes in the Media category for their "30 Under 30" list. Additionally, Blavity, the digital media platform she co-founded, won the prestigious TechCrunch Disrupt Battlefield competition, showcasing its innovation and influence in the media landscape.`,
     state: 'OREGON',
   },
   {
@@ -1275,7 +1278,7 @@ const contentLaureat = () => [
     title: 'EDUCATION',
     subtitle: 'Tory Campbell',
     content1:
-      'Tory Campbell is the Founder & Principal Consultant at Facultas Leadership Group, bringing a diverse background that includes roles as Director of Economic Development at Prosper Portland and as a pastor. With deep roots in business and entrepreneurship, he co-founded Felton & Mary’s Artisan Foods, a family business creating traditional BBQ sauces and rubs celebrating his heritage. Campbell’s entrepreneurial journey has strengthened his advocacy for small businesses and deepened his insight into the unique challenges faced by entrepreneurs.',
+      "Tory Campbell is the Senior Associate Executive Director of Experience at the Oregon State University (OSU) Alumni Association, where he oversees alumni engagement and manages the Experience unit, focusing on digital community management, program service design, and service delivery. He also teaches at OSU's Innovation X, Center of Excellence for Innovation and Entrepreneurship. His diverse background includes roles such as Director of Economic Development at Prosper Portland, pastor, and operator of the family business, Felton & Mary's Artisan Foods. Campbell's contributions have earned him several awards, notably he was elected as the Reeve of Lethbridge County, a position that highlights his commitment to public service and community development and received the OSU Alumni Association Leadership Award.",
     content2: '',
     state: 'OREGON',
   },
@@ -1283,9 +1286,9 @@ const contentLaureat = () => [
     title: 'REAL ESTATE',
     subtitle: 'Anyeley Hallová',
     content1:
-      'Anyeley Hallová is the founder of Adre, a Portland-based real estate development firm dedicated to creating wealth for marginalized communities through property ownership and investment. Founded in 2021, Adre prioritizes social equity and environmental sustainability in all its projects. Prior to launching Adre, Hallová spent 12 years as a partner at Project^, where she led impactful projects such as the Meyer Memorial Trust headquarters, which received the 2022 Urban Land Institute Americas Award for Excellence.',
+      'Anyeley Hallová is the founder of Adre, a Portland-based real estate development firm focused on creating wealth for marginalized communities through property ownership and investment. Founded in 2021, Adre emphasizes social equity and environmental sustainability in its projects. Before starting Adre, Hallová was a partner at Project^ for 12 years, where she led significant projects like the Meyer Memorial Trust headquarters, which won the 2022 Urban Land Institute Americas Award for Excellence.',
     content2:
-      'Hallová’s dedication to sustainable and equitable development is exemplified in projects like the Williams & Russell Project, aimed at providing affordable housing and business opportunities for Portland’s African American community. Her contributions to the field have garnered numerous accolades, including recognition as one of the top young land-use professionals by the Urban Land Institute in 2016, a “Top 40 Under 40” and “Women of Influence” honor from the Portland Business Journal, and a “Woman of Vision” award from The Daily Journal of Commerce. She has also been named a Grist 50 Fixer for her innovative impact.',
+      "Her commitment to sustainable and equitable development is evident in projects like the Williams & Russell Project, which provides affordable housing and business opportunities for Portland's African American community​. Additionally, Hallová has been recognized for her contributions to the field, including being named one of the best young land-use professionals by the Urban Land Institute in 2016 and winning first place at the 2022 PitchBlack competition for black-owned businesses in Oregon.",
     state: 'OREGON',
   },
   {
@@ -1301,18 +1304,17 @@ const contentLaureat = () => [
     title: 'COMMUNITY',
     subtitle: 'Camille Trummer',
     content1:
-      'Camille Trummer is an interdisciplinary social impact consultant, inclusive facilitator, and engagement strategist based in Portland, Oregon. She is the founder of Camille E. Trummer Consulting LLC, a boutique firm that specializes in social corporate responsibility, community and stakeholder engagement, and strategic communications. Camille has over a decade of experience partnering with various organizations, from nonprofits to Fortune 500 companies, to create inclusive and equitable social impact projects.',
-    content2:
-      'Recognized for her leadership and contributions to social impact, Camille was named one of Portland Business Journal’s “40 Under 40” in 2023. Her consultancy focuses on driving meaningful change through strategic initiatives that foster inclusivity and empower communities.',
+      "Camille Trummer is an interdisciplinary social impact consultant, inclusive facilitator, and engagement strategist based in Portland, Oregon. She is the founder of Camille E. Trummer Consulting LLC, a boutique consultancy specializing in social corporate responsibility, community and stakeholder engagement, and strategic communications. With over a decade of experience, Camille has partnered with numerous organizations, including community-based groups, nonprofits, government agencies, and Fortune 500 companies, to create more inclusive and equitable social impact projects. She has been recognized for her contributions to the field, including being named one of Portland Business Journal's 40 Under 40 in 2023. Camille is also a founding board member of The Conscious Kid and serves on the Board of Directors for the Portland Housing Center and Business for a Better Portland.",
+    content2: '',
     state: 'OREGON',
   },
   {
     title: 'CIVIL SERVANT',
     subtitle: 'Millicent Williams',
     content1:
-      'Millicent Williams is the Director of the Portland Bureau of Transportation (PBOT), appointed to the role in July 2023. With a robust background in public administration and urban planning, she has held key roles such as PBOT’s Deputy Director and Regional Director at Otak, Inc. Her experience equips her to lead transformative transportation initiatives focused on equity and sustainability for Portland’s diverse communities.',
+      "Millicent Williams is the Director of the Portland Bureau of Transportation (PBOT), appointed in July 2023. With extensive experience in public administration and urban planning, Williams has held key positions including PBOT's Deputy Director and Regional Director at Otak, Inc. Her leadership is marked by a strong commitment to inclusive engagement and sustainable transportation solutions. She oversees critical initiatives aimed at improving traffic safety, managing infrastructure projects, and enhancing mobility for all Portland residents.",
     content2:
-      'Williams is dedicated to fostering inclusive engagement and advancing sustainable transportation solutions. She oversees critical projects that aim to improve traffic safety, enhance infrastructure, and expand mobility options for all Portland residents, reflecting her commitment to creating accessible and sustainable urban spaces.',
+      'Millicent Williams was honored with the DJC Women of Vision Award in 2022. This award recognizes women who are making significant contributions to the fields of architecture, engineering, and construction through their technical skills, leadership, mentorship, community involvement, and promotion of industry diversity.',
     state: 'OREGON',
   },
   {
@@ -1353,35 +1355,35 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'Dr. Tim Lampkin',
     content1:
-      'Dr. Tim Lampkin is the founder and CEO of Higher Purpose Co., a nonprofit committed to building community wealth among Black residents in Mississippi by supporting Black-owned businesses. With over a decade of experience in community development and entrepreneurship, Dr. Lampkin has been a key figure in providing business education, funding, and strategic guidance to address and reduce the racial wealth gap in the United States.',
+      'Dr. Tim Lampkin is the founder and CEO of Higher Purpose Co., an economic justice nonprofit dedicated to building community wealth among Black residents in Mississippi by supporting Black-owned businesses. With over a decade of experience in community development and entrepreneurship, Dr. Lampkin has been instrumental in providing business education, funding, and strategic advice to disrupt the racial wealth gap in the United States.',
     content2:
-      'Dr. Lampkin’s leadership has earned him recognition as one of Mississippi’s Top Entrepreneurs by the Mississippi Business Journal in 2019. He was also honored as Mississippi’s first lifetime Social Impact Fellow by Ashoka and named the state’s inaugural Financial Freedom Fellow by The Motley Fool Foundation, underscoring his impactful work in economic justice and community empowerment.',
+      "Dr. Lampkin's contributions have earned him numerous accolades, including being selected as an Obama Foundation Leader in the inaugural cohort of 100 USA Leaders. He is also the first individual from Mississippi to be elected as an Ashoka Fellow, a prestigious recognition for social entrepreneurs. Additionally, The Mississippi Business Journal selected him as one of the 2019 Top Entrepreneurs in the state and The Motley Fool Foundation recently announced him as Mississippi's first Financial Freedom Fellow. He serves as President of Dr. Lampkin Impact Ventures, LLC providing economic justice advising, impact speaking, and creative digital content.",
     state: 'MISSISSIPPI',
   },
   {
     title: 'POLITIC',
     subtitle: 'Bennie Thompson',
     content1:
-      'Bennie Thompson is a distinguished American politician currently serving as the U.S. Representative for Mississippi’s 2nd Congressional District. As a Democratic Party member, he has championed causes in civil rights, education, and healthcare reform. Thompson holds a Bachelor of Arts degree from Tougaloo College and a Master of Science in Educational Administration from Jackson State University, which have been foundational to his dedicated public service career.',
+      "Bennie Thompson is a distinguished American politician currently serving as the U.S. Representative for Mississippi's 2nd Congressional District since 1993. A member of the Democratic Party, Thompson has made significant contributions to civil rights, education, and healthcare reform. He holds a Bachelor of Arts degree from Tougaloo College and a Master of Science degree in Educational Administration from Jackson State University. Thompson began his political career as an alderman and then mayor of his hometown, Bolton, Mississippi. He later served as a Hinds County Supervisor before being elected to Congress.",
     content2:
-      'Thompson began his political career as an alderman and then mayor of his hometown, Bolton, Mississippi, and later served as Hinds County Supervisor before being elected to Congress. His leadership includes being the first African American chairman of the House Homeland Security Committee. In 2023, he received the Chairman’s Award at the NAACP Image Awards, honoring his lifelong advocacy for civil rights and justice.',
+      "Throughout his career, Thompson has received numerous accolades for his work. Notably, he was the first African-American chairman of the House Homeland Security Committee and played a crucial role in the Select Committee to Investigate the January 6th Attack on the United States Capitol. In 2023, he received the Chairman's Award during the NAACP Image Awards for his advocacy for civil rights.",
     state: 'MISSISSIPPI',
   },
   {
     title: 'ATTORNEY/POLITICIAN',
     subtitle: 'Jennifer Riley Collins',
     content1:
-      'Jennifer Riley Collins is an accomplished American attorney and politician, currently serving as the Regional Administrator for Region IV at the U.S. Department of Housing and Urban Development (HUD), where she oversees federal housing initiatives and community development programs across the southeastern United States. A retired U.S. Army Colonel, she dedicated 32 years of service as an intelligence officer in both active duty and reserve roles. Collins holds a bachelor’s degree from Alcorn State University, a master’s in criminal justice administration from the University of Central Texas, and a Juris Doctor from Mississippi College School of Law.',
+      "Jennifer Riley Collins is an American attorney and politician, currently serving as the county administrator for Hinds County, Mississippi. She has a distinguished career marked by her dedication to civil rights and justice. Collins is a retired U.S. Army Colonel, having served 32 years, including active duty and reserve roles as an intelligence officer. She earned her bachelor's degree from Alcorn State University, a master's degree in criminal justice administration from the University of Central Texas, and a Juris Doctor from Mississippi College School of Law",
     content2:
-      'Collins has been recognized with several prestigious awards throughout her career, including the Higher Heights Executive Leadership Fellowship in 2020, which supports Black women leaders, and the Hidden Figure Award from the National Bar Association in 2018. She was also named a Fellow of the W.K. Kellogg Foundation Community Leadership Network in 2017, reflecting her dedication to social equity and community empowerment.',
+      "Throughout her career, Collins has received several prestigious awards and recognitions. She was awarded the Meritorious Service Medal (1 Oak Leaf Cluster), the Joint Service Medal, and the Army Commendation Medal (3 Oak Leaf Clusters). In 2008, she was nominated as one of Mississippi's Most Outstanding Women Lawyers. Her significant contributions to juvenile justice reform and her advocacy for equal justice have established her as a prominent figure in the legal and military communities​",
     state: 'MISSISSIPPI',
   },
   {
     title: 'LAWYER/HUMANITARIAN',
-    content1:
-      'Derrick Johnson is the President and CEO of the NAACP, a role he has held since October 2017. Previously, he served as vice chairman of the NAACP National Board of Directors and was the state president for the Mississippi State Conference NAACP. Johnson’s leadership has been instrumental in advancing the NAACP’s mission, addressing civil rights issues, and promoting equity across the nation.',
+    subtitle: 'Derrick Johnson',
+    content1: `Derrick Johnson is the President and CEO of the NAACP, a position he has held since October 2017. He previously served as vice chairman of the NAACP National Board of Directors and as the state president for the Mississippi State Conference NAACP. Under his leadership, the NAACP has launched several impactful campaigns, including the "Log Out" Facebook Campaign, the Jamestown to Jamestown Partnership, and the "We Are Done Dying" Campaign, which addresses healthcare inequities in the U.S.`,
     content2:
-      'Under Johnson’s guidance, the NAACP has spearheaded impactful initiatives, including the "Log Out" Facebook Campaign, the Jamestown to Jamestown Partnership, and the "We Are Done Dying" Campaign, aimed at tackling healthcare inequities in the U.S. His dedicated leadership has been central to driving the NAACP’s commitment to confronting systemic racial injustices and empowering Black communities.',
+      "Derrick Johnson's contributions have been widely recognized through various prestigious awards. He received the Tougaloo College Meritorious Leadership Award, acknowledging his outstanding leadership and commitment to social justice. Additionally, Johnson was honored with the NAACP Medgar Evers Award for Excellence and the prestigious Mississippi Leader Award, further highlighting his significant impact on civil rights and social equity.",
     state: 'MISSISSIPPI',
   },
   {
@@ -1395,48 +1397,53 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Cassandra Welchlin',
     content1:
-      'Cassandra Welchlin is the Executive Director and co-convener of the Mississippi Black Women’s Roundtable (MSBWR), a statewide network committed to increasing civic engagement and voter participation among Black women, while advocating for equitable public policy for Black women and girls. A dedicated advocate for social justice, Cassandra actively participates as a fellow in various programs and has been honored with multiple awards, including the 2021 Who’s Who Mississippi Women- Fannie Lou Hamer Award and the Woman of Vision Award by the Ms. Foundation for Women.',
+      "Cassandra Welchlin is the Executive Director and co-convener of the Mississippi Black Women's Roundtable (MSBWR), an inter-generational statewide network dedicated to increasing civic engagement and voter participation among Black women while advocating for just and equitable public policy on behalf of Black women and girls. She co-founded and launched the Mississippi Women's Economic Security Initiative (MWESI), which was the first Women's Agenda launched in the South.",
+    content2:
+      "Cassandra has received several awards for her impactful work. She is a recipient of the Mississippi Black Women's Roundtable Award and has been recognized by the Ms. Foundation for her leadership and advocacy efforts.",
     state: 'MISSISSIPPI',
   },
   {
     title: 'CIVIC MAKER',
     subtitle: 'Pamela Junior',
     content1:
-      'Pamela Junior is the Museum Manager at the Smith Robertson Museum and Cultural Center in Jackson, Mississippi, where she is devoted to preserving and promoting African American history and culture. Through her leadership, Junior oversees exhibitions, educational programs, and cultural events that honor the impactful contributions of African Americans to Mississippi’s heritage.',
+      'Pamela Junior is the former director of the Two Mississippi Museums, comprising the Museum of Mississippi History and the Mississippi Civil Rights Museum in Jackson, Mississippi. Appointed in 2017, Junior was instrumental in the success and popularity of these museums, which have attracted over 320,000 visitors since their opening. Prior to this role, she served as the director of the Smith Robertson Museum and Cultural Center for seventeen years, where she dedicated her efforts to preserving and promoting African American history and culture.',
     content2:
-      'Junior’s commitment extends to serving on the Mississippi Delta National Heritage Area board of directors and the Mississippi Book Festival. She co-founded the Mississippi Black Theater Festival, and her accolades include the Freedom Rider Award from the Mississippi Freedom 50th Foundation, the For My People Award from the Margaret Walker Center at Jackson State University, and the Hometown Hero Award from the Jackson Convention and Visitors Bureau.',
+      'Throughout her career, Junior has been recognized with numerous awards, including the Freedom Rider Award from the Mississippi Freedom 50th Foundation, the For My People Award from the Margaret Walker Center at Jackson State University, the Hometown Hero Award from the Jackson Convention and Visitors Bureau, and the Museum Leadership Award by the Association of African American Museums. She was also inducted into the Mississippi Tourism Hall of Fame. Junior continues to serve her community as a board member for Visit Jackson and an advisory board member for the Mississippi Book Festival.',
     state: 'MISSISSIPPI',
   },
   {
     title: 'POLITICS',
     subtitle: 'Cheikh Taylor',
     content1:
-      'Cheikh Taylor is a dedicated politician and community leader serving in the Mississippi House of Representatives, representing the 38th district since 2017. Known for his impactful legislative work, Taylor has held key roles, including vice chairman of the County Affairs Committee and membership in several influential committees. In 2023, he was elected chairman of the Mississippi Democratic Party, where he works to unify the party and strengthen its infrastructure and financial stability.',
+      'Cheikh Taylor is a committed politician and community leader known for his service in the Mississippi House of Representatives. Born on December 12, 1973, in Starkville, Mississippi, Taylor has made a significant impact through his legislative work and community initiatives. He was elected to represent the 38th district in 2017 and has held key roles, including vice chairman of the County Affairs Committee and membership in several other influential committees.',
+    content2:
+      'In 2023, Taylor was elected chairman of the Mississippi Democratic Party, where he focuses on unifying the party and enhancing its infrastructure and financial stability. He is also the executive director of the Brickfire Project, a nonprofit providing vital services in the Golden Triangle area. Taylor has received several awards, including the Legislator of the Year Award from the Mississippi Association of Educators, the Community Leadership Award from the Starkville Area Arts Council, and the Public Service Award from the Mississippi Black Legislative Caucus.',
     state: 'MISSISSIPPI',
   },
   {
     title: 'COMMUNICATION',
     subtitle: 'Zakiya Summers',
     content1:
-      'Zakiya Summers serves her second term in the Mississippi House of Representatives for District 68, representing parts of Hinds and Rankin counties. Known for her deep commitment to Jackson and advocacy work, Summers has a background with the ACLU of Mississippi and One Voice. She has championed critical legislation, including the Dignity for Incarcerated Women Act, increased funding for early learning, and voter suffrage, with a focus on public education, healthcare expansion, and criminal justice reform.',
+      'Zakiya Summers is a dedicated politician serving her second term in the Mississippi House of Representatives for District 68, encompassing parts of Hinds and Rankin counties. Known for her deep Jackson roots and community involvement, Summers has a robust background in advocacy, having worked with the ACLU of Mississippi and One Voice. She has championed legislation such as the Dignity for Incarcerated Women Act, increased funding for early learning, and voter suffrage, focusing on public education, healthcare expansion, and criminal justice reform.',
     content2:
-      'Summers has been honored for her dedication to human rights and community service, including being recognized as the 2019 Human Rights Awardee by Young Church Women United, and receiving the 2021 SHERO Award from Butterflies for Grace Defined by Faith. In 2021, she graduated from the W.K. Kellogg Foundation Community Leadership Network Fellowship, and in 2022, was named Public Citizen of the Year by the Jefferson County Hospital Partial Hospitalization Program. Additional accolades include the Community Service Award from Alpha Phi Alpha Fraternity, Inc., and the Women Leading Change in Politics and Government Award from Women for Progress in Mississippi.',
+      "Summers has been recognized with several awards, including the Mississippi Business Journal's Top 50 Business Leading Women of the Year (2018), the Social Justice Award from Zeta Phi Beta Sorority (2018), the Human Rights Award from Young Church Women United (2019), and the SHERO Award from Butterflies by Grace Defined by Faith (2021).",
     state: 'MISSISSIPPI',
   },
   {
     title: 'ENTREPRENEUR',
     subtitle: 'Ayanna Howard',
     content1:
-      'Ayanna Howard is a distinguished roboticist, entrepreneur, and educator, currently serving as the Dean of the College of Engineering at Ohio State University, a role she assumed in March 2021. As the first woman to lead Ohio State’s College of Engineering, Howard has established herself as a trailblazer in AI and robotics. Her pioneering work, which began at NASA’s Jet Propulsion Laboratory and continued through her professorship at Georgia Tech, focuses on advancing human-robot interaction and advocating for diversity in STEM fields.',
-    content2:
-      'Throughout her career, Howard has received numerous accolades for her contributions to robotics and artificial intelligence. Business Insider recognized her as one of the "23 Most Powerful Women Engineers in the World," while Forbes listed her among "America’s Top 50 Women in Tech." Her influence and leadership continue to shape the future of technology and inspire the next generation of engineers and innovators.',
+      "Ayanna Howard is an esteemed roboticist, entrepreneur, and educator, currently serving as the Dean of the College of Engineering at Ohio State University. Assuming the post in March 2021, Howard became the first woman to lead the Ohio State College of Engineering. Her pioneering work at NASA's Jet Propulsion Laboratory and as a professor at Georgia Tech has positioned her as a leader in AI and robotics. She is known for her innovative research in human-robot interaction and her advocacy for diversity in STEM.",
+    content2: `Ayanna has received numerous accolades throughout her career, reflecting her significant contributions to robotics and AI. Notably, she has been recognized by Business Insider as one of the "23 Most Powerful Women Engineers in the World" and by Forbes in their "America's Top 50 Women In Tech" list. Howard's work in technology and her efforts to promote diversity in STEM have also earned her a place in the "Women in Technology Hall of Fame.`,
     state: 'RHODE ISLAND',
   },
   {
     title: 'HUMAN RESOURCES',
     subtitle: 'Dale Merrill',
     content1:
-      'Dale Merrill is the Senior Vice President of Human Resources and Administration at MPTN and Foxwoods Resort, where she leads critical functions such as talent management, employee engagement, and strategic HR initiatives. With an extensive background in human resources, Dale is instrumental in fostering a positive workplace culture and aligning HR practices with the organization’s goals. Her leadership is key to driving administrative excellence and ensuring an exceptional employee experience at one of North America’s largest resort and casino complexes.',
+      "Dale Merrill is a distinguished leader at Foxwoods Resort Casino, where she plays a critical role in steering the organization towards sustained growth and innovation. Her leadership extends across various aspects of the casino's operations, reflecting her comprehensive understanding of the gaming and hospitality industry.",
+    content2:
+      "Dale's exceptional leadership has earned her multiple awards, including recognition as one of the Great Women in Gaming by Global Gaming Women. Additionally, she holds certification from the Society of Human Resource Management. Beyond her professional achievements, Dale dedicates her time to volunteering with Plan4Health in Providence, RI, and serves as a board member for Three Rivers Community College in Norwich, CT.",
     state: 'RHODE ISLAND',
   },
   {
@@ -1451,16 +1458,16 @@ const contentLaureat = () => [
     title: 'CHARITY WORK',
     subtitle: 'Ray Rickman',
     content1:
-      'Ray Rickman is a prominent figure in Rhode Island’s public and cultural landscape, currently serving as the Executive Director at Stages of Freedom. His career includes impactful roles as a State Representative and Rhode Island Deputy Secretary of State, where he dedicated himself to promoting African American history and culture. Known for his commitment to diversity and EEO compliance, Rickman has held positions such as Providence Equal Opportunity Officer and Executive Director of the Human Relations Commission.',
+      "Ray Rickman is a significant figure in Rhode Island's public and cultural spheres, having served as a State Representative and Rhode Island Deputy Secretary of State. As a rare book dealer and historian, he leads efforts in promoting African American history, including conducting educational tours in Providence. His roles have spanned from Providence Equal Opportunity Officer to Executive Director of the Human Relations Commission, and he's known for his work on EEO compliance and diversity initiatives across various institutions.",
     content2:
-      'Rickman’s influence extends to Rhode Island’s historical and cultural organizations, where he served as President of the Rhode Island Black Heritage Society and on the board of the Rhode Island Historical Society. Notably, he was the first Treasurer of the Smithsonian-affiliated Heritage Harbor Museum. In 2019, the Association of Fundraising Professionals honored him with the Outstanding Philanthropic Citizen Award, recognizing his substantial community contributions.',
+      "Rickman's leadership extends to prominent historical and cultural organizations. He was President of the Rhode Island Black Heritage Society, served on the boards of the Rhode Island Historical Society and was also the first Treasurer of the Heritage Harbor Museum, a Smithsonian affiliate. In 2019, he received the Outstanding Philanthropic Citizen Award from the Association of Fundraising Professionals, recognizing his significant contributions to the community.",
     state: 'RHODE ISLAND',
   },
   {
     title: 'LOCAL ACTIVIST',
     subtitle: 'Kobi Dennis',
-    content:
-      'Kobi Dennis is the former Chief Operations Officer at the Greater Providence YMCA, where he applied his extensive expertise in community organization and leadership to enhance operational strategies, program development, and community engagement. In addition to his role at the YMCA, Dennis founded Unified Solutions in partnership with Roger Williams University and Project Night Vision, a nonprofit after-school program dedicated to supporting local teens.',
+    content1:
+      'Kobi Dennis serves as the Chief Operations Officer at the Greater Providence YMCA, where he leverages his extensive background in community organization and leadership. His role focuses on overseeing operational strategies, enhancing program development, and fostering community engagement. He founded Unified Solutions, partnering with Roger Williams University, and Project Night Vision, a non-profit after-school program for local teens. His dedicated community work has been recognized with the Jefferson Awards for Public Service by the United Way of Rhode Island and NBC 10, highlighting his significant contributions to public service and community development.',
     content2: '',
     state: 'RHODE ISLAND',
   },
@@ -1468,9 +1475,9 @@ const contentLaureat = () => [
     title: 'ACTIVIST',
     subtitle: 'Leah Williams Metts',
     content1:
-      "Leah Williams Metts is a prominent community leader, business owner, and activist based in Providence, Rhode Island. As the owner of LWM Consulting, she leverages her expertise to support community initiatives and provide strategic guidance for organizational development. Known for her impactful work in enhancing children's recreational facilities and tackling violent crime, Leah is dedicated to creating safer, more enriching environments for communities across Rhode Island.",
+      "Leah Williams Metts is an influential community leader and activist based in Providence. Recognized for her impactful work in enhancing children's recreational facilities and tackling violent crime, Leah has dedicated herself to creating safer, more enriching environments. Her efforts have not only improved local communities but also positioned her as a respected voice in civic engagement.",
     content2:
-      "Her dedication has been widely recognized, including being honored as one of YWCA Rhode Island's Women of Achievement in 2014. Leah has served in numerous leadership roles, including co-chairing the alumni board at Davey Lopes Recreation Center, serving on the NAACP Executive Board, and chairing its Youth Council. Additionally, she contributed her time on the boards of the Southside Elementary Charter School and the Providence Police Advisory Board, and as a Court Appointed Special Advocate. She has also held key roles such as Director of Community Engagement at OIC of Rhode Island and Community Outreach Coordinator for Swim Empowerment.",
+      "Leah was honored as one of YWCA Rhode Island's Women of Achievement in 2014. She co-chairs the alumni board at Davey Lopes Recreation Center, serves on the NAACP Executive Board, and chairs its Youth Council. She is also involved with the Southside Elementary Charter School Board, Providence Police Advisory Board, and works as a Court Appointed Special Advocate. Professionally, she is the Director of Community Engagement and Outreach at OIC of Rhode Island and the Community Outreach Coordinator for Swim Empowerment.",
     state: 'RHODE ISLAND',
   },
   {
@@ -1560,9 +1567,9 @@ const contentLaureat = () => [
     title: 'REAL ESTATE',
     subtitle: 'Ashley Kuhn',
     content1:
-      "Ashley Kuhn is an experienced real estate professional and the President and co-founder of Blair Freeman Group, Nebraska's only 100% woman-owned and 100% minority-owned construction and owners’ representation company. With over 15 years of industry expertise, Ashley previously served at White Lotus Group, where she played a pivotal role in overseeing over $700 million in real estate development projects.",
+      "Ashley Kuhn is a seasoned real estate professional currently serving as a Sales & Leasing Agent at PJ Morgan Real Estate and the co-founder of Blair Freeman Group, the only 100% woman-owned and 100% minority-owned construction and owners' representation company in Nebraska. With over 15 years of experience, she previously worked at White Lotus Group, overseeing over $700 million in real estate development.",
     content2:
-      'Ashley is deeply committed to community service, reflected in her active involvement with numerous organizations, including the Greater Omaha Chamber (Executive Committee), Lozier Foundation, CREW Metro Omaha (where she served as Past President), the Union for Contemporary Arts, and Omaha Girls Inc. Her dedication to empowering communities and promoting diversity in real estate exemplifies her impactful leadership.',
+      "Ashley's dedication to community service is evident through her involvement with organizations such as the Greater Omaha Chamber (Executive Committee), Lozier Foundation, CREW Metro Omaha (Past President), Union for Contemporary Arts, and Omaha Girls Inc. (President-Elect). Additionally, she has received several awards, including the Greater Omaha Chamber Young Professionals Award, CREW Metro Omaha President's Award, Urban League of Nebraska's African American Leadership Award, and Midlands Business Journal's 40 Under 40 Honoree.",
     state: 'NEBRASKA',
   },
   {
@@ -1578,9 +1585,9 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Marcus Bell',
     content1:
-      'Marcus Bell is the CEO of Omaha/Council Bluffs Bridges Out of Poverty, an organization committed to reducing poverty and enhancing economic opportunities in the region. He previously served as the Executive Director and CEO of 100 Black Men of Omaha, where he spearheaded initiatives to mentor young men and foster leadership, educational support, and civic engagement, all aimed at uplifting the community.',
+      'Marcus Bell is the Executive Director and CEO of 100 Black Men of Omaha, an organization dedicated to mentoring young men and fostering leadership and personal development. Under his guidance, 100 Black Men of Omaha focuses on improving the quality of life within the community by providing educational support, promoting economic empowerment, and encouraging civic engagement.',
     content2:
-      'With a background in the banking and financial services industry, Marcus brings significant leadership experience to his work. His dedication to community betterment is further reflected in his board memberships with the Greater Omaha Chamber, Urban League of Nebraska, and the Omaha Police Foundation, showcasing his ongoing commitment to economic empowerment and community service.',
+      "In addition to his role at 100 Black Men of Omaha, Marcus serves as the CEO of Omaha/Council Bluffs Bridges Out of Poverty. This organization works to reduce poverty and improve economic opportunities in the region. Marcus's extensive career includes experience in the banking and financial services industry, where he has held various leadership roles. His commitment to community service extends to his involvement with several boards, including the Greater Omaha Chamber, Urban League of Nebraska, and the Omaha Police Foundation.",
     state: 'NEBRASKA',
   },
   {
@@ -1601,8 +1608,8 @@ const contentLaureat = () => [
   },
   {
     title: 'ENTREPRENEUR',
-    subtitle: 'MarQuas Ashworth',
-    content1: `MarQuas Ashworth is a visionary entrepreneur and community leader. He is the founder and owner of Ziyad Rye, a whiskey brand now available in over 400 stores across the Midwest, and the entrepreneur behind the Center at Sixth, a mixed-use development in Des Moines. Known for his achievements in the music industry as Iowa's highest-selling indie hip-hop artist, Ashworth also launched a digital production company. His efforts have been recognized with inclusion in the Business Record's "Forty Under 40.`,
+    subtitle: 'Marquas Ashworth',
+    content1: `Marquas Ashworth is a visionary entrepreneur and community leader. He is the founder and owner of Ziyad Rye, a whiskey brand now available in over 400 stores across the Midwest, and the entrepreneur behind the Center at Sixth, a mixed-use development in Des Moines. Known for his achievements in the music industry as Iowa's highest-selling indie hip-hop artist, Ashworth also launched a digital production company. His efforts have been recognized with inclusion in the Business Record's "Forty Under 40.`,
     content2: '',
     state: 'IOWA',
   },
@@ -1610,9 +1617,8 @@ const contentLaureat = () => [
     title: 'SOCIAL JUSTICE',
     subtitle: 'Betty C. Andrews',
     content1:
-      'Betty C. Andrews is a leading entrepreneur and advocate committed to community building, cultural engagement, and systemic change. As the founder of Betty Andrews Media (BAM), she has established a platform known for impactful communications and diversity-focused projects, collaborating with clients such as Fortune 500 companies, government agencies, and nonprofits. BAM’s work encompasses strategic consulting, project management, and diversity integration to drive transformative initiatives.',
-    content2:
-      'In addition to her entrepreneurial achievements, Betty serves as President of the Iowa-Nebraska NAACP State Area Conference and is a national NAACP board member. Recognized by leaders like President Barack Obama and organizations such as Google and the Equal Justice Initiative, she has contributed significantly to civil rights, criminal justice reform, and diversity advocacy.',
+      'Betty C. Andrews is a dedicated civil rights advocate and President of the Iowa-Nebraska NAACP. She has been instrumental in promoting racial equity and justice, leading initiatives to address systemic racism, reduce harsh sentencing practices, and restore voting rights for the formerly incarcerated. Andrews also serves on the NAACP National Board of Directors, representing the Midwestern Region. Her work has earned her several accolades, including the Louise Noun Award from the ACLU of Iowa and recognition from Iowa Public Radio for her contributions to racial justice.',
+    content2: '',
     state: 'IOWA',
   },
   {
@@ -1644,8 +1650,10 @@ const contentLaureat = () => [
   },
   {
     title: 'BUSINESS',
-    subtitle: 'LaDrina Wilson',
-    content1: `Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Additionally, she has been recognized with several awards for her contributions, including being named one of the Quad Cities Business Journal's Most Influential Leaders.`,
+    subtitle: 'Labrina Wilson',
+    content1:
+     "Dr. LaDrina Wilson is a distinguished educational leader and community advocate currently serving as the CEO of Iman Consulting, a firm specializing in leadership training, diversity, equity, inclusion consulting, and professional development. She has held executive leadership roles, including serving as CEO of the Quad Cities Chamber of Commerce and Vice Board Chair of the Quad Cities Community Foundation. Additionally, she has been recognized with several awards for her contributions, including being named one of the Quad Cities Business Journal's Most Influential Leaders.",
+    content2: '',
     state: 'IOWA',
   },
   {
@@ -1868,9 +1876,9 @@ const contentLaureat = () => [
     title: 'Dr. David A. Thomas',
     subtitle: 'President of Morehouse College',
     content1:
-      'Dr. David A. Thomas is the 12th President of Morehouse College, appointed in January 2018. Under his visionary leadership, Morehouse College has seen remarkable advancements in strategic effectiveness, program expansion, and educational innovation. Dr. Thomas led a record-breaking fundraising campaign, raising approximately $190 million, the largest in the college’s history. He also introduced Morehouse’s first online degree programs and positioned the institution as a hub for discussions on global leadership, professional equity, and social justice.',
+      "Dr. David A. Thomas became the 12th President of Morehouse College in January 2018. Under his leadership, the college has significantly advanced in strategic effectiveness, program reach, and educational innovation. He spearheaded a fundraising campaign generating approximately $190 million, the highest in the college's history. Additionally, he launched Morehouse's first online degree programs and positioned the college as a center for intellectual discourse on global leadership, professional equity, and social justice.",
     content2:
-      "Throughout his career, Dr. Thomas has received numerous awards for his impactful work in education, including being recognized as one of 'Atlanta’s 500 Most Powerful Leaders' by Atlanta Magazine. His contributions continue to shape Morehouse College's influence as a center for intellectual discourse and academic excellence.",
+      'Throughout his career, Dr. Thomas has been recognized for his leadership and contributions to education. He has received several awards, including being named one of the Most Influential Black Corporate Directors by Savoy magazine.',
     state: 'Massachusetts',
   },
   {
@@ -1895,9 +1903,9 @@ const contentLaureat = () => [
     title: 'Ade Adesanya',
     subtitle: 'Co-founder and President of Moving Analytics',
     content1:
-      'Ade Adesanya is the Co-founder and President of Movn Health, a digital health company revolutionizing cardiac rehabilitation through cutting-edge technology. Movn Health’s programs, based on evidence-based methods in partnership with Stanford University, have been widely implemented across major health systems, including Kaiser Permanente and the Veteran Affairs Medical Center. Under Ade’s leadership, Movn Health has raised substantial funding to further its global impact on cardiac health.',
+      'Ade Adesanya is the Co-founder and President of Moving Analytics, a digital health company dedicated to improving cardiac rehabilitation through innovative technology. Under his leadership, Moving Analytics has developed the Movn virtual cardiac rehab program, which has significantly increased patient participation and improved health outcomes. The program is built on evidence-based methods developed in partnership with Stanford University and has been implemented across multiple health systems, including Kaiser Permanente and the Veteran Affairs Medical Center.',
     content2:
-      "Ade's contributions to healthcare and entrepreneurship have earned him significant recognition, including being named one of Forbes' '30 Under 30' in healthcare in 2018. His work continues to advance access to quality cardiac care and demonstrate the transformative potential of digital health.",
+      "Ade has been recognized for his contributions to healthcare and entrepreneurship. He was named one of Forbes' '30 Under 30' in healthcare in 2018 and won the National Startup Pitch Competition at the Louisville Innovation Summit in 2015. His company has raised significant funding and continues to expand its impact on cardiac health globally.",
     state: 'Massachusetts',
   },
   {
@@ -1952,18 +1960,18 @@ const contentLaureat = () => [
     title: 'Robert F. Smith',
     subtitle: 'Founder, Chairman, and CEO of Vista Equity Partners',
     content1:
-      'Robert F. Smith is a renowned American businessman, investor, and philanthropist celebrated for his remarkable contributions to technology and finance. As the founder, chairman, and CEO of Vista Equity Partners, Smith has become one of the leading investors in software, data, and tech-enabled companies. Under his guidance, Vista Equity Partners has evolved into a top private equity firm, dedicated to fostering innovation and sustainable growth across its portfolio companies.',
+      'Robert F. Smith is a prominent American businessman, investor, and philanthropist known for his significant contributions to the technology and finance sectors. As the founder, chairman, and CEO of Vista Equity Partners, Smith has established himself as one of the most successful investors in software, data, and technology-enabled companies. Under his leadership, Vista Equity Partners has grown into one of the leading private equity firms globally, with a focus on fostering innovation and driving sustainable growth in its portfolio companies.',
     content2:
-      'Throughout his career, Robert has received multiple awards acknowledging his commitment to community impact and philanthropy, including the Founder’s Award from Foster Love, the George H.W. Bush Points of Light Award, and the HBCU Impact Award. His efforts continue to inspire and influence corporate and social responsibility.',
+      "Robert has received numerous awards and accolades throughout his career such as the Carnegie Medal of Philanthropy, the Horatio Alger Award, the Global Good Fund's Social Innovation Catalyst Award, the Woodrow Wilson Award for Corporate Citizenship, and the Ripple of Hope Award from the Robert F. Kennedy Human Rights Organization.",
     state: 'Colorado',
   },
   {
     title: 'Nigel Daniels',
     subtitle: 'Policy Advisor at Brownstein Hyatt Farber Schreck',
     content1:
-      'Nigel Daniels is a Judicial Law Clerk with the Colorado Judicial Branch, where he plays a key role in supporting judicial processes by conducting thorough legal research, drafting judicial opinions, and aiding judges in case management. With a background in public service and a strong commitment to legal integrity, Nigel combines his analytical skills with a dedication to the principles of justice.',
+      "Nigel Daniels is a distinguished policy advisor at Brownstein Hyatt Farber Schreck’s Government Relations Department. With a robust background in politics and law, Daniels brings a unique blend of political acumen and strong legal writing skills to his role at the firm. His career trajectory includes pivotal roles such as a special assistant to U.S. Senator Michael Bennet and as a political assistant during Bennet's 2016 reelection campaign in Colorado.",
     content2:
-      'Nigel’s career reflects a broad commitment to public service, including roles as special assistant to U.S. Senator Michael Bennet and senior advisor to former Mayor Michael B. Hancock. His service and contributions were recognized by Colorado State University, which awarded him the 2023 Distinguished Graduate of the Last Decade (GOLD) Award for his achievements and dedication since graduation.',
+      'Daniels has also served as a special aide and senior advisor to former Mayor Michael B. Hancock, demonstrating his commitment to public service and governance. Recognized for his exceptional career achievements, service, and volunteer efforts since graduating, Daniels was honored with the 2023 Distinguished Graduate of the Last Decade (GOLD) Award from Colorado State University (CSU).',
     state: 'Colorado',
   },
   {
@@ -2070,9 +2078,9 @@ const contentLaureat = () => [
     title: 'Dominique Dawes',
     subtitle: 'Retired American Artistic Gymnast',
     content1:
-      'Dominique Dawes is a retired American artistic gymnast and Limited Partner of the Atlanta Falcons. Known for her role in the “Magnificent Seven,” the first U.S. women’s gymnastics team to win Olympic gold at the 1996 Atlanta Games, Dawes also made history as the first African American woman to win an Olympic medal in gymnastics. Her athletic career includes numerous medals from the World Championships and U.S. National Championships.',
+      "Dominique Dawes is a retired American artistic gymnast, born on November 20, 1976, in Silver Spring, Maryland. She was a key member of the U.S. national gymnastics team for a decade, earning widespread acclaim for her performances. Dawes is celebrated for being part of the 'Magnificent Seven,' the first U.S. women's gymnastics team to win Olympic gold, at the 1996 Atlanta Games. She also made history as the first African American woman to win an Olympic medal in gymnastics. In addition to her Olympic achievements, Dawes secured numerous medals at the World Championships and U.S. National Championships throughout her career.",
     content2:
-      "Beyond gymnastics, Dawes has championed youth health and fitness, serving as the President of the Women's Sports Foundation and as a motivational speaker. Her influence extends into media and advocacy, where she promotes sports and education, continuing to inspire new generations through her commitment to athleticism and empowerment.",
+      "Beyond her gymnastics career, Dawes has remained influential through various roles, including serving as the President of the Women's Sports Foundation and as a motivational speaker. She has also appeared in media and entertainment, contributing to initiatives that promote health and fitness among youth. Dawes has continued to inspire through her commitment to advocating for sports and education.",
     state: 'Maryland',
   },
   {
@@ -2089,7 +2097,9 @@ const contentLaureat = () => [
     title: 'Kenneth F. Harris',
     subtitle: 'Leader and Scientist',
     content1:
-      'Dr. Kenneth F. Harris II is an accomplished leader and scientist serving as a Senior Project Manager at The Aerospace Corporation, where he is recognized for his contributions to science and technology globally. Since age 16, Dr. Harris has been involved in pivotal projects at NASA Goddard Space Flight Center, helping to develop and launch five satellites. Named by Forbes as one of the world’s youngest impactful figures in science, Dr. Harris is committed to STEM education and advancing diversity and inclusion within the scientific community.',
+      'Dr. Kenneth F. Harris II is an accomplished leader and scientist, recognized globally for his contributions to the field of science and technology. Since the age of 16, he has been involved in significant projects at NASA Goddard Space Flight Center, contributing to the development and launch of five satellites. He is also acknowledged by Forbes Magazine as one of the world’s youngest and most impactful individuals in science.',
+    content2:
+      'His dedication to STEM education and early exposure to these fields has made him a prominent figure in promoting diversity and inclusion within the scientific community. Dr. Harris also serves as a Board of Education member for Prince George’s County Public Schools, focusing on educational equity and innovation.',
     state: 'Maryland',
   },
   {
@@ -2112,11 +2122,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Michelle A. Gourdine',
-    subtitle: 'Public Health Leader & Chief Medical Officer',
+    subtitle:
+      'Chief Medical Officer (interim) at the University of Maryland Medical System',
     content1:
-      'Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Senior Vice President of CVS Health and Chief Medical Officer of CVS Caremark. In this role, she leads strategic initiatives focused on advancing health equity, improving patient outcomes, and overseeing critical clinical services. Dr. Gourdine’s extensive background in population health and health policy includes her prior role as Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she managed significant budgets and staffing to implement impactful health policies.',
+      "Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Chief Medical Officer (interim) and Senior Vice President for Population Health and Primary Care at the University of Maryland Medical System (UMMS). In this role, she collaborates with Chief Medical Officers and colleagues across UMMS's 13 hospitals to enhance patient safety, quality, and experience.",
     content2:
-      "Dr. Gourdine’s contributions to public health have been recognized with numerous awards. She has been honored as one of Maryland's Top 100 Women in 2001, 2003, and 2005, and was named Woman of the Year by Baltimore County in 2002. Her consulting firm, Michelle Gourdine and Associates, was also awarded the Top 100 MBE Award in 2013 for its excellence in advancing healthcare initiatives.",
+      "Her extensive career in public health includes serving as the Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she oversaw a substantial budget and staff, implementing policies to reduce health disparities. Dr. Gourdine's contributions to public health and medicine have been recognized with numerous awards. She was named one of Maryland's Top 100 Women in 2001, 2003, and 2005, and Woman of the Year by Baltimore County in 2002. Additionally, her consulting firm, Michelle Gourdine and Associates, received the 2013 Top 100 MBE Award.",
     state: 'Maryland',
   },
   {
