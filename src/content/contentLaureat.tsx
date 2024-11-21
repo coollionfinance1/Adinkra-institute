@@ -2388,9 +2388,7 @@ const contentLaureat = () => [
     title: 'Angela Amar',
     subtitle: 'Dean of the School of Nursing at UNLV',
     content1:
-      'Dr. Angela Amar is a distinguished leader in the field of nursing, currently serving as the Dean of the School of Nursing at the University of Nevada, Las Vegas (UNLV). She assumed this role in January 2018, bringing with her a wealth of experience from her previous positions at Emory University and Boston College. At Emory, she served as the Associate Dean for Undergraduate Studies and Chief Diversity Officer at the Nell Hodgson Woodruff School of Nursing, where she was instrumental in redesigning the undergraduate curriculum and improving NCLEX pass rates.',
-    content2:
-      "Throughout her career, Dr. Amar has received numerous accolades. She is a Fellow of the American Academy of Nursing, a distinguished fellow of the International Association of Forensic Nurses, and a fellow of the National League for Nursing's Academy of Nursing Education. Her contributions to forensic nursing have been recognized with book-of-the-year honors from the American Journal of Nursing for 'A Practical Guide to Forensic Nursing,' which she co-authored.",
+      "Dr. Angela Amar is a highly esteemed leader in the nursing profession, currently serving as the Dean of NYU Meyers College of Nursing. Previously, she held the position of Dean at the UNLV School of Nursing. Throughout her career, Dr. Amar has earned numerous accolades, including being named a Fellow of the American Academy of Nursing, a Distinguished Fellow of the International Association of Forensic Nurses, and a Fellow of the National League for Nursing's Academy of Nursing Education. Her contributions to forensic nursing have been recognized with book-of-the-year honors from the American Journal of Nursing for her co-authored work, 'A Practical Guide to Forensic Nursing.'",
     state: 'Nevada',
   },
   {
