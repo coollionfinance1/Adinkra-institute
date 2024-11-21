@@ -1876,10 +1876,10 @@ const contentLaureat = () => [
     title: 'Dr. David A. Thomas',
     subtitle: 'President of Morehouse College',
     content1:
-      "Dr. David A. Thomas became the 12th President of Morehouse College in January 2018. Under his leadership, the college has significantly advanced in strategic effectiveness, program reach, and educational innovation. He spearheaded a fundraising campaign generating approximately $190 million, the highest in the college's history. Additionally, he launched Morehouse's first online degree programs and positioned the college as a center for intellectual discourse on global leadership, professional equity, and social justice.",
-    content2:
-      'Throughout his career, Dr. Thomas has been recognized for his leadership and contributions to education. He has received several awards, including being named one of the Most Influential Black Corporate Directors by Savoy magazine.',
-    state: 'Massachusetts',
+    'Dr. David A. Thomas became the 12th President of Morehouse College in January 2018. Under his leadership, the college has achieved significant advancements in strategic effectiveness, program reach, and educational innovation. He spearheaded a record-breaking fundraising campaign that generated approximately $190 million, the highest in the college’s history. Additionally, Dr. Thomas launched Morehouse’s first online degree programs, establishing the institution as a center for intellectual discourse on global leadership, professional equity, and social justice.',
+  content2:
+    'Throughout his career, Dr. Thomas has been widely recognized for his leadership and contributions to education. Among his many accolades, he was named one of "Atlanta’s 500 Most Powerful Leaders" by Atlanta Magazine.',
+  state: 'Massachusetts',
   },
   {
     title: 'Zeninjor Enwemeka',
@@ -1901,12 +1901,11 @@ const contentLaureat = () => [
   },
   {
     title: 'Ade Adesanya',
-    subtitle: 'Co-founder and President of Moving Analytics',
-    content1:
-      'Ade Adesanya is the Co-founder and President of Moving Analytics, a digital health company dedicated to improving cardiac rehabilitation through innovative technology. Under his leadership, Moving Analytics has developed the Movn virtual cardiac rehab program, which has significantly increased patient participation and improved health outcomes. The program is built on evidence-based methods developed in partnership with Stanford University and has been implemented across multiple health systems, including Kaiser Permanente and the Veteran Affairs Medical Center.',
-    content2:
-      "Ade has been recognized for his contributions to healthcare and entrepreneurship. He was named one of Forbes' '30 Under 30' in healthcare in 2018 and won the National Startup Pitch Competition at the Louisville Innovation Summit in 2015. His company has raised significant funding and continues to expand its impact on cardiac health globally.",
-    state: 'Massachusetts',
+    subtitle: 'Co-founder and President of Movn Health',
+    'Ade Adesanya is the Co-founder and President of Movn Health, a digital health company revolutionizing cardiac rehabilitation through innovative technology. Under his leadership, Movn Health’s programs, developed in partnership with Stanford University, are based on evidence-based methods and have been successfully implemented across major health systems, including Kaiser Permanente and the Veteran Affairs Medical Center.',
+  content2:
+    'Ade has been recognized for his outstanding contributions to healthcare and entrepreneurship. In 2018, he was named one of Forbes’ "30 Under 30" in healthcare. With significant funding raised, Movn Health continues to expand its global impact on improving cardiac health.',
+  state: 'Massachusetts',
   },
   {
     title: 'Olivia Watkins',
@@ -1960,19 +1959,19 @@ const contentLaureat = () => [
     title: 'Robert F. Smith',
     subtitle: 'Founder, Chairman, and CEO of Vista Equity Partners',
     content1:
-      'Robert F. Smith is a prominent American businessman, investor, and philanthropist known for his significant contributions to the technology and finance sectors. As the founder, chairman, and CEO of Vista Equity Partners, Smith has established himself as one of the most successful investors in software, data, and technology-enabled companies. Under his leadership, Vista Equity Partners has grown into one of the leading private equity firms globally, with a focus on fostering innovation and driving sustainable growth in its portfolio companies.',
-    content2:
-      "Robert has received numerous awards and accolades throughout his career such as the Carnegie Medal of Philanthropy, the Horatio Alger Award, the Global Good Fund's Social Innovation Catalyst Award, the Woodrow Wilson Award for Corporate Citizenship, and the Ripple of Hope Award from the Robert F. Kennedy Human Rights Organization.",
-    state: 'Colorado',
+    'Robert F. Smith is a renowned American businessman, investor, and philanthropist, celebrated for his transformative contributions to the technology and finance sectors. As the founder, chairman, and CEO of Vista Equity Partners, Smith has built one of the world’s leading private equity firms, specializing in software, data, and technology-enabled companies. His leadership has fostered innovation and sustainable growth across Vista’s portfolio companies.',
+  content2:
+    'Robert’s impactful career has earned him numerous accolades, including the Founder’s Award from Foster Love, the George H.W. Bush Points of Light Award, and the HBCU Impact Award. These honors reflect his deep commitment to community impact and volunteerism.',
+  state: 'Colorado',
   },
   {
     title: 'Nigel Daniels',
-    subtitle: 'Policy Advisor at Brownstein Hyatt Farber Schreck',
-    content1:
-      "Nigel Daniels is a distinguished policy advisor at Brownstein Hyatt Farber Schreck’s Government Relations Department. With a robust background in politics and law, Daniels brings a unique blend of political acumen and strong legal writing skills to his role at the firm. His career trajectory includes pivotal roles such as a special assistant to U.S. Senator Michael Bennet and as a political assistant during Bennet's 2016 reelection campaign in Colorado.",
-    content2:
-      'Daniels has also served as a special aide and senior advisor to former Mayor Michael B. Hancock, demonstrating his commitment to public service and governance. Recognized for his exceptional career achievements, service, and volunteer efforts since graduating, Daniels was honored with the 2023 Distinguished Graduate of the Last Decade (GOLD) Award from Colorado State University (CSU).',
-    state: 'Colorado',
+    subtitle: 'Judicial Law Clerk',
+     content1:
+    'Nigel Daniels is a Judicial Law Clerk with the Colorado Judicial Branch, where he conducts in-depth legal research, drafts judicial opinions, and assists judges with case management. A law graduate dedicated to public service and legal integrity, Nigel brings a strong foundation in legal analysis and a commitment to upholding the principles of justice.',
+  content2:
+    'Nigel’s career includes pivotal roles such as a special assistant to U.S. Senator Michael Bennet and senior advisor to former Mayor Michael B. Hancock. In recognition of his exceptional achievements, he received the 2023 Distinguished Graduate of the Last Decade (GOLD) Award from Colorado State University.',
+  state: 'Colorado',
   },
   {
     title: "Benilda 'Benny' Samuels",
@@ -2078,10 +2077,10 @@ const contentLaureat = () => [
     title: 'Dominique Dawes',
     subtitle: 'Retired American Artistic Gymnast',
     content1:
-      "Dominique Dawes is a retired American artistic gymnast, born on November 20, 1976, in Silver Spring, Maryland. She was a key member of the U.S. national gymnastics team for a decade, earning widespread acclaim for her performances. Dawes is celebrated for being part of the 'Magnificent Seven,' the first U.S. women's gymnastics team to win Olympic gold, at the 1996 Atlanta Games. She also made history as the first African American woman to win an Olympic medal in gymnastics. In addition to her Olympic achievements, Dawes secured numerous medals at the World Championships and U.S. National Championships throughout her career.",
-    content2:
-      "Beyond her gymnastics career, Dawes has remained influential through various roles, including serving as the President of the Women's Sports Foundation and as a motivational speaker. She has also appeared in media and entertainment, contributing to initiatives that promote health and fitness among youth. Dawes has continued to inspire through her commitment to advocating for sports and education.",
-    state: 'Maryland',
+    'Dominique Dawes is a retired American artistic gymnast and a Limited Partner of the Atlanta Falcons. She was a key member of the U.S. national gymnastics team for a decade and is celebrated as part of the "Magnificent Seven," the first U.S. women’s gymnastics team to win Olympic gold at the 1996 Atlanta Games. Dawes made history as the first African American woman to win an Olympic medal in gymnastics, solidifying her legacy in the sport.',
+  content2:
+    'Beyond her gymnastics career, Dawes has served as the President of the Women’s Sports Foundation and as a motivational speaker, inspiring others through her advocacy for health, fitness, and education among youth. Her dedication to sports and community continues to make a lasting impact.',
+  state: 'Maryland',
   },
   {
     title: 'Karsonya Wise Whitehead',
@@ -2096,11 +2095,9 @@ const contentLaureat = () => [
   {
     title: 'Kenneth F. Harris',
     subtitle: 'Leader and Scientist',
-    content1:
-      'Dr. Kenneth F. Harris II is an accomplished leader and scientist, recognized globally for his contributions to the field of science and technology. Since the age of 16, he has been involved in significant projects at NASA Goddard Space Flight Center, contributing to the development and launch of five satellites. He is also acknowledged by Forbes Magazine as one of the world’s youngest and most impactful individuals in science.',
-    content2:
-      'His dedication to STEM education and early exposure to these fields has made him a prominent figure in promoting diversity and inclusion within the scientific community. Dr. Harris also serves as a Board of Education member for Prince George’s County Public Schools, focusing on educational equity and innovation.',
-    state: 'Maryland',
+    content:
+    'Dr. Kenneth F. Harris II is an accomplished leader and scientist, serving as a Senior Project Manager at The Aerospace Corporation. Recognized globally for his contributions to science and technology, he began working on significant projects at NASA Goddard Space Flight Center at just 16, contributing to the development and launch of five satellites. Acknowledged by Forbes as one of the world’s youngest and most impactful individuals in science, Dr. Harris is a dedicated advocate for STEM education and diversity, inspiring the next generation of innovators.',
+  state: 'Maryland',
   },
   {
     title: 'Hope Wiseman',
@@ -2123,12 +2120,12 @@ const contentLaureat = () => [
   {
     title: 'Michelle A. Gourdine',
     subtitle:
-      'Chief Medical Officer (interim) at the University of Maryland Medical System',
+      'Senior Vice President of CVS Health and Chief Medical Officer of CVS Caremark',
     content1:
-      "Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Chief Medical Officer (interim) and Senior Vice President for Population Health and Primary Care at the University of Maryland Medical System (UMMS). In this role, she collaborates with Chief Medical Officers and colleagues across UMMS's 13 hospitals to enhance patient safety, quality, and experience.",
-    content2:
-      "Her extensive career in public health includes serving as the Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she oversaw a substantial budget and staff, implementing policies to reduce health disparities. Dr. Gourdine's contributions to public health and medicine have been recognized with numerous awards. She was named one of Maryland's Top 100 Women in 2001, 2003, and 2005, and Woman of the Year by Baltimore County in 2002. Additionally, her consulting firm, Michelle Gourdine and Associates, received the 2013 Top 100 MBE Award.",
-    state: 'Maryland',
+    'Dr. Michelle A. Gourdine is a distinguished physician and public health leader currently serving as the Senior Vice President of CVS Health and Chief Medical Officer of CVS Caremark. In her role, she provides strategic leadership in advancing health equity, improving patient outcomes, and overseeing clinical services. Her extensive career includes serving as Deputy Secretary for Public Health Services for the Maryland Department of Health and Mental Hygiene, where she managed a substantial budget and staff while implementing policies to reduce health disparities.',
+  content2:
+    'Dr. Gourdine’s contributions to public health and medicine have earned her numerous accolades. She has been recognized as one of Maryland’s Top 100 Women in 2001, 2003, and 2005, and was named Woman of the Year by Baltimore County in 2002. Her consulting firm, Michelle Gourdine and Associates, was honored with the 2013 Top 100 MBE Award, showcasing her commitment to promoting health equity and leadership excellence.',
+  state: 'Maryland',
   },
   {
     title: 'Ta-Nehisi Coates',
@@ -2153,10 +2150,8 @@ const contentLaureat = () => [
     title: 'Carlos L. Williams, Esq.',
     subtitle: 'Founder of The Law Office of Carlos L. Williams',
     content1:
-      'Carlos L. Williams, Esq., is a highly regarded attorney based in Tulsa, Oklahoma, with over two decades of experience in the legal field. He is the founder of The Law Office of Carlos L. Williams, specializing in criminal defense, family law, immigration, and personal injury. Williams earned his Juris Doctor degree from the University of Arkansas School of Law.',
-    content2:
-      'Throughout his distinguished career, Williams has received several accolades, including recognition from the National Institute for Trial Advocacy, Advocates Society (2001–2002), and serving as President of Phi Alpha Delta (1997–1998).',
-    state: 'Oklahoma',
+    'Carlos L. Williams, Esq., is a highly regarded attorney based in Tulsa, Oklahoma, with over two decades of experience in the legal field. As the founder of The Law Office of Carlos L. Williams, he specializes in criminal defense, family law, immigration, and personal injury. Williams earned his Juris Doctor degree from the University of Arkansas School of Law, establishing himself as a trusted advocate dedicated to delivering exceptional legal services.',
+  state: 'Oklahoma',
   },
   {
     title: 'Alfre Woodard',
