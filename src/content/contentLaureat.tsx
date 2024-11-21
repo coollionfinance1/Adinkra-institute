@@ -3023,9 +3023,9 @@ const contentLaureat = () => [
   },
   {
     title: 'Paul Reneau',
-    subtitle: 'Assistant Coach for the Montana Track & Field Team',
+    subtitle: 'Behavior Interventionist',
     content1:
-      'Paul Reneau is an accomplished coach and former Olympian currently serving as an assistant coach for the Montana track & field team, specializing in sprints and relay teams. Originally from Belize, Reneau represented his home country in the 1984 Los Angeles Olympics in the 100 meters and the 1988 Seoul Olympics as a velodrome cyclist.',
+      'Paul Reneau is is an accomplished coach and former Olympian currently serving with Missouka County Public Schools (Franklin Elementary School) as a Behavior Interventionist. Originally from Belize, Reneau represented his home country in the 1984 Los Angeles Olympics in the 100 meters and the 1988 Seoul Olympics as a velodrome cyclist.',
     content2:
       'Before joining the University of Montana full-time in 2016, Reneau worked as a counselor and coached middle and high school sports in Missoula. His athletes have achieved multiple NCAA regional appearances, Big Sky Conference championships, and school records. Reneau holds USATF Level 1, 2, and 3 certifications in sprints, hurdles, and relays, along with an IAAF Level 5 endorsement.',
     state: 'Montana',
