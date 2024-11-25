@@ -2,9 +2,9 @@
 const contentLaureat = () => [
   {
     title: 'ENTREPRENEUR',
-    subtitle: 'Brianna Regime Walston',
+    subtitle: 'Brianna Régine Walston',
     content1:
-      'Brianna Regime Walston is a dynamic entrepreneur and UConn alumna that has made remarkable strides in the strategic communications industry. As the Founder and CEO of Brianna Regime Visionary Consulting LLC (BRVC), she has built a firm renowned for its focus on brand development, social and digital strategy, public relations, and operations management. BRVC is dedicated to supporting underserved communities, emphasizing clients in entertainment, non-profit, startup, lifestyle, and government sectors.',
+      'Brianna Régine Walston is a dynamic entrepreneur and UConn alumna that has made remarkable strides in the strategic communications industry. As the Founder and CEO of Brianna Régine Visionary Consulting LLC (BRVC), she has built a firm renowned for its focus on brand development, social and digital strategy, public relations, and operations management. BRVC is dedicated to supporting underserved communities, emphasizing clients in entertainment, non-profit, startup, lifestyle, and government sectors.',
     content2:
       "Brianna's leadership and vision have earned her significant accolades, including being named the 2023 Young Entrepreneur of the Year by the U.S. Small Business Administration. Her commitment to diversity is reflected in her team, composed entirely of women-identifying individuals from various cultural backgrounds. With a mission to create visibility and opportunities for underrepresented groups, Brianna continues to drive BRVC towards greater impact and success.",
     state: 'CONNECTICUT',
@@ -2842,15 +2842,6 @@ const contentLaureat = () => [
     state: 'Texas',
   },
   {
-    title: 'Cherae Farmer-Dixon',
-    subtitle: 'Dean of the School of Dentistry at Meharry Medical College',
-    content1:
-      'Dr. Cherae Farmer-Dixon is a distinguished leader in dentistry, currently serving as the Dean of the School of Dentistry at Meharry Medical College. She is one of the few women to head a prominent dental program in the United States, which produces 40 percent of the nation’s practicing African American dentists. Dr. Farmer-Dixon has dedicated nearly three decades to the institution, previously holding the position of Associate Dean for Academic and Student Affairs. In addition to her academic role, she serves as a Lieutenant Colonel in the United States Army Reserve, exemplifying her commitment to service and leadership.',
-    content2:
-      "Dr. Farmer-Dixon's contributions to the field of dentistry have been widely recognized. She has received numerous awards, including being named one of the 2019 Women of Influence by the Nashville Business Journal and a distinguished alumna of the Nashville Healthcare Council of Fellows in 2019. She is also a 2018 fellow of the International College of Dentists and a 2014 fellow of the American College of Dentists.",
-    state: 'Indiana',
-  },
-  {
     title: 'Dr. Phillip Atiba Goff',
     subtitle: 'Co-Founder and CEO of the Center for Policing Equity',
     content1:
@@ -3471,6 +3462,15 @@ const contentLaureat = () => [
     content2:
       'Her entrepreneurial achievements include being invited by President Barack Obama to the signing of the America Invents Act in 2012 and raising the largest Series A round by a black female founder in 2016. She also rang the NASDAQ opening bell representing Forbes 30 Under 30 alumni. In 2021, she was appointed to the Electricity Advisory Committee by Secretary of Energy Jennifer M. Granholm.',
     state: 'NEW YORK',
+  },
+  {
+    title: 'Dean of the School of Dentistry at Meharry Medical College',
+    subtitle: 'Cherae Farmer-Dixon',
+    content1:
+      'Dr. Cherae Farmer-Dixon is a distinguished leader in dentistry, currently serving as the Dean of the School of Dentistry at Meharry Medical College. She is one of the few women to head a prominent dental program in the United States, which produces 40 percent of the nation’s practicing African American dentists. Dr. Farmer-Dixon has dedicated nearly three decades to the institution, previously holding the position of Associate Dean for Academic and Student Affairs. In addition to her academic role, she serves as a Lieutenant Colonel in the United States Army Reserve, exemplifying her commitment to service and leadership.',
+    content2:
+      "Dr. Farmer-Dixon's contributions to the field of dentistry have been widely recognized. She has received numerous awards, including being named one of the 2019 Women of Influence by the Nashville Business Journal and a distinguished alumna of the Nashville Healthcare Council of Fellows in 2019. She is also a 2018 fellow of the International College of Dentists and a 2014 fellow of the American College of Dentists.",
+    state: 'TENNESSEE',
   },
   {
     title: 'ENTREPRENEUR',
