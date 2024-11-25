@@ -1,13 +1,16 @@
-import { Typography } from "@material-tailwind/react";
-import SearchBar from "../components/SearchBar";
-import contentLaureat from "../content/contentLaureat";
-import Laureat from "../components/Laureat";
-import { activeCountry, statesChangeFormat } from "../content/contentFiltersLaureat";
-import { useState } from "react";
+import { Typography } from '@material-tailwind/react';
+import SearchBar from '../components/SearchBar';
+import contentLaureat from '../content/contentLaureat';
+import Laureat from '../components/Laureat';
+import {
+  activeCountry,
+  statesChangeFormat,
+} from '../content/contentFiltersLaureat';
+import { useState } from 'react';
 
 function checkLetters(input: string, requiredLetters: string): boolean {
   // Convert letters to an array for easier processing
-  const lettersArray = requiredLetters.split("");
+  const lettersArray = requiredLetters.split('');
 
   // Check for 5 letters in the input
   const includedCount = lettersArray.filter((letter) =>
@@ -24,7 +27,7 @@ function checkLetters(input: string, requiredLetters: string): boolean {
 
 const Achievers = () => {
   const [state, setState] = useState(activeCountry()[0].toLowerCase());
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState('');
 
   const handleState = (state: string) => setState(state);
   const handleSearch = (search: string) => setSearch(search);
@@ -38,7 +41,7 @@ const Achievers = () => {
         variant="h3"
         className="text-title mb-10 h-[10%] text-center uppercase w-full"
       >
-        BLACK ACHIEVERS BIOGRAPHIES{" "}
+        BLACK ACHIEVERS BIOGRAPHIES{' '}
       </Typography>
       <SearchBar
         state={state}
@@ -52,19 +55,33 @@ const Achievers = () => {
             (Laureat) =>
               Laureat?.state?.toLowerCase() === state.toLowerCase() &&
               checkLetters(
-                Laureat.subtitle.toLowerCase().split(" ").join(""),
-                search.toLowerCase().split(" ").join("")
+                Laureat.subtitle.toLowerCase().split(' ').join(''),
+                search.toLowerCase().split(' ').join('')
               )
           )
           .map(({ title, subtitle, content1, content2 }, index) => (
             <Laureat
               key={subtitle}
               index={index}
-              state={state.charAt(0).toUpperCase() + state.slice(1,state.length)}
-              content1={content1}
-              content2={content2 ?? ""}
-              title={statesChangeFormat.includes(state.charAt(0).toUpperCase() + state.slice(1,state.length)) ? subtitle : title}
-              subtitle={statesChangeFormat.includes(state.charAt(0).toUpperCase() + state.slice(1,state.length)) ? title : subtitle}
+              state={
+                state.charAt(0).toUpperCase() + state.slice(1, state.length)
+              }
+              content1={content1 ?? ''}
+              content2={content2 ?? ''}
+              title={
+                statesChangeFormat.includes(
+                  state.charAt(0).toUpperCase() + state.slice(1, state.length)
+                )
+                  ? subtitle
+                  : title
+              }
+              subtitle={
+                statesChangeFormat.includes(
+                  state.charAt(0).toUpperCase() + state.slice(1, state.length)
+                )
+                  ? title
+                  : subtitle
+              }
             />
           ))}
       </div>

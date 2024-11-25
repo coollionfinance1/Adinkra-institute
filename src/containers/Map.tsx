@@ -260,7 +260,7 @@ const Map = () => {
                     key={index}
                     state={selectedState.name}
                     index={index}
-                    content1={content1}
+                    content1={content1 ?? ''}
                     content2={content2 ?? ''}
                     title={title}
                     subtitle={subtitle}
