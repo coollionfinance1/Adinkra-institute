@@ -4241,10 +4241,10 @@ const contentLaureat = () => [
     title: 'HEALTH',
     subtitle: 'Bettina Byrd-Giles',
     content1:
-      'Bettina Byrd-Giles is the CEO of The Bethesda Life Center, Inc., and a prominent expert in intercultural communication, implicit bias, and health inequities. She has been instrumental in leading initiatives that promote health equity and community revitalization. As a founder of Ensley Alive, Bettina is dedicated to the cultural and economic renaissance of the Ensley community through creative arts and media.',
-    content2:
-      'Bettina’s contributions to community development and health equity have earned her significant recognition. She is a recipient of The Robert Wood Johnson Foundation Culture of Health Prize, an accolade given to leaders who use their influence to advance health and equity.',
-    state: 'ALABAMA',
+    'Bettina Byrd-Giles is a Consultant at The Byrd\'s Nest and a renowned expert in intercultural communication, implicit bias, and health inequities. She has been pivotal in spearheading initiatives that advance health equity and foster community revitalization, showcasing her dedication to creating impactful change.',
+  content2:
+    'Bettina's work in community development and health equity has garnered significant recognition. She is a recipient of The Robert Wood Johnson Foundation Culture of Health Prize, honoring her efforts to promote equity and well-being. Additionally, she is a proud alumna of the Culture of Health Leaders program, further solidifying her role as a leader in health equity advocacy.',
+  state: 'ALABAMA',
   },
   {
     title: 'TAX',
