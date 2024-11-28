@@ -2607,12 +2607,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Corey Marionneaux',
-    subtitle: "Founder of the Black Men's Community Development Corporation",
+    subtitle: "Founder of the Black Men Coalition Foundation Incorporated (BMCF)",
     content1:
-      "Corey Marionneaux is the founder and leader of the Black Men's Community Development Corporation (BMCDC), an organization dedicated to the empowerment and advancement of Black men through community-driven initiatives. Marionneaux's career is marked by his commitment to creating opportunities and fostering development within underserved communities. He holds a Bachelor of Science in Business Administration from Southern University and a Master of Business Administration from the University of Phoenix.",
-    content2:
-      "His professional journey has been characterized by a strong focus on real estate development and community engagement. Additionally, Corey has been honored as one of Wisconsin's 51 Most Influential Black Leaders for 2023, recognizing his significant impact and leadership in the community.",
-    state: 'Wisconsin',
+    'Corey Marionneaux is the founder and leader of the Black Men Coalition Foundation Incorporated (BMCF), an organization dedicated to empowering and advancing Black men through community-driven initiatives. Marionneaux has dedicated his career to creating opportunities and fostering development within underserved communities. His work is deeply focused on real estate development and community engagement.',
+  content2:
+    'In recognition of his leadership, Corey was honored as one of Wisconsin\'s 51 Most Influential Black Leaders in 2023, a testament to his significant impact in the community. Through his efforts, Corey continues to drive positive change and create lasting opportunities for Black men and underserved communities.',
+  state: 'Wisconsin',
   },
   {
     title: 'Raynetta “Ray” Hill',
