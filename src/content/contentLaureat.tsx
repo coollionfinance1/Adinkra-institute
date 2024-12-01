@@ -2446,10 +2446,10 @@ const contentLaureat = () => [
     title: 'Camille Stewart',
     subtitle: 'Global Head of Product Security Strategy at Google',
     content1:
-      'Camille Stewart is a prominent cybersecurity expert, attorney, and advocate for technology and national security policy. She currently serves as the Global Head of Product Security Strategy at Google and as a Senior Fellow at the Atlantic Council’s Cyber Statecraft Initiative. Her career has spanned roles in the private sector, government, and non-profit organizations, highlighting her deep expertise in cybersecurity and policy.',
-    content2:
-      "Throughout her career, Stewart has been recognized for her contributions to cybersecurity and policy. She is a recipient of numerous accolades, including being named to the Forbes '30 Under 30' list in Law & Policy and the Root 100 Most Influential African Americans.",
-    state: 'Georgia',
+    'Camille Stewart is a renowned cybersecurity expert, attorney, and advocate for technology and national security policy. She currently serves as the CEO and Principal at CAS Strategies, LLC. With a career spanning roles in the private sector, government, and non-profit organizations, Camille has established herself as a thought leader in cybersecurity and policy, providing strategic solutions to complex challenges.',
+  content2:
+    "Throughout her career, Camille has been recognized for her significant contributions to cybersecurity and policy. She is a recipient of numerous accolades, including being named to Forbes' \"30 Under 30\" list in Law & Policy and the Root 100 Most Influential African Americans. Her commitment to advancing cybersecurity and fostering equity in technology has made her a trailblazer in her field.",
+  state: 'Georgia',
   },
   {
     title: 'Beatrice Dixon',
@@ -2535,12 +2535,12 @@ const contentLaureat = () => [
   {
     title: 'Jennifer McDonald',
     subtitle:
-      'Vice President of Human Resources at Boys & Girls Clubs of South Central Kansas',
+      'Human Resources Director of Goodwill Industries of Kansas',
     content1:
-      'Jennifer McDonald currently serves as the Vice President of Human Resources at the Boys & Girls Clubs of South Central Kansas, a position she has held since January 2024. In this role, Jennifer is responsible for overseeing all HR functions, including talent acquisition, employee relations, performance management, and ensuring compliance with labor laws. Additionally, she is the owner and founder of Jenny Dawn Cellars, the first African American woman to open an urban winery in Kansas.',
-    content2:
-      "Throughout her career, she has received several accolades, including the Wichita Innovations in Business Award, Wichita Business Journal's Top 40 Under 40 in 2017, the Innovation and Enterprise Award in 2018, and the Women in Business Award in 2020. Additionally, she was honored with the Distinguished 400 Award by the African American History Commission in 2019 and the Black Women Owned Business of Distinction by the Heartland Black Chamber of Commerce in 2021.",
-    state: 'Kansas',
+    'Jennifer McDonald is a dynamic leader currently serving as the Human Resources Director of Goodwill Industries of Kansas. In this role, she oversees key HR functions, including talent acquisition, employee relations, performance management, and compliance with labor laws. Beyond her leadership in HR, Jennifer is the owner and founder of Jenny Dawn Cellars, making history as the first African American woman to open an urban winery in Kansas.',
+  content2:
+    "Throughout her career, Jennifer has been recognized with numerous accolades for her contributions to business and community development. Her honors include the Wichita Innovations in Business Award, Wichita Business Journal's Top 40 Under 40 in 2017, the Innovation and Enterprise Award in 2018, and the Women in Business Award in 2020. She was also celebrated with the Distinguished 400 Award by the African American History Commission in 2019 and the Black Women Owned Business of Distinction by the Heartland Black Chamber of Commerce in 2021.",
+  state: 'Kansas',
   },
   {
     title: 'Alan Boyer',
@@ -2555,10 +2555,10 @@ const contentLaureat = () => [
     title: 'Clare Nderagakura',
     subtitle: 'Community Organizer and Entrepreneur',
     content1:
-      'Clare Nderagakura is a community organizer and entrepreneur based in Lawrence, Kansas. She is the founder of Clare’s Community Closet, a project that began in 2020 to provide essential items such as blankets and coats to those in need. Her journey into community service started with volunteering at Food Not Bombs, an organization that offers free vegetarian or vegan meals. As the demand for more resources grew, Clare expanded her efforts by leasing a space and establishing a network of supporters who donate items and funds.',
-    content2:
-      'Clare’s impact has been recognized through various awards, highlighting her dedication to her community. She was named a Woman of Impact by the Lawrence Business Magazine in 2022, acknowledging her significant contributions to improving the lives of those in her community. Additionally, Clare collaborates with Get It Give It Inc., a nonprofit that provides clothing, household goods, and other necessities to anyone in need.',
-    state: 'Kansas',
+    'Clare Nderagakura is a dedicated community organizer and entrepreneur based in Lawrence, Kansas. She serves as an Event Operations Coordinator at Your Unforgettable, where she oversees client and vendor communications, develops engaging social media strategies to promote events, and supports marketing initiatives to drive attendance. Clare’s work is rooted in her passion for fostering connections and enhancing community experiences.',
+  content2:
+    "Clare's impact has been recognized through various accolades, including being named a Woman of Impact by the Lawrence Business Magazine in 2022 for her significant contributions to her community. She also collaborates with Get It Give It Inc., a nonprofit organization dedicated to providing clothing, household goods, and other necessities to those in need, further demonstrating her commitment to improving the lives of others.",
+  state:  'Kansas',
   },
   {
     title: 'Whitney Wolfe',
@@ -2655,21 +2655,19 @@ const contentLaureat = () => [
   {
     title: 'Johnny Winston Jr.',
     subtitle:
-      'Division Chief of Organization and Community Liaison at the City of Madison Fire Department',
+      'CPR Instructor at Johnny Winston CARES',
     content1:
-      'Johnny Winston Jr. is a dedicated community leader and entrepreneur based in Madison, Wisconsin. He serves as the Division Chief of Organization and Community Liaison at the City of Madison Fire Department, a position he has held since February 2015. Winston has been a member of the Madison Fire Department since 1996 and has also served in various leadership roles, including as a Training Officer and Lieutenant.',
-    content2:
-      'Johnny has received several awards and recognitions for his outstanding contributions to the community and public service. Notably, he was honored with the Firefighter of the Year Award for his exemplary service and dedication to the Madison Fire Department. Additionally, he received the Community Service Award for his extensive work in youth programming and social services in the Madison area. Furthermore, his efforts in promoting diversity and inclusion have been recognized with the Leadership in Diversity Award.',
-    state: 'Wisconsin',
+    'Johnny Winston Jr. is a dedicated community leader and entrepreneur based in Madison, Wisconsin. He is the Company Owner and CPR Instructor at Johnny Winston CARES, where he combines his expertise and passion for service to enhance community safety and preparedness. Since 1996, Winston has been a valued member of the Madison Fire Department, serving in various leadership roles, including Training Officer and Lieutenant.',
+  content2:
+    "Johnny's exceptional contributions to public service and the community have earned him numerous accolades. He was honored with the Firefighter of the Year Award for his exemplary service to the Madison Fire Department, the Community Service Award for his impactful work in youth programming and social services, and the Leadership in Diversity Award for his efforts in promoting inclusion and equity in the community.",
+  state: 'Wisconsin',
   },
   {
     title: 'Kareem Neal',
     subtitle: 'Special Education Teacher at Maryvale High School',
-    content1:
-      "Kareem Neal is a distinguished Special Education teacher at Maryvale High School in Phoenix, Arizona, who has over two decades of experience teaching students with severe cognitive delays. Neal's dedication to education has earned him several awards, including the Maryvale Revitalization Committee's Educator Excellence Award, recognition from the National Education Association with a Diversity Grant, and the title of Teacher of the Year at Maryvale High School.",
-    content2:
-      'He holds a Bachelor of Arts in Psychology from Seton Hall University and a Master of Arts in Special Education from Jersey City University.',
-    state: 'Arizona',
+    content:
+    'Kareem Neal is a dedicated educator with over two decades of experience teaching students with severe cognitive delays at Phoenix Union High School District. His commitment to fostering an inclusive and impactful learning environment has earned him numerous accolades, including the Maryvale Revitalization Committee\'s Educator Excellence Award, recognition from the National Education Association through a Diversity Grant, and the title of Teacher of the Year at Maryvale High School. Kareem holds a Bachelor of Arts in Psychology from Seton Hall University and a Master of Arts in Special Education from Jersey City University, exemplifying his dedication to education and advocacy for students with diverse needs.',
+  state: 'Arizona',
   },
   {
     title: 'Dara Aaron Kennedy',
@@ -2683,8 +2681,8 @@ const contentLaureat = () => [
   {
     title: 'Jacqueline Bouvier Starks',
     subtitle: 'Expert in Diversity and Inclusion',
-    content1:
-      'Jacqueline Bouvier Starks is a prominent expert in diversity and inclusion with over 30 years of experience. She has worked extensively in performance coaching, mediation, curriculum design, and conflict management. Starks is a dedicated community leader, involved with organizations such as the Healing Racism Committee, United Way, and NAACP Arizona Youth Council. She co-founded the Arizona Multicultural Education Conference and received the MLK Veora E. Johnson Spirit of Unity Award in 2016.',
+    content:
+    'Jacqueline Bouvier Starks is a seasoned expert in diversity and inclusion with over 30 years of experience. As the Transformation Doctor at Jacque of All Tradez DEI Services, she specializes in performance coaching, mediation, curriculum design, and conflict management. Starks is a committed community leader, actively contributing to organizations such as the Healing Racism Committee, United Way, and the NAACP Arizona Youth Council. She co-founded the Arizona Multicultural Education Conference and was honored with the MLK Veora E. Johnson Spirit of Unity Award in 2016, highlighting her impact on fostering equity and inclusion.',
     content2: '',
     state: 'Arizona',
   },
@@ -2699,12 +2697,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Keith Gregory',
-    subtitle: 'Director of Housing for the Pascua Yaqui Tribe',
+    subtitle: 'President of Gregory Jordan Consulting',
     content1:
-      'Keith Gregory is the Director of Housing for the Pascua Yaqui Tribe, where he has played a pivotal role in advancing affordable housing initiatives. Over the past three years, he has led the development of over $90 million in new affordable housing projects, including the two largest Low-Income Housing Tax Credit (LIHTC) funded projects ever developed on Tribal Land.',
-    content2:
-      'Keith’s work has been mentioned in a variety of major media outlets including the New York Times, the Washington Post, USA Today, the Arizona Daily Star, and the AP News. Additionally, he successfully earned three of the four largest LIHTC awards ever given to a Native American tribe and expanded the Tribe’s housing operation into the largest developer of affordable housing in Southern Arizona over the past 3 years.',
-    state: 'Arizona',
+    'Keith Gregory is the President of Gregory Jordan Consulting and a leading figure in affordable housing development. As the former Director of Housing for the Pascua Yaqui Tribe, Keith has spearheaded transformative initiatives, overseeing the development of over $90 million in new affordable housing projects. His leadership included securing the two largest Low-Income Housing Tax Credit (LIHTC) funded projects ever developed on Tribal Land, marking a historic achievement in Native American housing initiatives.',
+  content2:
+    'Keith’s groundbreaking work has been featured in major media outlets such as The New York Times, The Washington Post, USA Today, and the Arizona Daily Star. Under his guidance, the Pascua Yaqui Tribe earned three of the four largest LIHTC awards ever granted to a Native American tribe, solidifying its status as the largest developer of affordable housing in Southern Arizona in recent years. His impact continues to shape housing opportunities and expand resources for underserved communities.',
+  state: 'Arizona',
   },
   {
     title: 'Ken Arnold',
@@ -2718,12 +2716,12 @@ const contentLaureat = () => [
   {
     title: 'Bernard A. Narine',
     subtitle:
-      'Distinguished Professional in Pharmaceutical and Biotechnology Industries',
+      'Regional President and Head of Retail Banking for the Midwest Region (Missouri/Indiana/Minnesota) at BMO Financial Group',
     content1:
-      'Bernard A. Narine is a distinguished professional in the pharmaceutical and biotechnology industries, celebrated for his extensive contributions and leadership. His career is marked by significant advancements in research and development, where he has played pivotal roles in numerous groundbreaking projects. Narine’s work has had a profound impact on the industry, driving innovation and enhancing healthcare solutions.',
-    content2:
-      "Narine's professional achievements have been globally recognized. Beyond his field responsibilities, he has contributed to various boards, including Junior Achievement (2005-2010), The Valley of the Sun United Way, and Teach for America (since 2017). He was named among the 'People on the Move' by Chicago Business and received the Arizona Business Leader Award in 2018. Additionally, Narine was inducted into the prestigious Marquis Who's Who biographical registry.",
-    state: 'Arizona',
+    'Bernard A. Narine is the Regional President and Head of Retail Banking for the Midwest Region (Missouri/Indiana/Minnesota) at BMO Financial Group. With extensive expertise in financial services, he drives growth across Retail, Small Business, and Premier Banking. Renowned for his leadership, Narine excels in developing innovative solutions to complex operational and organizational challenges, effectively serving diverse demographics.',
+  content2:
+    'Narine’s accomplishments extend beyond his role at BMO. He has contributed to numerous boards, including Junior Achievement, The Valley of the Sun United Way, and Teach for America. His professional achievements have been recognized with accolades such as the Arizona Business Leader Award (2018) and being named among the "People on the Move" by Chicago Business. Additionally, he was inducted into the prestigious Marquis Who’s Who biographical registry, reflecting his global impact in the financial sector.',
+  state: 'Arizona',
   },
   {
     title: 'Benjamin Taylor',
@@ -2765,10 +2763,10 @@ const contentLaureat = () => [
     title: 'Michael P. Heiskell',
     subtitle: 'Senior Attorney at Johnson, Vaughn & Heiskell',
     content1:
-      'Michael P. Heiskell is a distinguished attorney and legal educator, currently serving as a partner at the firm Johnson, Vaughn & Heiskell in Fort Worth, Texas. Heiskell has had a notable career in law, beginning as an Assistant District Attorney in Galveston County and later as an Assistant U.S. Attorney for the Northern District of Texas. He has been a trailblazer in the legal field, recognized as the first Black graduate of Baylor Law School in 1974.',
-    content2:
-      "Throughout his career, Heiskell has received numerous accolades, including being named 'Lawyer of the Year' by the Tarrant County Black Bar Association, receiving the Presidential Award of Excellence from the Texas Criminal Defense Lawyers Association, and being inducted into the Texas Criminal Defense Lawyers Association Hall of Fame in 2015. In 2022, he was honored as Baylor Lawyer of the Year and serves on the Baylor University Board of Regents.",
-    state: 'Texas',
+    'Michael P. Heiskell is a distinguished attorney and senior attorney at Johnson, Vaughn & Heiskell in Fort Worth, Texas. A trailblazer in the legal field, Heiskell began his career as an Assistant District Attorney in Galveston County and later served as an Assistant U.S. Attorney for the Northern District of Texas. Notably, he became the first Black graduate of Baylor Law School in 1974, marking a historic milestone in legal education.',
+  content2:
+    'Heiskell’s exemplary career has earned him numerous accolades, including "Lawyer of the Year" by the Tarrant County Black Bar Association and the Presidential Award of Excellence from the Texas Criminal Defense Lawyers Association. He was inducted into the Texas Criminal Defense Lawyers Association Hall of Fame in 2015 and named Baylor Lawyer of the Year in 2022. Heiskell also serves on the Baylor University Board of Regents, showcasing his enduring commitment to legal excellence and education.',
+  state: 'Texas',
   },
   {
     title: 'Tamara Johnson',
@@ -2792,10 +2790,10 @@ const contentLaureat = () => [
     title: 'Vanessa Hicks-Callaway',
     subtitle: 'Retired U.S. Army Lieutenant Colonel',
     content1:
-      "Vanessa Hicks-Callaway is a distinguished retired U.S. Army Lieutenant Colonel with 26 years of honorable service, including two combat tours. Born in Victoria, Texas, Hicks-Callaway earned her bachelor's degree in political science from Sam Houston State University in 1994 and a master's degree in human resource administration from Central Michigan University. Throughout her military career, she primarily served as a military intelligence officer and received the Bronze Star Medal for her exemplary service.",
-    content2:
-      "After retiring from the military in 2013, Hicks-Callaway continued to serve the public in various capacities. She worked as a constituent liaison for a U.S. Congressman in the 27th Congressional District and served as a field director for Senator Ted Cruz's successful re-election campaign. Appointed by Governor Greg Abbott, she served on the Texas Council on Cardiovascular Disease and Stroke. Currently, she assists veterans and their families as a Veterans Service Officer for the Texas Veterans Commission. Additionally, she has been actively involved in several non-profit organizations, including the Kiwanis Club, Golden Crescent Habitat for Humanity, VFW, DAV, MOWW, and the American Legion. In recognition of her significant contributions to her profession, community, and alma mater, she was honored with the Distinguished Alumni Award from Sam Houston State University.",
-    state: 'Texas',
+    'Vanessa Hicks-Callaway is a distinguished retired U.S. Army Lieutenant Colonel with 26 years of honorable service, including two combat tours. A native of Victoria, Texas, she earned a bachelor’s degree in political science from Sam Houston State University and a master’s degree in human resource administration from Central Michigan University. Serving primarily as a military intelligence officer, Hicks-Callaway received the Bronze Star Medal for her exemplary contributions during her military career.',
+  content2:
+    'After retiring from the military in 2013, Hicks-Callaway continued her public service in roles such as a constituent liaison for a U.S. Congressman and field director for Senator Ted Cruz's re-election campaign. Appointed by Governor Greg Abbott, she served on the Texas Council on Cardiovascular Disease and Stroke. Currently, she assists veterans as a Claims Benefits Advisor for the Texas Veterans Commission. Actively involved in organizations like Habitat for Humanity, the Kiwanis Club, and the American Legion, Hicks-Callaway was honored with the Distinguished Alumni Award from Sam Houston State University for her remarkable service and contributions.',
+  state: 'Texas',
   },
   {
     title: 'Dr. LaTonya M. Goffney',
@@ -2853,12 +2851,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Immanuel Ivey',
-    subtitle: 'Director of Supplier Diversity at Truist',
+    subtitle: 'Executive Director of Edna Martin CBDO LLC',
     content1:
-      "Immanuel Ivey, currently serving as the Director of Supplier Diversity at Truist, has an impressive background in supporting minority businesses. He is a graduate of Alabama A&M University and a dedicated advocate for inclusive economic opportunities. Ivey's leadership extends to his participation in various advisory boards, including the Carolinas-Virginia Minority Supplier Development Council.",
-    content2:
-      'Throughout his career, Immanuel Ivey has received several awards for his contributions to supplier diversity and minority business development. These include the 2021 National Minority Supplier Development Council’s (NMSDC) Supplier Diversity Advocate of the Year and the 2022 Advocate of the Year Award from the Carolinas-Virginia Minority Supplier Development Council.',
-    state: 'Indiana',
+    'Immanuel Ivey is the Executive Director of Edna Martin CBDO LLC and a graduate of Alabama A&M University. With a deep commitment to fostering inclusive economic opportunities, Ivey has played a pivotal role in advancing initiatives that empower underserved communities. His leadership includes active participation on advisory boards such as the Carolinas-Virginia Minority Supplier Development Council, reflecting his dedication to equitable development.',
+  content2:
+    'Throughout his career, Ivey has been recognized for his outstanding contributions to supplier diversity and minority business development. Among his accolades are the 2021 National Minority Supplier Development Council’s (NMSDC) Supplier Diversity Advocate of the Year and the 2022 Advocate of the Year Award from the Carolinas-Virginia Minority Supplier Development Council. His impact continues to drive meaningful change in the economic landscape.',
+  state: 'Indiana',
   },
   {
     title: 'Tamara L. Cypress',
@@ -2871,12 +2869,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Pamela Ross',
-    subtitle: 'Vice President of Opportunity, Equity, and Inclusion at CICF',
+    subtitle: 'Vice President of Community Leadership & Equitable Initiatives at CICF',
     content1:
-      'Pamela Ross is the Vice President of Opportunity, Equity, and Inclusion at the Central Indiana Community Foundation (CICF). In her role, she is responsible for leading initiatives that promote equitable policies and practices within the organization, ensuring that CICF’s work embodies principles of equity and inclusiveness.',
-    content2:
-      'Throughout her career, Pamela has been recognized for her dedication to social justice and equity. She serves on the boards of the Kennedy King Memorial Initiative and the Indiana Philanthropy Alliance, and she is the vice chair for Indiana Blacks in Philanthropy. Pamela is also a 2019 Tobias Fellow, highlighting her leadership in the philanthropic sector. She frequently presents on topics related to race, equity, and inclusion, and has a deep commitment to making a difference in the lives of marginalized communities.',
-    state: 'Indiana',
+    'Pamela Ross serves as the Vice President of Community Leadership & Equitable Initiatives at the Central Indiana Community Foundation (CICF). In this role, she leads initiatives designed to advance equitable policies and practices within the organization, ensuring CICF’s work reflects principles of equity and inclusiveness. Her leadership has been instrumental in fostering impactful change within marginalized communities.',
+  content2:
+    'Pamela’s dedication to social justice and equity is reflected in her numerous contributions and accolades. She serves on the boards of the Kennedy King Memorial Initiative and the Indiana Philanthropy Alliance and acts as the vice chair for Indiana Blacks in Philanthropy. A 2019 Tobias Fellow, Pamela frequently speaks on race, equity, and inclusion, further cementing her role as a thought leader in the philanthropic sector.',
+  state: 'Indiana',
   },
   {
     title: 'Denise Herd',
@@ -2936,21 +2934,21 @@ const contentLaureat = () => [
   {
     title: 'Lyla Brown',
     subtitle:
-      'Graduate Assistant for Education and Mentorship at Montana State University',
-    content1:
-      "Lyla Brown is a recognized leader in diversity, equity, and inclusion, currently serving as a Graduate Assistant for Education and Mentorship at Montana State University's Diversity and Inclusion Student Commons (DISC). She holds undergraduate degrees in psychology and sociology from Montana State University and is pursuing a graduate degree in Adult and Higher Education.",
-    content2:
-      'Throughout her career, Brown has received several prestigious recognitions, including being named one of the nine African American Leaders in the Pacific Northwest. Additionally, she co-founded the Black Student Union at MSU in 2018, reflecting her commitment to community building and student empowerment.',
-    state: 'Montana',
+      'Senior Organizing Manager at Forward Montana',
+   content1:
+    'Lyla Brown is a recognized leader in diversity, equity, and inclusion, serving as the Senior Organizing Manager at Forward Montana. Previously, she worked as a Graduate Assistant for Education and Mentorship at Montana State University's Diversity and Inclusion Student Commons (DISC). With undergraduate degrees in psychology and sociology from Montana State University, she is currently pursuing a graduate degree in Adult and Higher Education.',
+  content2:
+    'Lyla’s dedication to community building and empowerment has earned her several prestigious recognitions, including being named one of the nine African American Leaders in the Pacific Northwest. In 2018, she co-founded the Black Student Union at MSU, showcasing her commitment to fostering inclusive spaces for underrepresented students.',
+  state: 'Montana',
   },
   {
     title: 'Ronald Layton',
-    subtitle: 'Deputy Chief Information Officer for the U.S. Secret Service',
+    subtitle: 'Vice President of Converged Security Operations',
     content1:
-      "Ronald Layton is the Deputy Chief Information Officer (DCIO) for the U.S. Secret Service, overseeing information technology and cybersecurity operations. With over two decades of service, Layton has held various pivotal roles, including Program Director for the Electronic Crimes Task Force initiative and Deputy Director of the Department of Homeland Security's National Cyber Security Division. He is known for his extensive expertise in cybercrime and critical infrastructure protection.",
-    content2:
-      "Throughout his career, Layton has received several awards, including the Department of Homeland Security Secretary’s Silver Medal and the United States Secret Service Director's Award for Innovation and Impact.",
-    state: 'Montana',
+    'Ronald Layton is the Vice President of Converged Security Operations, bringing over two decades of expertise in cybercrime and critical infrastructure protection. He has held pivotal roles, including Program Director for the Electronic Crimes Task Force initiative and Deputy Director of the Department of Homeland Security's National Cyber Security Division, showcasing his commitment to advancing cybersecurity initiatives and national security.',
+  content2:
+    'Layton’s distinguished career has been recognized with several prestigious awards, including the Department of Homeland Security Secretary’s Silver Medal and the United States Secret Service Director's Award for Innovation and Impact, underscoring his contributions to innovation and leadership in the field of cybersecurity.',
+  state: 'Montana',
   },
   {
     title: 'Margaret Curlew',
@@ -2963,12 +2961,10 @@ const contentLaureat = () => [
   },
   {
     title: 'Frank Agyemang',
-    subtitle: 'Ph.D. Student at Montana Technological University',
-    content1:
-      "Frank Agyemang is a Ph.D. student at Montana Technological University, specializing in Mineral Processing, Green Reagent Research (Deep Eutectic Solvents), and Extractive Metallurgy. He has a robust academic background and actively engages in research projects focused on sustainable and economical mineral extraction methods. Agyemang's dedication to his field is evident through his extensive research and presentations at various conferences.",
-    content2:
-      'Notably, Agyemang placed fifth at the Society for Mining, Metallurgy & Exploration (SME) annual conference for his research on recyclable samarium-cobalt leaching using deep eutectic solvents.',
-    state: 'Montana',
+    subtitle: 'Graduate Research Assistant at Montana Technological University',
+    content:
+    'Frank Agyemang is a dedicated Graduate Research Assistant at Montana Technological University, specializing in sustainable and economical mineral extraction methods. His extensive research has been widely recognized, including a fifth-place finish at the Society for Mining, Metallurgy & Exploration (SME) annual conference for his innovative work on recyclable samarium-cobalt leaching using deep eutectic solvents. Agyemang’s commitment to advancing the field of mineral extraction is evident through his active participation in conferences and groundbreaking research initiatives.',
+  state: 'Montana',
   },
   {
     title: 'Murray Pierce',
@@ -3009,11 +3005,11 @@ const contentLaureat = () => [
   {
     title: 'Paul Reneau',
     subtitle: 'Behavior Interventionist',
-    content1:
-      'Paul Reneau is is an accomplished coach and former Olympian currently serving with Missouka County Public Schools (Franklin Elementary School) as a Behavior Interventionist. Originally from Belize, Reneau represented his home country in the 1984 Los Angeles Olympics in the 100 meters and the 1988 Seoul Olympics as a velodrome cyclist.',
-    content2:
-      'Before joining the University of Montana full-time in 2016, Reneau worked as a counselor and coached middle and high school sports in Missoula. His athletes have achieved multiple NCAA regional appearances, Big Sky Conference championships, and school records. Reneau holds USATF Level 1, 2, and 3 certifications in sprints, hurdles, and relays, along with an IAAF Level 5 endorsement.',
-    state: 'Montana',
+     content1:
+    'Paul Reneau is a distinguished coach and former Olympian from Belize, currently serving as a Behavior Interventionist at Franklin Elementary School in Missoula County Public Schools. Reneau represented Belize in the 1984 Los Angeles Olympics in the 100 meters and the 1988 Seoul Olympics as a velodrome cyclist, exemplifying his dedication to athletic excellence on the world stage.',
+  content2:
+    'With an extensive coaching background, Reneau has led athletes to multiple NCAA regional appearances, Big Sky Conference championships, and school records. He holds USATF Level 1, 2, and 3 certifications in sprints, hurdles, and relays, as well as an IAAF Level 5 endorsement. Prior to joining the University of Montana full-time in 2016, he worked as a counselor and middle and high school sports coach in Missoula, continuing to inspire young athletes.',
+  state: 'Montana',
   },
   {
     title: 'Omar Bah',
@@ -3065,10 +3061,10 @@ const contentLaureat = () => [
     title: 'Michael Seibel',
     subtitle: 'CEO and Partner at Y Combinator',
     content1:
-      "Michael Seibel is a prominent figure in the tech industry, known for his role as CEO and a partner at Y Combinator, a prestigious startup accelerator. He co-founded Justin.tv, which later became Twitch and was sold to Amazon for $970 million. Seibel has played a crucial role in guiding numerous startups and holds investments in several high-profile tech companies. Seibel also made history as Y Combinator’s first African-American partner in October 2014 and Reddit's first black board member following Alexis Ohanian's resignation.",
-    content2:
-      "Seibel's impact has been recognized with several awards, including Time 100 Next (2019) for shaping the future, Forbes Midas List (2020) for top tech investors, and San Francisco Business Times' Most Influential Business Person (2021) for his significant contributions to the tech industry.",
-    state: 'California',
+    'Michael Seibel is a renowned tech leader and partner at Y Combinator, a premier startup accelerator. He co-founded Justin.tv, which evolved into Twitch and was acquired by Amazon for $970 million. Seibel has mentored countless startups and holds investments in several high-profile tech companies. In October 2014, he became Y Combinator’s first African-American partner and later made history as Reddit’s first Black board member after Alexis Ohanian’s resignation.',
+  content2:
+    'Seibel’s remarkable contributions have earned him prestigious accolades, including Time 100 Next (2019) for shaping the future, Forbes Midas List (2020) for top tech investors, and San Francisco Business Times' Most Influential Business Person (2021). His influence continues to shape the tech industry, fostering innovation and diversity.',
+  state: 'California',
   },
   {
     title: 'Molly C. Campbell',
@@ -3098,12 +3094,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Asmau Ahmed',
-    subtitle: 'Founder of Plum Perfect',
+    subtitle: 'Member of the Leadership Team and Product Leader at Google X',
     content1:
-      "Asmau Ahmed is a Nigerian-American entrepreneur and founder of Plum Perfect, a mobile app that uses AI to match makeup shades to users' skin tones. A chemical engineering graduate from the University of Virginia with an MBA from Columbia Business School, she has worked at McKinsey & Company. Recognized for promoting diversity in Silicon Valley, Ahmed is also a passionate advocate for women in technology and entrepreneurship.",
-    content2:
-      "In 2016, Ahmed was named one of the 'Top 26 Women of Color Diversifying Entrepreneurship in Silicon Valley, Media, and Beyond' by Vanity Fair. She was also recognized as a 'Top Woman in Digital' by Cynopsis Media and 'Black Business and Tech Professionals Changing the Game' by The Huffington Post.",
-    state: 'California',
+    'Asmau Ahmed is a Nigerian-American entrepreneur and a member of the Leadership Team and Product Leader at Google X. With an MBA from Columbia Business School and a degree from the University of Virginia, she began her career as a management consultant at McKinsey & Company. Ahmed is a strong advocate for women in technology and entrepreneurship, championing diversity and inclusion within Silicon Valley.',
+  content2:
+    'Ahmed’s remarkable contributions have earned her accolades such as Vanity Fair’s “Top 26 Women of Color Diversifying Entrepreneurship in Silicon Valley” (2016), Cynopsis Media’s “Top Woman in Digital,” and recognition by The Huffington Post as one of the “Black Business and Tech Professionals Changing the Game.” Her impact continues to inspire innovation and diversity.',
+  state: 'California',
   },
   {
     title: 'Jacky Petit-Homme',
@@ -3223,12 +3219,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Anthony Young',
-    subtitle: 'President of Southern Bancorp Community Partners',
+    subtitle: 'President and Chief Executive Officer of Epicenter Memphis',
     content1:
-      'Anthony Young is the president of Southern Bancorp Community Partners (SBCP), a Community Development Financial Institution (CDFI) headquartered in Arkansas. He brings a wealth of experience to this role, having previously served as the Director of Capital Programs at Epicenter in Memphis and the Economic Development Director at River City Capital, a CDFI loan fund dedicated to providing access to capital in underserved communities around Memphis.',
-    content2:
-      'Anthony Young has been recognized for his contributions to economic development and leadership. In 2018, he was selected as one of 27 national economic development leaders into the Opportunity Fellows Program, which aims to drive systemic change through diversity, equity, and inclusion in the CDFI industry. In 2020, he graduated from the Executive Class of Leadership Memphis and was named a Top 40 Under 40 by the Memphis Business Journal.',
-    state: 'Arkansas',
+    'Anthony Young is the President and Chief Executive Officer of Epicenter Memphis, where he spearheads initiatives to foster entrepreneurship and economic growth. He previously served as Director of Capital Programs at Epicenter and as the Economic Development Director at River City Capital, a CDFI loan fund focused on providing access to capital in underserved communities around Memphis.',
+  content2:
+    'Young’s leadership and contributions have earned him significant recognition. In 2018, he was selected as one of 27 national economic development leaders for the Opportunity Fellows Program, promoting systemic change through diversity and inclusion in the CDFI industry. Additionally, he graduated from the Executive Class of Leadership Memphis in 2020 and was named a Top 40 Under 40 honoree by the Memphis Business Journal.',
+  state: 'Arkansas',
   },
   {
     title: 'Adriene F. Brown',
@@ -3277,12 +3273,12 @@ const contentLaureat = () => [
   },
   {
     title: 'Tanya James',
-    subtitle: 'Vice President and Branch Administrator at Arvest Bank',
+    subtitle: 'Senior Vice President, Program Director of Talent Management at Arvest Bank',
     content1:
-      'Tanya James is a distinguished banking professional who currently serves as the Vice President and Branch Administrator at Arvest Bank in Arkansas. She has over 20 years of experience in the banking sector and has been recognized for her exceptional leadership and contributions to the industry. Her roles have included vice president and branch sales manager, where she demonstrated a strong commitment to fostering growth and innovation within the bank.',
-    content2:
-      'James has received numerous accolades for her contributions to the community and the banking industry. She was named one of the 2023 Women in Banking by Arkansas Money & Politics, which celebrates the achievements of female leaders in the financial sector. Additionally, she is a graduate of Leadership Greater Little Rock Class XXXIII and actively participates in various community organizations, including the Junior League of Little Rock, the Little Rock chapter of The Links, and the Beta Pi Omega chapter of Alpha Kappa Alpha Sorority.',
-    state: 'Arkansas',
+    'Tanya James is a distinguished banking professional with over 20 years of experience, currently serving as the Senior Vice President, Program Director of Talent Management at Arvest Bank in Arkansas. Her extensive career has included roles such as vice president and branch sales manager, showcasing her dedication to fostering growth and innovation in the banking sector.',
+  content2:
+    'James has been widely recognized for her leadership and community contributions. She was named one of the 2023 Women in Banking by Arkansas Money & Politics, celebrating her impact in the financial industry. A graduate of Leadership Greater Little Rock Class XXXIII, James is deeply involved in her community through organizations such as the Junior League of Little Rock, the Little Rock chapter of The Links, and the Beta Pi Omega chapter of Alpha Kappa Alpha Sorority.',
+  state: 'Arkansas',
   },
   {
     title: 'ENTREPRENEUR',
@@ -3297,10 +3293,10 @@ const contentLaureat = () => [
     title: 'EDUCATION',
     subtitle: 'Michelle Alexander',
     content1:
-      'Michelle Alexander is a highly acclaimed civil rights attorney, advocate, and legal scholar best known for her groundbreaking book, "The New Jim Crow: Mass Incarceration in the Age of Colorblindness." This influential work has transformed the national debate on racial and criminal justice in the United States, remaining on The New York Times bestseller list for nearly 250 weeks. Alexander\'s career includes significant roles in academia and legal advocacy, where she has made substantial contributions to civil rights litigation and education.',
-    content2:
-      'Throughout her illustrious career, Alexander has received numerous awards and honors. These include the 2011 NAACP Image Award for Best Nonfiction, a Soros Justice Fellowship in 2005, and being named a Senior Fellow for the Ford Foundation in 2015. She has also been recognized for her impactful work by major media outlets such as CNN, MSNBC, NPR, and The New York Times.',
-    state: 'OHIO',
+    'Michelle Alexander is a highly acclaimed civil rights attorney, advocate, and legal scholar renowned for her groundbreaking book, "The New Jim Crow: Mass Incarceration in the Age of Colorblindness." This transformative work has reshaped the national conversation on racial and criminal justice in the United States, staying on The New York Times bestseller list for nearly 250 weeks. An associate professor of law at Ohio State University, Alexander also holds a joint appointment with the Kirwan Institute for the Study of Race and Ethnicity.',
+  content2:
+    'Throughout her illustrious career, Alexander has received numerous awards and honors, including the 2011 NAACP Image Award for Best Nonfiction, a Soros Justice Fellowship in 2005, and being named a Senior Fellow for the Ford Foundation in 2015. Her impactful work has been featured by major media outlets such as CNN, MSNBC, NPR, and The New York Times.',
+  state: 'OHIO',
   },
   {
     title: 'SPEAKER',
@@ -3342,10 +3338,10 @@ const contentLaureat = () => [
     title: 'GENERAL MANAGER',
     subtitle: 'James E. Millsap Jr.',
     content1:
-      'James E. Millsap Jr. is a distinguished professional who serves as the manager of inclusion and diversity strategy at DICK\'s Sporting Goods Inc. He earned his bachelor\'s degree in agricultural economics from Kansas State University (K-State) in 2011. As a first-generation college student at K-State, Millsap focused on building a supportive community or "village" of mentors and peers, which played a crucial role in his personal and professional development.',
-    content2:
-      'Throughout his career, Millsap has been recognized for his significant contributions and leadership. In 2022, he was honored with the Distinguished Young Alumni Award by the K-State Alumni Association And Student Alumni Board. This prestigious award recognizes graduates who excel in their professions and contribute positively to their communities.',
-    state: 'OHIO',
+    'James E. Millsap Jr. is a distinguished professional serving as the Global Director of Inclusion, Diversity & Equity at Leggett & Platt. A first-generation college graduate, he earned his bachelor’s degree in agricultural economics from Kansas State University (K-State) in 2011. While at K-State, Millsap built a supportive network of mentors and peers, which became instrumental in shaping his personal and professional growth.',
+  content2:
+    'Millsap’s leadership and dedication to fostering inclusive environments have earned him widespread recognition. In 2022, he received the Distinguished Young Alumni Award from the K-State Alumni Association and Student Alumni Board, an honor celebrating graduates who excel in their fields and make positive contributions to their communities.',
+  state: 'OHIO',
   },
   {
     title: 'HEALTHCARE',
@@ -3360,10 +3356,10 @@ const contentLaureat = () => [
     title: 'BANKING AND TECHNOLOGY',
     subtitle: 'Christine Souffrant Ntim',
     content1:
-      'Christine Souffrant Ntim is an award-winning Haitian-American and Ghanaian entrepreneur, keynote speaker, and expert in tech ecosystems for emerging markets. She is the founder of Vendedy, a digital platform connecting global travelers to street vendors in emerging markets. With over seven years of business management experience across 30+ countries, Christine has become a prominent figure in the tech and entrepreneurial communities.',
-    content2:
-      "She is also the founder of the Haiti Tech Summit, a significant annual event aimed at transforming Haiti through technology and innovation. Christine's contributions to the tech industry have been widely recognized. She was featured in Forbes' 30 Under 30, AdAge 40 Under 40, and the Haiti Changemakers 1804 List. Her work has also been highlighted in TEDx, Entrepreneur Magazine, Essence, Black Enterprise, Ebony Magazine, Huffington Post, and Inc Magazine.",
-    state: 'OHIO',
+    'Christine Souffrant Ntim is an award-winning Haitian-American and Ghanaian entrepreneur, keynote speaker, and expert in tech ecosystems for emerging markets. As the Chief Executive Officer of Global Startup Ecosystem (GSE), Christine brings over seven years of business management experience across 30+ countries. She is a leading figure in the global tech and entrepreneurial communities, known for her innovative approach and dedication to empowering emerging markets.',
+  content2:
+    'Christine’s contributions to the tech industry have earned her widespread recognition. She has been featured in Forbes’ 30 Under 30, AdAge 40 Under 40, and the Haiti Changemakers 1804 List. Her impactful work has also been highlighted by major platforms such as TEDx, Entrepreneur Magazine, Essence, Black Enterprise, Ebony Magazine, Huffington Post, and Inc Magazine.',
+  state: 'OHIO',
   },
   {
     title: 'ENTREPRENEUR',
