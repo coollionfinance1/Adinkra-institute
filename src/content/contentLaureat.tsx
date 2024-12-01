@@ -3527,19 +3527,19 @@ const contentLaureat = () => [
     title: 'HEALTH',
     subtitle: 'Dr. Gerald Onuoha',
     content1:
-      'Dr. Gerald Onuoha is an internal medicine physician working in acute hospital care in Nashville, Tennessee. His journey to medicine was sparked by a transformative experience at a summer program at Tennessee State University, leading him to pursue a career in healthcare to help others and work closely with people.',
-    content2:
-      'Gerald has been recognized for his exceptional contributions to the medical field and community. He was named among the "Top 40 Under 40" by the Nashville Business Journal and received the "Health Care Hero Award" for his dedicated service during the COVID-19 pandemic. Additionally, he was honored as a "Community Health Champion" for promoting health and wellness in underserved communities and was featured as a distinguished alumnus by the Geisel School of Medicine at Dartmouth for his impactful achievements in medicine.',
-    state: 'TENNESSEE',
+    'Dr. Gerald Onuoha is an Internal Medicine Hospitalist at HCA Healthcare/Envision. His journey into medicine was inspired by a transformative summer program at Tennessee State University, which ignited his passion for healthcare and helping others. Dr. Onuoha is dedicated to improving health outcomes and working closely with underserved communities to promote wellness and equity.',
+  content2:
+    'Dr. Onuoha’s contributions to medicine and the community have earned him numerous accolades. He was named among the "Top 40 Under 40" by the Nashville Business Journal and received the "Health Care Hero Award" for his exceptional service during the COVID-19 pandemic. Additionally, he was honored as a "Community Health Champion" for his advocacy in underserved areas and recognized as a distinguished alumnus by the Geisel School of Medicine at Dartmouth for his impactful work in the medical field.',
+  state: 'TENNESSEE',
   },
   {
     title: 'BUSINESS',
     subtitle: 'Ernest Strickland',
     content1:
-      'Ernest Strickland is the President and CEO of the Black Business Association of Memphis. With an MBA from Bethel University and a Bachelor of Professional Studies from the University of Memphis, Strickland has led numerous successful economic and workforce development initiatives.',
-    content2:
-      'His career includes a 15-year tenure at the Greater Memphis Chamber, where he served in various roles, including Senior Vice President of Workforce & Talent Development. He is deeply committed to community service, holding multiple board positions and contributing significantly to workforce development in Memphis. Ernest Strickland has been recognized for his contributions to economic and workforce development with several prestigious awards.',
-    state: 'TENNESSEE',
+    'Ernest Strickland is the President and CEO of the Black Chamber of Memphis, dedicated to driving economic growth and workforce development. With an MBA from Bethel University and a Bachelor of Professional Studies from the University of Memphis, Strickland has led transformative initiatives throughout his career. His 15-year tenure at the Greater Memphis Chamber included serving as Senior Vice President of Workforce & Talent Development, where he played a pivotal role in shaping Memphis’s workforce landscape.',
+  content2:
+    'Strickland’s contributions have earned him numerous accolades, including being named among the "Top 40 Under 40" by the Memphis Business Journal. He has also received the Distinguished Leadership Award from the Greater Memphis Chamber and was honored as the Economic Development Professional of the Year by the Tennessee Economic Development Council. His dedication to community service and workforce advancement continues to make a lasting impact on Memphis.',
+  state: 'TENNESSEE',
   },
   {
     title: 'EDUCATION',
@@ -3554,19 +3554,19 @@ const contentLaureat = () => [
     title: 'CHEMISTRY',
     subtitle: 'Clarice Phelps',
     content1:
-      'Clarice Phelps is a pioneering American nuclear chemist who became the first African American woman to contribute to the discovery of a chemical element on the periodic table. She was part of the team at Oak Ridge National Laboratory (ORNL) that collaborated with the Joint Institute for Nuclear Research to discover tennessine (element 117).',
-    content2:
-      'Her contributions to science have been widely recognized. In 2017, she received the Knoxville YWCA Tribute to Women Award in the category of Technology, Research, and Innovation. In 2019, the International Union of Pure and Applied Chemistry (IUPAC) featured her in the Periodic Table of Younger Chemists, acknowledging her commitment to research, public engagement, and advocacy for diversity in science.',
-    state: 'TENNESSEE',
+    'Clarice Phelps is a groundbreaking nuclear chemist who made history as the first African American woman to contribute to the discovery of a chemical element on the periodic table. As part of the team at Oak Ridge National Laboratory (ORNL), she collaborated with the Joint Institute for Nuclear Research to discover tennessine (element 117). Currently, she serves as an Adjunct Professor at Pellissippi State Community College, continuing her dedication to education and science.',
+  content2:
+    'Phelps’s achievements have earned her widespread recognition, including the Knoxville YWCA Tribute to Women Award in Technology, Research, and Innovation in 2017. In 2019, the International Union of Pure and Applied Chemistry (IUPAC) featured her in the Periodic Table of Younger Chemists, celebrating her research contributions and advocacy for diversity in science. Her work continues to inspire future generations in the field of nuclear chemistry.',
+  state:  'TENNESSEE',
   },
   {
     title: 'BUSINESS',
     subtitle: 'Dr. D’Wayne Edwards',
     content1:
-      "Dr. D’Wayne Edwards is a renowned footwear designer, educator, and president of the Pensole Lewis College of Business and Design. He began his career in 1989 as a 19-year-old entry-level footwear designer for LA Gear. Over the years, he has received numerous honors, including the Red Dot Award, Mercedes Benz Fashion Award, President Barack Obama Volunteer Service Award, and recognition as one of Fast Company's 100 Most Creative People in Business.",
-    content2:
-      'In 2010, he founded PENSOLE, the first U.S. academy dedicated to footwear design, which has placed over 800 alumni in top footwear brands globally. Dr. Edwards has over 50 patents and has designed more than 500 footwear styles for high-profile clients such as Tupac, Notorious B.I.G., and Michael Jordan. He is also a leading advocate for diversity in design, establishing the Black Footwear Forum to support Black creatives in the industry. His educational contributions have been recognized with an honorary doctorate from ArtCenter College of Design.',
-    state: 'MICHIGAN',
+    'Dr. D’Wayne Edwards is a celebrated footwear designer, educator, and President of PLC Detroit. Beginning his career at just 19 as an entry-level designer for LA Gear, he has since become a pioneer in the footwear industry. Dr. Edwards has over 50 patents and has designed more than 500 footwear styles for iconic figures like Tupac, Notorious B.I.G., and Michael Jordan. In 2010, he founded PENSOLE, the first U.S. academy dedicated to footwear design, which has successfully placed over 800 alumni in top footwear brands globally.',
+  content2:
+    'Dr. Edwards is an advocate for diversity in design, founding the Black Footwear Forum to support Black creatives in the industry. His accolades include the Red Dot Award, Mercedes Benz Fashion Award, President Barack Obama Volunteer Service Award, and recognition as one of Fast Company\'s 100 Most Creative People in Business. Honored with a doctorate from ArtCenter College of Design, his contributions continue to shape the future of design and education.',
+  state: 'MICHIGAN',
   },
   {
     title: 'BUSINESS',
@@ -3653,10 +3653,10 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'Felecia Hatcher',
     content1:
-      "Felecia Hatcher is a dynamic entrepreneur, author, and keynote speaker who has dedicated her career to fostering inclusive innovation and entrepreneurship. As the CEO of Pharrell Williams's Black Ambition Opportunity Fund, she supports diverse entrepreneurs by providing them with capital, mentorship, and access to resources.",
-    content2:
-      "Hatcher co-founded Code Fever and Black Tech Week, initiatives aimed at eliminating innovation deserts and promoting STEM education among underrepresented communities. Hatcher's accolades include being named a 2014 Obama White House Champion of Change for STEM Access and Diversity, a Harvard Young American Leader, and a Black Enterprise TechConnect Game Changer.",
-    state: 'FLORIDA',
+    'Felecia Hatcher is a dynamic entrepreneur, author, and keynote speaker dedicated to fostering inclusive innovation and entrepreneurship. As the CEO of Black Ambition, she empowers diverse entrepreneurs by providing access to capital, mentorship, and resources. Hatcher is also the co-founder of Code Fever and Black Tech Week, initiatives that address innovation deserts and promote STEM education among underrepresented communities.',
+  content2:
+    'Hatcher’s impactful work has earned her numerous accolades, including being named a 2014 Obama White House Champion of Change for STEM Access and Diversity, a Harvard Young American Leader, and a Black Enterprise TechConnect Game Changer. She is the author of five books, including "The \'C\' Student\'s Guide to Scholarships" and "Start Your Business on a Ramen Noodle Budget." Her contributions have been featured in Forbes, Bloomberg, and MSNBC, highlighting her leadership in entrepreneurship and innovation.',
+  state: 'FLORIDA',
   },
   {
     title: 'HEALTH',
@@ -3671,10 +3671,10 @@ const contentLaureat = () => [
     title: 'ENTREPRENEUR',
     subtitle: 'Angela Benton',
     content1:
-      'Angela Benton is a pioneering entrepreneur and senior technology executive known for her contributions to diversity and innovation in the tech industry. She is the Founder and CEO of Streamlytics, which focuses on empowering consumers with ownership of their data while bringing transparency to media consumption.',
-    content2:
-      'Benton is also the founder of NewME, the first startup accelerator for minorities, which has helped minority-led tech companies raise over $47 million in venture capital funding.',
-    state: 'FLORIDA',
+    'Angela Benton is a pioneering entrepreneur and senior technology executive celebrated for her impact on diversity and innovation in the tech industry. As the Managing Director of Fruit Ventures, she focuses on nurturing ideas, capital, and resources, partnering with exceptional talent to transform simple concepts into successful companies. Benton’s dedication to empowering underrepresented communities has made her a trailblazer in the field.',
+  content2:
+    'Benton’s achievements include being named one of Fast Company’s Most Creative People in Business, Business Insider’s 25 Most Influential African-Americans in Technology, and Goldman Sachs’ 100 Most Intriguing Entrepreneurs. A breast cancer survivor and the author of "Revival: How I Rebuilt a Life for Longevity After Burnout, Cancer, and Heartbreak," her inspiring journey has been featured on CNN, MSNBC, Bloomberg, and Forbes.',
+  state: 'FLORIDA',
   },
   {
     title: 'ENTREPRENEUR',
@@ -3922,10 +3922,10 @@ const contentLaureat = () => [
     title: 'HEALTH',
     subtitle: 'Rashard Johnson',
     content1:
-      "Rashard Johnson is an accomplished healthcare executive currently serving as the Senior Vice President of Atrium Health. He oversees the South Market's key facilities and leads the development and operations, ensuring high standards of patient care and operational excellence.",
-    content2:
-      "Prior to this role, Johnson was the CEO of Emory Decatur Hospital, Emory Hillandale Hospital, and Emory Long-Term Acute Care Hospital. His career also includes significant leadership positions at Advocate Aurora Health and CHI St. Luke's Health.",
-    state: 'NORTH CAROLINA',
+    'Rashard Johnson is a distinguished healthcare executive currently serving as the President - South Market of Atrium Health. In this role, he oversees key facilities and leads the development and operations to ensure exceptional patient care and operational excellence. Previously, Johnson held leadership roles as CEO of Emory Decatur Hospital, Emory Hillandale Hospital, and Emory Long-Term Acute Care Hospital. His career also includes executive positions at Advocate Aurora Health and CHI St. Luke\'s Health, showcasing his deep expertise in healthcare management.',
+  content2:
+    'Johnson’s contributions to healthcare have been widely recognized. He received the Martin Luther King Jr. Community Service Award from Emory University in 2023 and was named among the Titan 100 for his exemplary leadership in the industry. He is actively involved in professional organizations, including the National Association of Health Services Executives and the American College of Healthcare Executives.',
+  state: 'NORTH CAROLINA',
   },
   {
     title: 'BUSINESS',
@@ -4002,11 +4002,9 @@ const contentLaureat = () => [
   {
     title: 'COMMUNITY',
     subtitle: 'Ray Trapp',
-    content1:
-      'Ray Trapp is the Vice President of Strategic Engagement for the Research Triangle Foundation of North Carolina, where he builds strategic partnerships among higher education institutions, corporations, government, and the community, supporting 60,000 employees across 375 companies in Research Triangle Park.',
-    content2:
-      'Before this role, Trapp served as the Director of External Affairs at North Carolina Agricultural and Technical State University and as a Guilford County Commissioner from 2012 to 2017.',
-    state: 'NORTH CAROLINA',
+    content:
+    'Ray Trapp is the District Manager of Duke Energy Corporation, where he oversees operations and fosters community partnerships. Previously, he served as the Executive Director of NPower, demonstrating his commitment to advancing technology and workforce development. Trapp holds multiple board appointments, including the North Carolina State Board of Community Colleges, Durham Planning Commission, Nature Conservancy North Carolina, and Durham Sports Commission. His leadership and community contributions have been recognized with accolades such as the Leadership Greensboro Connector Medal (2019) and the National Association of Counties’ Public Health Achievement Award (2016). A dedicated leader, Trapp is also a proud member of Phi Beta Sigma Fraternity, Incorporated.',
+  state: 'NORTH CAROLINA',
   },
   {
     title: 'BUSINESS',
@@ -4048,10 +4046,10 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'Shawn Purvis',
     content1:
-      'Shawn Purvis is corporate vice president and president of Northrop Grumman Enterprise Services, an organization focused on digital transformation, advanced collaboration systems and business applications across Northrop Grumman. It provides all network, cyber security and enterprise application support for domestic and international employees and locations.',
-    content2:
-      'Purvis currently serves on the board of directors for the National Action Council for Minorities in Engineering and the board of directors and executive council for the Northern Virginia Chamber of Commerce. She previously served on the boards of other service organizations including the Northern Virginia Family Services Council, the Boys and Girls Club of Prince William County, Virginia and the board of visitors for George Mason University. In 2014, she received the Managerial Leadership award at the 19th annual Women of Color STEM Conference and she was named to the Black Enterprise, Most Powerful Women in Corporate America in 2019. Additionally, she has been recognized with the WASH 100 award from Executive Mosaic for three consecutive years (2021, 2022, 2023) and was named STEM for Her’s Woman of the Year in 2023.',
-    state: 'VIRGINIA',
+    'Shawn Purvis serves as President and CEO of QinetiQ US, part of QinetiQ Group PLC. In her role, she oversees the complete operations of the business, driving its transformation into a world-class provider of innovative defense and security solutions. With over 25 years of P&L leadership, Shawn has managed billion-dollar organizations across defense, intelligence, and cybersecurity, achieving consistent revenue growth and margin improvement.',
+  content2:
+    'Shawn’s expertise extends to leading the functional integration of a multi-billion-dollar acquisition and delivering technical solutions that support warfighters and intelligence customers globally. She holds a Master of Science in Information Systems and has been recognized as one of the Top 25 Executives to Watch in 2020/2021 by Washington Exec. Additionally, she is a WASH100 winner for both 2021 and 2022, celebrating her impactful contributions to the defense and security industry.',
+  state: 'VIRGINIA',
   },
   {
     title: 'EDUCATION',
@@ -4084,10 +4082,10 @@ const contentLaureat = () => [
     title: 'BANKING',
     subtitle: 'Tyrone Noel',
     content1:
-      'Tyrone Noel is a seasoned business executive who was appointed as the Hampton Roads President of Bank of America in September 2023. He has a robust background in banking and financial services, demonstrating his expertise and leadership in various roles throughout his career.',
-    content2:
-      "Tyrone has been recognized for his exemplary leadership and contributions to the banking industry. His accolades include the Bank of America Global Recognition Award for outstanding performance and contributions to the company's success, the Community Leadership Award for his commitment to community engagement and development, and the Excellence in Financial Services Award for his innovative strategies and leadership in financial services.",
-    state: 'VIRGINIA',
+    'Tyrone Noel is an Executive Director at Merrill Lynch Wealth Management, bringing a wealth of experience and expertise in banking and financial services. Throughout his career, Tyrone has demonstrated exceptional leadership and strategic vision, excelling in various roles within the industry and making a significant impact on his organization and clients.',
+  content2:
+    'Tyrone has received numerous accolades for his outstanding contributions to the financial sector. These include the Bank of America Global Recognition Award for exceptional performance, the Community Leadership Award for his dedication to community engagement and development, and the Excellence in Financial Services Award for his innovative leadership in the industry.',
+  state: 'VIRGINIA',
   },
   {
     title: 'ENTREPRENEUR',
@@ -4138,10 +4136,10 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'DeVone Holt',
     content1:
-      "DeVone Holt is the Chief External Affairs Officer at Goodwill Industries of Kentucky. With over 25 years of experience as a corporate brand manager and public affairs strategist, his previous roles include National Director of Customer Engagement for ResCare Workforce Services and Special Assistant to the Superintendent of Jefferson County Public Schools. Holt has also been influential in economic development, creating significant investments and job opportunities in Louisville's inner-city areas through his business-consulting firm, The Urban Insight Agency.",
-    content2:
-      "Holt's contributions to the community and his professional achievements have been recognized with several accolades. He was inducted into the 'Forty Under 40' Hall of Fame by Louisville Business First in 2021, having originally been named one of the 'Forty Under 40' in 2005. Additionally, he is the author of the best-selling book 'Hip-Hop Slop: The Impact of a Dysfunctional Culture,' which has become a subject of national debate and required reading in many colleges.",
-    state: 'KENTUCKY',
+    'DeVone Holt is the President and CEO of the Muhammad Ali Center, bringing over 25 years of experience as a corporate brand manager and public affairs strategist. His previous roles include National Director of Customer Engagement for ResCare Workforce Services and Special Assistant to the Superintendent of Jefferson County Public Schools. Holt has also been a key figure in economic development, driving investments and creating job opportunities in Louisville’s inner-city areas through his consulting firm, The Urban Insight Agency.',
+  content2:
+    'Holt's achievements have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by Louisville Business First in 2021, following his initial recognition in 2005. He is also the author of the best-selling book "Hip-Hop Slop: The Impact of a Dysfunctional Culture," a nationally debated work that is required reading in many colleges.',
+  state: 'KENTUCKY',
   },
   {
     title: 'LAW',
@@ -4174,10 +4172,10 @@ const contentLaureat = () => [
     title: 'LAW, BUSINESS, POLITIC',
     subtitle: 'Eric H. Kearney',
     content1:
-      "Eric H. Kearney is a prominent attorney, businessman, and politician, currently serving as the President and CEO of the Greater Cincinnati and Northern Kentucky African American Chamber of Commerce. He has had a distinguished career in law, business, and politics. Kearney served as a state senator for Ohio's 9th District from 2005 to 2014, including a term as the Minority Leader of the Ohio Senate. His legislative work focused on issues such as adoption, children’s health, small business development, and pension reform.",
-    content2:
-      "He was also a member of President Barack Obama’s national finance committee during Obama's Senate and presidential campaigns. Kearney has received several accolades throughout his career, including the 'Forty Under 40' Hall of Fame by Cincinnati Business Courier, recognizing his impact and leadership in the region.",
-    state: 'KENTUCKY',
+    'Eric H. Kearney is a prominent attorney, businessman, and politician, serving as the President and CEO of the Greater Cincinnati and Northern Kentucky African American Chamber of Commerce. With a distinguished career in law, business, and politics, Kearney has made a significant impact in the region. As a former Ohio state senator and Senate Minority Leader, he championed causes such as adoption, children’s health, small business development, and pension reform. He also served on President Barack Obama’s national finance committee during Obama’s Senate and presidential campaigns.',
+  content2:
+    'Kearney's contributions have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by the Cincinnati Business Courier and has received honors such as the William Howard Taft Medal for Notable Achievement from the University of Cincinnati College of Law and the Legacy Award from the Cincinnati Chapter of the National Black MBA Association.',
+  state: 'KENTUCKY',
   },
   {
     title: 'SOCIAL JUSTICE',
@@ -4228,18 +4226,18 @@ const contentLaureat = () => [
     title: 'COMMUNITY DEVELOPMENT',
     subtitle: 'LaJuana Bradford',
     content1:
-      'LaJuana Bradford is the Director of Corporate Social Responsibility at Regions Bank, where she oversees community reinvestment and development initiatives. With a career spanning over 30 years in the financial services industry, Bradford has held various roles in community affairs, retail banking, and project management. She plays a pivotal role in ensuring compliance with the Community Reinvestment Act across multiple states, including Alabama, Florida, Georgia, Louisiana, Mississippi, and South Carolina.',
-    content2:
-      "Bradford's dedication to community service is evident through her involvement with numerous organizations. She has served on the boards of the YWCA of Central Alabama, The Women's Fund, the Miles College Board of Trustees, the Red Mountain Theatre Company, the Alabama Humanities Foundation, the Birmingham Civil Rights Institute, and the American Red Cross Alabama region.",
-    state: 'ALABAMA',
+    'LaJuana Bradford is the Senior Vice President and Head of Corporate Philanthropy and Partnerships at Regions Bank. With over 30 years of experience in the financial services industry, Bradford oversees community reinvestment and development initiatives across multiple states, ensuring compliance with the Community Reinvestment Act. Her leadership spans community affairs, retail banking, and project management, driving impactful programs that benefit underserved communities.',
+  content2:
+    'Bradford’s commitment to community service is demonstrated through her roles on the boards of organizations such as the YWCA of Central Alabama, The Women’s Fund, Miles College Board of Trustees, and the Birmingham Civil Rights Institute. Her contributions have earned her recognition as one of Savoy Magazine’s 2018 Most Influential Blacks in Corporate America and an honoree for The Women’s Fund 2018 Smart Party.',
+  state: 'ALABAMA',
   },
   {
     title: 'HEALTH',
     subtitle: 'Bettina Byrd-Giles',
     content1:
-    'Bettina Byrd-Giles is a Consultant at The Byrd\'s Nest and a renowned expert in intercultural communication, implicit bias, and health inequities. She has been pivotal in spearheading initiatives that advance health equity and foster community revitalization, showcasing her dedication to creating impactful change.',
+    'Bettina Byrd-Giles is a Consultant at The Byrd’s Nest and a leading expert in intercultural communication, implicit bias, and health inequities. She has played a pivotal role in promoting health equity and driving community revitalization through her strategic initiatives and advocacy. Bettina’s work focuses on fostering inclusive communities and addressing disparities in health outcomes.',
   content2:
-    'Bettina's work in community development and health equity has garnered significant recognition. She is a recipient of The Robert Wood Johnson Foundation Culture of Health Prize, honoring her efforts to promote equity and well-being. Additionally, she is a proud alumna of the Culture of Health Leaders program, further solidifying her role as a leader in health equity advocacy.',
+    'Her dedication to advancing health and equity has earned her significant accolades, including The Robert Wood Johnson Foundation Culture of Health Prize. Bettina is also a Culture of Health Leader Alumna, recognized for her impactful efforts in leveraging her expertise to create healthier and more equitable communities.',
   state: 'ALABAMA',
   },
   {
@@ -4255,19 +4253,19 @@ const contentLaureat = () => [
     title: 'EDUCATION',
     subtitle: 'Tonya Perry',
     content1:
-      'Dr. Tonya Perry is a distinguished professor at the University of Alabama at Birmingham (UAB), where she also serves as the Executive Director of GEAR UP Alabama and the Red Mountain Writing Project. Throughout her career, Dr. Perry has been dedicated to promoting equity and literacy, working closely with teachers, students, and communities to implement research-based literacy practices.',
-    content2:
-      'Dr. Perry has received numerous accolades for her contributions to education, including the prestigious Advancement of People of Color Leadership Award from the National Council of Teachers of English in 2020. She was also named Alabama State Teacher of the Year in 2000-2001, being the first African American to receive this honor.',
-    state: 'ALABAMA',
+    'Dr. Tonya Perry serves as the Provost and Vice President at Miles College, where she champions equity and literacy through her work with teachers, students, and communities. Her efforts focus on implementing research-based literacy practices that foster educational success and inclusivity. Dr. Perry’s leadership has been instrumental in advancing innovative strategies to support diverse learners and promote systemic equity in education.',
+  content2:
+    'Dr. Perry’s contributions have earned her numerous accolades, including the prestigious Advancement of People of Color Leadership Award from the National Council of Teachers of English in 2020. She was also named Alabama State Teacher of the Year for 2000-2001, the first African American to achieve this distinction. Her national leadership roles include Cultivating New Voices Among Scholars of Color and the National Writing Project, where she continues to shape the future of education.',
+  state: 'ALABAMA',
   },
   {
     title: 'SPORT',
     subtitle: 'Jametta Keralyn White',
     content1:
-      'Jametta Keralyn White is a 2001 graduate of Clemson University, where she earned a degree in marketing. She also holds a Juris Doctor from Loyola University School of Law. White has built a distinguished career in law and management, currently serving as the General Counsel for Banks, Finley, White & Co., and as the Founder and President of Journey Sports Management LLC.',
-    content2:
-      'White has been actively involved in supporting Clemson University, holding positions such as president of the Clemson Black Alumni Council and Tiger Ties Mentor. She also serves on the advocacy and engagement board for the Wilbur O. and Ann Powers College of Business.',
-    state: 'ALABAMA',
+    'Jametta Keralyn White is a distinguished legal and business professional, currently serving as the COO of Banks, Finley, White & Co. and as the Founder and President of Journey Sports Management LLC. A 2001 graduate of Clemson University with a degree in marketing, she also holds a Juris Doctor from Loyola University School of Law. White’s career reflects her dedication to excellence in law, management, and entrepreneurship, along with a commitment to community engagement.',
+  content2:
+    'White’s contributions extend to her alma mater, Clemson University, where she has served as president of the Clemson Black Alumni Council, Tiger Ties Mentor, and a member of the advocacy and engagement board for the Wilbur O. and Ann Powers College of Business. Her accolades include the Minority Business Leader of the Year Award and the Women in Business Award, underscoring her impactful leadership and service to her community and profession.',
+  state: 'ALABAMA',
   },
   {
     title: 'LAW',
