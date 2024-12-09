@@ -2783,7 +2783,7 @@ const contentLaureat = () => [
     content1:
     'Vanessa Hicks-Callaway is a distinguished retired U.S. Army Lieutenant Colonel with 26 years of honorable service, including two combat tours. A native of Victoria, Texas, she earned a bachelor’s degree in political science from Sam Houston State University and a master’s degree in human resource administration from Central Michigan University. Serving primarily as a military intelligence officer, Hicks-Callaway received the Bronze Star Medal for her exemplary contributions during her military career.',
   content2:
-    'After retiring from the military in 2013, Hicks-Callaway continued her public service in roles such as a constituent liaison for a U.S. Congressman and field director for Senator Ted Cruz's re-election campaign. Appointed by Governor Greg Abbott, she served on the Texas Council on Cardiovascular Disease and Stroke. Currently, she assists veterans as a Claims Benefits Advisor for the Texas Veterans Commission. Actively involved in organizations like Habitat for Humanity, the Kiwanis Club, and the American Legion, Hicks-Callaway was honored with the Distinguished Alumni Award from Sam Houston State University for her remarkable service and contributions.',
+    `After retiring from the military in 2013, Hicks-Callaway continued her public service in roles such as a constituent liaison for a U.S. Congressman and field director for Senator Ted Cruz's re-election campaign. Appointed by Governor Greg Abbott, she served on the Texas Council on Cardiovascular Disease and Stroke. Currently, she assists veterans as a Claims Benefits Advisor for the Texas Veterans Commission. Actively involved in organizations like Habitat for Humanity, the Kiwanis Club, and the American Legion, Hicks-Callaway was honored with the Distinguished Alumni Award from Sam Houston State University for her remarkable service and contributions.`,
   state: 'Texas',
   },
   {
@@ -2927,7 +2927,7 @@ const contentLaureat = () => [
     subtitle:
       'Senior Organizing Manager at Forward Montana',
    content1:
-    'Lyla Brown is a recognized leader in diversity, equity, and inclusion, serving as the Senior Organizing Manager at Forward Montana. Previously, she worked as a Graduate Assistant for Education and Mentorship at Montana State University's Diversity and Inclusion Student Commons (DISC). With undergraduate degrees in psychology and sociology from Montana State University, she is currently pursuing a graduate degree in Adult and Higher Education.',
+    `Lyla Brown is a recognized leader in diversity, equity, and inclusion, serving as the Senior Organizing Manager at Forward Montana. Previously, she worked as a Graduate Assistant for Education and Mentorship at Montana State University's Diversity and Inclusion Student Commons (DISC). With undergraduate degrees in psychology and sociology from Montana State University, she is currently pursuing a graduate degree in Adult and Higher Education.`,
   content2:
     'Lyla’s dedication to community building and empowerment has earned her several prestigious recognitions, including being named one of the nine African American Leaders in the Pacific Northwest. In 2018, she co-founded the Black Student Union at MSU, showcasing her commitment to fostering inclusive spaces for underrepresented students.',
   state: 'Montana',
@@ -2936,9 +2936,9 @@ const contentLaureat = () => [
     title: 'Ronald Layton',
     subtitle: 'Vice President of Converged Security Operations',
     content1:
-    'Ronald Layton is the Vice President of Converged Security Operations, bringing over two decades of expertise in cybercrime and critical infrastructure protection. He has held pivotal roles, including Program Director for the Electronic Crimes Task Force initiative and Deputy Director of the Department of Homeland Security's National Cyber Security Division, showcasing his commitment to advancing cybersecurity initiatives and national security.',
+    `Ronald Layton is the Vice President of Converged Security Operations, bringing over two decades of expertise in cybercrime and critical infrastructure protection. He has held pivotal roles, including Program Director for the Electronic Crimes Task Force initiative and Deputy Director of the Department of Homeland Security's National Cyber Security Division, showcasing his commitment to advancing cybersecurity initiatives and national security.`,
   content2:
-    'Layton’s distinguished career has been recognized with several prestigious awards, including the Department of Homeland Security Secretary’s Silver Medal and the United States Secret Service Director's Award for Innovation and Impact, underscoring his contributions to innovation and leadership in the field of cybersecurity.',
+    `Layton’s distinguished career has been recognized with several prestigious awards, including the Department of Homeland Security Secretary’s Silver Medal and the United States Secret Service Director's Award for Innovation and Impact, underscoring his contributions to innovation and leadership in the field of cybersecurity.`,
   state: 'Montana',
   },
   {
@@ -3054,7 +3054,7 @@ const contentLaureat = () => [
     content1:
     'Michael Seibel is a renowned tech leader and partner at Y Combinator, a premier startup accelerator. He co-founded Justin.tv, which evolved into Twitch and was acquired by Amazon for $970 million. Seibel has mentored countless startups and holds investments in several high-profile tech companies. In October 2014, he became Y Combinator’s first African-American partner and later made history as Reddit’s first Black board member after Alexis Ohanian’s resignation.',
   content2:
-    'Seibel’s remarkable contributions have earned him prestigious accolades, including Time 100 Next (2019) for shaping the future, Forbes Midas List (2020) for top tech investors, and San Francisco Business Times' Most Influential Business Person (2021). His influence continues to shape the tech industry, fostering innovation and diversity.',
+    `Seibel’s remarkable contributions have earned him prestigious accolades, including Time 100 Next (2019) for shaping the future, Forbes Midas List (2020) for top tech investors, and San Francisco Business Times' Most Influential Business Person (2021). His influence continues to shape the tech industry, fostering innovation and diversity.`,
   state: 'California',
   },
   {
@@ -4127,9 +4127,9 @@ const contentLaureat = () => [
     title: 'BUSINESS',
     subtitle: 'DeVone Holt',
     content1:
-    'DeVone Holt is the President and CEO of the Muhammad Ali Center, bringing over 25 years of experience as a corporate brand manager and public affairs strategist. His previous roles include National Director of Customer Engagement for ResCare Workforce Services and Special Assistant to the Superintendent of Jefferson County Public Schools. Holt has also been a key figure in economic development, driving investments and creating job opportunities in Louisville’s inner-city areas through his consulting firm, The Urban Insight Agency.',
+    `DeVone Holt is the President and CEO of the Muhammad Ali Center, bringing over 25 years of experience as a corporate brand manager and public affairs strategist. His previous roles include National Director of Customer Engagement for ResCare Workforce Services and Special Assistant to the Superintendent of Jefferson County Public Schools. Holt has also been a key figure in economic development, driving investments and creating job opportunities in Louisville’s inner-city areas through his consulting firm, The Urban Insight Agency.`,
   content2:
-    'Holt's achievements have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by Louisville Business First in 2021, following his initial recognition in 2005. He is also the author of the best-selling book "Hip-Hop Slop: The Impact of a Dysfunctional Culture," a nationally debated work that is required reading in many colleges.',
+    `Holt's achievements have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by Louisville Business First in 2021, following his initial recognition in 2005. He is also the author of the best-selling book "Hip-Hop Slop: The Impact of a Dysfunctional Culture," a nationally debated work that is required reading in many colleges.`,
   state: 'KENTUCKY',
   },
   {
@@ -4165,7 +4165,7 @@ const contentLaureat = () => [
     content1:
     'Eric H. Kearney is a prominent attorney, businessman, and politician, serving as the President and CEO of the Greater Cincinnati and Northern Kentucky African American Chamber of Commerce. With a distinguished career in law, business, and politics, Kearney has made a significant impact in the region. As a former Ohio state senator and Senate Minority Leader, he championed causes such as adoption, children’s health, small business development, and pension reform. He also served on President Barack Obama’s national finance committee during Obama’s Senate and presidential campaigns.',
   content2:
-    'Kearney's contributions have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by the Cincinnati Business Courier and has received honors such as the William Howard Taft Medal for Notable Achievement from the University of Cincinnati College of Law and the Legacy Award from the Cincinnati Chapter of the National Black MBA Association.',
+    `Kearney's contributions have been widely recognized. He was inducted into the "Forty Under 40" Hall of Fame by the Cincinnati Business Courier and has received honors such as the William Howard Taft Medal for Notable Achievement from the University of Cincinnati College of Law and the Legacy Award from the Cincinnati Chapter of the National Black MBA Association.`,
   state: 'KENTUCKY',
   },
   {
