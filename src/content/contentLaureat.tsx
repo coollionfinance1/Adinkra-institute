@@ -2561,15 +2561,6 @@ const contentLaureat = () => [
   state:  'Kansas',
   },
   {
-    title: 'Whitney Wolfe',
-    subtitle: 'Student at Kansas State University',
-    content1:
-      'Whitney Wolfe is a student at Kansas State University, pursuing a Bachelor of Science in Business Administration with a focus on Marketing and a minor in Entrepreneurship at the College of Business. She is dedicated to understanding business management and marketing strategies while fostering her entrepreneurial spirit.',
-    content2:
-      "Whitney has been recognized for her academic excellence, earning semester honors at Kansas State University. Her involvement in various projects and extracurricular activities complements her studies, providing her with practical experience in the business field. Whitney's passion for marketing and entrepreneurship drives her to seek innovative solutions and develop new business ideas.",
-    state: 'Kansas',
-  },
-  {
     title: 'Dasha Kelly Hamilton',
     subtitle: 'Writer and Performance Artist',
     content1:
