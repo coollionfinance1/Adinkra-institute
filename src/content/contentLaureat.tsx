@@ -636,15 +636,6 @@ const contentLaureat = () => [
     state: 'MAINE',
   },
   {
-    title: 'HEALTH / COMMUNITY',
-    subtitle: `Gabrielle "Gaby" Barboza`,
-    content1:
-      'Gabrielle Barboza is a dynamic health and wellness advocate known for her impactful work through her business, Lively and Well. Dedicated to promoting holistic health within her community, Gaby provides personalized health coaching, wellness workshops, and community initiatives aimed at fostering overall well-being. Her approach integrates physical, mental, and emotional health, ensuring a comprehensive path to wellness for her clients.',
-    content2:
-      "Gabrielle Barboza's contributions have been recognized with several prestigious awards. She has been honored with the Maine Community Health Leader Award, acknowledging her significant impact and leadership in promoting health and wellness in the community. Additionally, she received the Wellness Innovator Award from the Maine Health Association, highlighting her innovative approach to health education and advocacy.",
-    state: 'MAINE',
-  },
-  {
     title: 'PSYCHOTHERAPY',
     subtitle: 'Michael Arthur',
     content1:
@@ -2597,15 +2588,6 @@ const contentLaureat = () => [
     state: 'Wisconsin',
   },
   {
-    title: 'Corey Marionneaux',
-    subtitle: "Founder of the Black Men Coalition Foundation Incorporated (BMCF)",
-    content1:
-    'Corey Marionneaux is the founder and leader of the Black Men Coalition Foundation Incorporated (BMCF), an organization dedicated to empowering and advancing Black men through community-driven initiatives. Marionneaux has dedicated his career to creating opportunities and fostering development within underserved communities. His work is deeply focused on real estate development and community engagement.',
-  content2:
-    'In recognition of his leadership, Corey was honored as one of Wisconsin\'s 51 Most Influential Black Leaders in 2023, a testament to his significant impact in the community. Through his efforts, Corey continues to drive positive change and create lasting opportunities for Black men and underserved communities.',
-  state: 'Wisconsin',
-  },
-  {
     title: 'Raynetta “Ray” Hill',
     subtitle:
       'Executive Director of the Historic King Drive Business Improvement District',
@@ -4337,15 +4319,6 @@ const contentLaureat = () => [
       'Donna Moore Wesby is the CEO and co-founder of Umoja Village, a non-profit organization in Aiken County, South Carolina, dedicated to providing resources and support to underserved communities. With a background in journalism and mass communications from the University of South Carolina, Donna has established several businesses and held influential roles in broadcasting, including General Manager at WAAW 94.7 FM.',
     content2:
       "Her work has made her a trusted community voice and a staunch advocate for education and social equity. Donna has received numerous accolades for her leadership and community service, including the 2006 Greater Aiken Chamber of Commerce Small Business of the Year award and being named one of the '12 Black Leaders to Know in South Carolina' for 2024.",
-    state: 'SOUTH CAROLINA',
-  },
-  {
-    title: 'COMMUNITY',
-    subtitle: 'Kerri Forrest',
-    content1:
-      'Kerri Forrest is an Emmy award-winning journalist serving currently as the Vice President of Grantmaking and Community Leadership at Coastal Community Foundation, where she directs significant grantmaking initiatives and fosters community engagement. With a background in journalism and mass communications, Kerri has brought her expertise to various leadership roles, including Senior Program Director for Equity Centered Leadership and Philanthropy at MDC, Inc., and Lowcountry Program Director for the Gaylord and Dorothy Donnelley Foundation.',
-    content2:
-      'Her strategic vision and dedication to equity have significantly impacted the communities she serves, focusing on amplifying the voices and needs of underrepresented groups. Kerri has received numerous accolades for her contributions to philanthropy and community leadership. She is a Liberty Fellow with the Aspen Global Leadership Network and a Riley Fellow of Furman University’s Diversity Leaders Initiative.',
     state: 'SOUTH CAROLINA',
   },
   {
