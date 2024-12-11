@@ -2088,7 +2088,7 @@ const contentLaureat = () => [
     title: 'Kenneth F. Harris',
     subtitle: 'Leader and Scientist',
     content:
-      'Dr. Kenneth F. Harris II is an accomplished leader and scientist, serving as a Senior Project Manager at The Aerospace Corporation. Recognized globally for his contributions to science and technology, he began working on significant projects at NASA Goddard Space Flight Center at just 16, contributing to the development and launch of five satellites. Acknowledged by Forbes as one of the world’s youngest and most impactful individuals in science, Dr. Harris is a dedicated advocate for STEM education and diversity, inspiring the next generation of innovators.',
+      'Dr. Kenneth F. Harris II is an accomplished leader and scientist, serving as a Senior Project Manager at The Aerospace Corporation. Recognized globally for his contributions to science and technology, he began working on significant projects at NASA Goddard Space Flight Center at just 16, contributing to the development and launch of five satellites. Acknowledged by Forbes as one of the world’s youngest and most impactful individuals in science, Dr. Harris is a dedicated advocate for STEM education and early exposure to these fields has made him a prominent figure in promoting diversity and inclusion within the scientific community.',
     state: 'Maryland',
   },
   {
@@ -2853,9 +2853,9 @@ const contentLaureat = () => [
     title: 'Denise Herd',
     subtitle: 'Founder and President of Herd Strategies',
     content1:
-      'Denise Herd is the founder and president of Herd Strategies, a full-service public relations firm headquartered in downtown Indianapolis. With a focus on branding, marketing, and communications, Herd Strategies connects businesses to both underrepresented and mainstream audiences. Denise is also an associate faculty member in the Department of Journalism and Public Relations at Indiana University Indianapolis.',
+      'Denise, founder of Herd Strategies, launched her full-service public relations firm in 2011 after a career in corporate, nonprofit, and agency communications. Known for fostering transparent dialogue and excelling in crisis communications, she empowers organizations to engage stakeholders and build trust through tailored training and strategic initiatives. A certified facilitator for programs like the Indiana Black Expo Business Institute, she supports African American entrepreneurs in critical phases of business ownership. Denise serves on the boards of LISC, the Indianapolis Public Library Foundation, The Villages, and the Hoosier Chapter of the Public Relations Society of America, while presiding over the Indianapolis ',
     content2:
-      "Beyond her professional endeavors, Herd is actively involved in the community, serving on several boards including the Local Initiatives Support Corporation (LISC), the Allen University Foundation, and Summit Indianapolis. She is also the chair of the Indianapolis Chamber Women's Business Advisory Council. Herd’s contributions to the field and her community have been recognized through various awards, including the Public Relations Society of America (PRSA) - East Central District Diamond Award, the PRSA - Hoosier Chapter Pinnacle Award, the Monumental Entrepreneur of the Year Award from the Indy Chamber, the International Association of Business Communicators (IABC) Gold Quill Award, and the Diversity Advocates Award from Brebeuf Jesuit Preparatory School. She also has been named one of the 2019 Women of Influence by the Indianapolis Business Journal.",
+      "Public Relations Society. A graduate of Clark-Atlanta University (BA) and Indiana Wesleyan University (MBA), Denise also teaches as an adjunct professor with IU-Indianapolis' Department of Journalism. Her accolades include the Indianapolis Business Journal Women of Influence, the Peggy LeCompte Award for Outstanding Journalism and Communications, and the 100 Black Men of Indianapolis Four For the Future Award, among others.",
     state: 'Indiana',
   },
   {
