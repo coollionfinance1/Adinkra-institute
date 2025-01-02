@@ -4079,7 +4079,7 @@ const contentLaureat = () => [
     state: 'KENTUCKY',
   },
   {
-    title: 'LAW',
+    title: 'LAW | Former President of the NAACP',
     subtitle: 'Adrian Wallace',
     content1:
       'Adrian Wallace is a prominent community leader and political candidate from Lexington, Kentucky. He has served as the President of the Lexington-Fayette County branch of the National Association for the Advancement of Colored People (NAACP) and on the Lexington-Fayette Urban County Human Rights Commission. Wallace is known for his dedication to social justice, community development, and public service.',
