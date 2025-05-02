@@ -4,6 +4,14 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
+    async rewrites() {
+        return [
+            {
+                source: '/adba/:path*',
+                destination: 'https://adinkra-institute-murex.vercel.app/:path*',
+            },
+        ];
+    },
 };
   
 module.exports = nextConfig;
