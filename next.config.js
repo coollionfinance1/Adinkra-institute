@@ -4,13 +4,19 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    async rewrites() {
+    async redirects() {
         return [
             {
-                source: '/adba/:path*',
-                destination: 'https://adinkra-institute-murex.vercel.app/:path*',
+                source: '/adba',
+                destination: 'https://adinkra-institute-murex.vercel.app',
+                permanent: false,
             },
-        ];
+            {
+                source: '/honorees',
+                destination: 'https://adinkra-institute-murex.vercel.app/honorees',
+                permanent: false,
+            },
+        ]
     },
 };
   
