@@ -1,10 +1,10 @@
 {
-  "name": "my-v0-project",
+  "name": "Adinkra Institute",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build --output dist",
     "start": "next start",
     "lint": "next lint"
   },
