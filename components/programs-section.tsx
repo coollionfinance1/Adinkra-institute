@@ -24,7 +24,7 @@ export function ProgramsSection() {
       <div className="container mx-auto px-4 relative z-10">
         <h2 className="text-2xl md:text-3xl font-bold text-teal-900 mb-8 text-center">Our Programs</h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
           <Card className="bg-white border-1 shadow-md hover:shadow-md transition-shadow flex flex-col h-full">
             <CardHeader className="bg-teal-50 rounded-t-lg pb-4">
               <CardTitle className="text-xl text-teal-900">The Adinkra Fellowship</CardTitle>
@@ -64,6 +64,27 @@ export function ProgramsSection() {
             <CardFooter className="mt-auto">
               <Button asChild className="bg-teal-600 hover:bg-teal-700 text-white w-full">
                 <Link href="/adba">Learn More</Link>
+              </Button>
+            </CardFooter>
+          </Card>
+
+          <Card className="bg-white border-1 shadow-md hover:shadow-md transition-shadow flex flex-col h-full">
+            <CardHeader className="bg-teal-50 rounded-t-lg pb-4">
+              <CardTitle className="text-xl text-teal-900">Adinkra Labs</CardTitle>
+              <CardDescription className="text-teal-700 text-sm">
+                Accelerating Economic Development and Innovation
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="pt-5 flex-grow">
+              <p className="text-gray-700 text-sm text-justify">
+                Adinkra Labs designs forward-thinking programs that drive economic empowerment, entrepreneurship, and
+                innovation within Black communities. By merging cultural insight with strategic action, we catalyze
+                inclusive growth, foster sustainable livelihoods, and unlock new pathways to prosperity.
+              </p>
+            </CardContent>
+            <CardFooter className="mt-auto">
+              <Button asChild className="bg-teal-600 hover:bg-teal-700 text-white w-full">
+                <Link href="">Learn More</Link>
               </Button>
             </CardFooter>
           </Card>
