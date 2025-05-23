@@ -72,7 +72,7 @@ export function ProgramsSection() {
             <CardHeader className="bg-teal-50 rounded-t-lg pb-4">
               <CardTitle className="text-xl text-teal-900">Adinkra Labs</CardTitle>
               <CardDescription className="text-teal-700 text-sm">
-                Accelerating Economic Development and Innovation
+                Accelerating Social and Economic Development and Innovation
               </CardDescription>
             </CardHeader>
             <CardContent className="pt-5 flex-grow">
