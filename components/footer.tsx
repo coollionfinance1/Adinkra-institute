@@ -121,7 +121,18 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-4 pt-3 border-t border-teal-800">
+        {/* <div className="mt-8 pt-6 border-t border-teal-800">
+          <div className="flex flex-col md:flex-row justify-between items-center">
+            <p className="text-sm text-teal-200 text-justify">
+              &copy; {new Date().getFullYear()} Adinkra Alliance Institute. All rights reserved.
+            </p>
+            <p className="mt-4 md:mt-0 italic text-sm text-teal-200 text-justify">
+              "When the roots are deep, there is no reason to fear the wind." – African Proverb
+            </p>
+          </div>
+        </div> */}
+
+        <div className="mt-8 pt-6 border-t border-teal-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-teal-200 text-justify">
               &copy; {new Date().getFullYear()} Adinkra Alliance Institute. All rights reserved.
