@@ -35,6 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             `,
           }}
         />
+        <script data-every-style async defer src="https://embeds.every.org/0.4/button.js"></script>
       </head>
       <body>
         <ThemeProvider attribute="class" defaultTheme="light">

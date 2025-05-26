@@ -55,7 +55,7 @@ export function Navbar() {
         </div>
 
         {/* Desktop Navigation */}
-        <nav className="hidden md:flex space-x-10">
+        <nav className="hidden md:flex space-x-10 items-center">
           {[
             { name: "Home", id: "hero", path: "/" },
             { name: "About", id: "about", path: "/" },
@@ -70,6 +70,16 @@ export function Navbar() {
               {item.name}
             </button>
           ))}
+          
+          {/* Bouton Donate avec lien Every.org */}
+          <a
+            href="https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-teal-600 hover:bg-teal-700 text-white font-medium px-4 py-2 rounded-[10px] transition-colors text-sm uppercase tracking-wide ml-4"
+          >
+            Donate
+          </a>
         </nav>
 
         {/* Mobile Navigation Toggle */}
