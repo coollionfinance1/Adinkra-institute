@@ -74,7 +74,6 @@ export function Navbar() {
           {/* Bouton Donate avec lien Every.org */}
           <a
             href="https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate"
-            target="_blank"
             rel="noopener noreferrer"
             className="bg-teal-600 hover:bg-teal-700 text-white font-medium px-4 py-2 rounded-[10px] transition-colors text-sm uppercase tracking-wide ml-4"
           >

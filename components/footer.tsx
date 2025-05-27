@@ -146,7 +146,6 @@ export function Footer() {
               {/* Bouton Donate ajouté ici */}
               <a
                 href="https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate"
-                target="_blank"
                 rel="noopener noreferrer"
                 className="bg-teal-600 hover:bg-teal-500 text-white font-medium px-4 py-2 rounded-[10px] transition-colors text-sm whitespace-nowrap"
               >
