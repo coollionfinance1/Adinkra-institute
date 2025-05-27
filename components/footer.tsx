@@ -145,12 +145,21 @@ export function Footer() {
               
               {/* Bouton Donate ajouté ici */}
               <a
-                href="https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate"
+                href="#"
+                onClick={(e) => {
+                  e.preventDefault();
+                  window.open(
+                    'https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate',
+                    'donationPopup',
+                    'width=600,height=700,scrollbars=yes,resizable=yes'
+                  );
+                }}
                 rel="noopener noreferrer"
                 className="bg-teal-600 hover:bg-teal-500 text-white font-medium px-4 py-2 rounded-[10px] transition-colors text-sm whitespace-nowrap"
               >
                 Donate Now
               </a>
+
             </div>
           </div>
         </div>
