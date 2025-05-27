@@ -132,7 +132,7 @@ export function Footer() {
           </div>
         </div> */}
 
-        <div className="mt-12 pt-8 border-t border-teal-800">
+        <div className="mt-8 pt-6 border-t border-teal-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-teal-200 text-justify">
               &copy; {new Date().getFullYear()} Adinkra Alliance Institute. All rights reserved.
@@ -146,6 +146,7 @@ export function Footer() {
               {/* Bouton Donate ajouté ici */}
               <a
                 href="https://www.every.org/adinkra-alliance-institute?utm_campaign=donate-link#/donate"
+                
                 rel="noopener noreferrer"
                 className="bg-teal-600 hover:bg-teal-500 text-white font-medium px-4 py-2 rounded-[10px] transition-colors text-sm whitespace-nowrap"
               >
